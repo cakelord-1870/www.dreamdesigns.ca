@@ -1,0 +1,3172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.dreamdesigns.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.dreamdesigns.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.dreamdesigns.ca/collections/sleepwear.atom"/>
+  <title>Dream Designs Co. Ltd. </title>
+  <updated>2020-11-24T08:45:50-08:00</updated>
+  <author>
+    <name>Dream Designs Co. Ltd. </name>
+  </author>
+  <entry>
+    <id>https://www.dreamdesigns.ca/products/4838515015768</id>
+    <published>2020-11-24T08:45:50-08:00</published>
+    <updated>2020-11-24T08:45:50-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dreamdesigns.ca/products/new-limited-edition-prints-organic-cotton-face-mask-winter-2020"/>
+    <title>New: Limited Edition Prints Organic Cotton Face Mask: Winter 2020</title>
+    <s:type>Sleepwear</s:type>
+    <s:vendor>Dream Designs Co. Ltd. (Tax ID: 133893164)</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0389/5989/products/Winter2020MaskNotext.jpg?v=1606351779"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dream Designs Co. Ltd. (Tax ID: 133893164)<br>
+        <strong>Type: </strong>Sleepwear<br>
+        <strong>Price: </strong>
+            15.00 - 24.00
+            <a href="https://www.dreamdesigns.ca/products/new-limited-edition-prints-organic-cotton-face-mask-winter-2020">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Limited prints organic Cotton Face Mask made in Vancouver, Canada from two layers of tightly woven 100% GOTS/Oeko-Tex certified organic cotton sateen (280-300 threadcount). </p>
+<blockquote>
+<p><strong>We will donate $5 to <a href="https://www.seniorsservicessociety.ca/our-services/homeless-outreach-services" target="_blank">Seniors Services Society</a> for each "Winter 2020" mask sold.</strong></p>
+</blockquote>
+<p>Each mask is individually cut by hand and has unique pattern placement. You can choose from Hope, Love, and Joy masks, and add an additional two-layer organic cotton sateen filter to form a 4-layer face mask.   </p>
+<p>Top opening filter pocket. Optional organic cotton sateen filter special sized for the limited edition masks. Convenient elastic ear loops with pain-free headband, adjustable to fit different face shapes and sizes. The headband also holds the mask around your neck when you don't need to wear it. Sew-in nose seal. Breathable. Washable. Reusable. Unisex.</p>
+<meta charset="utf-8">
+<p><span>To adjust the size of your mask, pull the knots </span><span>on</span><span> the elastic earloops out of the side channels, untie and then re-tie them so the mask fits snugly on the face, but not too tight that it pulls on the ears. </span><span>Wash by hand with hot water and regular soap to sterilize and hang to dry. Do not microwave. </span></p>
+<p>This mask has not been tested against pathogens, including COVID-19. Please use at your own risk. To stop the spread of COVID-19, please stay home and practise social distancing first and foremost. This mask is not sufficient for people with a weakened immune system. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4838515015768</id>
+      <title>Adult / Hope Mask</title>
+      <s:price currency="CAD">24.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4838515015768</id>
+      <title>Adult / Love Mask</title>
+      <s:price currency="CAD">24.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4838515015768</id>
+      <title>Adult / Joy Mask</title>
+      <s:price currency="CAD">24.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4838515015768</id>
+      <title>Adult / Organic Cotton Sateen Filtration Liner</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4838515015768</id>
+      <title>Children (age 6 and up) / Joy Mask</title>
+      <s:price currency="CAD">24.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4838515015768</id>
+      <title>Children (age 6 and up) / Hope Mask</title>
+      <s:price currency="CAD">24.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4838515015768</id>
+      <title>Children (age 6 and up) / Love Mask</title>
+      <s:price currency="CAD">24.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4838515015768</id>
+      <title>Children (age 6 and up) / Organic Cotton Sateen Filtration Liner</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.dreamdesigns.ca/products/4759628611672</id>
+    <published>2020-09-18T15:03:38-07:00</published>
+    <updated>2020-09-18T15:03:38-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dreamdesigns.ca/products/limited-edition-prints-organic-cotton-face-mask-autumn-2020"/>
+    <title>Limited Edition Prints Organic Cotton Face Mask: Autumn 2020</title>
+    <s:type>Sleepwear</s:type>
+    <s:vendor>Dream Designs Co. Ltd. (Tax ID: 133893164)</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0389/5989/products/Autumn2020masks2.jpg?v=1600486614"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dream Designs Co. Ltd. (Tax ID: 133893164)<br>
+        <strong>Type: </strong>Sleepwear<br>
+        <strong>Price: </strong>
+            15.00 - 24.00
+            <a href="https://www.dreamdesigns.ca/products/limited-edition-prints-organic-cotton-face-mask-autumn-2020">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Limited prints organic Cotton Face Mask made in Vancouver, Canada from two layers of tightly woven 100% GOTS/Oeko-Tex certified organic cotton sateen. </p>
+<blockquote>
+<p><strong>We will donate $5 to <a href="https://www.doctorswithoutborders.org/">Doctors without Borders</a> for each "Autumn 2020" mask sold.</strong></p>
+</blockquote>
+<p>Each mask is individually cut by hand and has unique pattern placement. You can choose from Acceptance, Peace, and Continuum.  </p>
+<p>Top opening filter pocket. Optional organic cotton sateen filter special sized for the limited edition masks. Convenient elastic ear loops with pain-free headband, adjustable to fit different face shapes and sizes. The headband also holds the mask around your neck when you don't need to wear it. Sew-in nose seal. Breathable. Washable. Reusable. Unisex.</p>
+<meta charset="utf-8">
+<p><span>To adjust the size of your mask, pull the knots </span><span>on</span><span> the elastic earloops out of the side channels, untie and then re-tie them so the mask fits snugly on the face, but not too tight that it pulls on the ears. </span><span>Wash by hand with hot water and regular soap to sterilize and hang to dry. Do not microwave. </span></p>
+<p>This mask has not been tested against pathogens, including COVID-19. Please use at your own risk. To stop the spread of COVID-19, please stay home and practise social distancing first and foremost. This mask is not sufficient for people with a weakened immune system. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4759628611672</id>
+      <title>Adult / Acceptance Mask</title>
+      <s:price currency="CAD">24.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4759628611672</id>
+      <title>Adult / Peace Mask</title>
+      <s:price currency="CAD">24.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4759628611672</id>
+      <title>Adult / Continuum Mask</title>
+      <s:price currency="CAD">24.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4759628611672</id>
+      <title>Adult / Organic Cotton Sateen Filtration Liner</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4759628611672</id>
+      <title>Children (age 6 and up) / Acceptance Mask</title>
+      <s:price currency="CAD">24.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4759628611672</id>
+      <title>Children (age 6 and up) / Peace Mask</title>
+      <s:price currency="CAD">24.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4759628611672</id>
+      <title>Children (age 6 and up) / Continuum Mask</title>
+      <s:price currency="CAD">24.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4759628611672</id>
+      <title>Children (age 6 and up) / Organic Cotton Sateen Filtration Liner</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.dreamdesigns.ca/products/4690456412248</id>
+    <published>2020-07-21T14:22:29-07:00</published>
+    <updated>2020-07-21T14:22:29-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dreamdesigns.ca/products/contouring-organic-cotton-face-mask-filter-pocket"/>
+    <title>Contouring Organic Cotton Face Mask with Filter Pocket</title>
+    <s:type>Sleepwear</s:type>
+    <s:vendor>Dream Designs Co. Ltd. (Tax ID: 133893164)</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0389/5989/products/FilterPocket_4a68031c-67aa-4201-9c9a-d8a36f9aa7f2.jpg?v=1595364926"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dream Designs Co. Ltd. (Tax ID: 133893164)<br>
+        <strong>Type: </strong>Sleepwear<br>
+        <strong>Price: </strong>
+            16.00 - 18.00
+            <a href="https://www.dreamdesigns.ca/products/contouring-organic-cotton-face-mask-filter-pocket">(48 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p>Organic Cotton Face Mask made in Vancouver, Canada from two layers of tightly woven 100% certified organic cotton sateen bed linen fabric. Contouring fit. Filter pocket (not necessary for our filtration liners, which are shaped to stay up in between the mask and the face). Sewn-in nose seal. Painfree fabric tie ear loops or wear it two ways with elastic earloops and fabric headband, which also keeps the mask around the neck when not in use. Breathable. Washable. Reusable. Unisex. Child size is for 6 years or older.</p>
+<meta charset="utf-8">
+<p>We also offer<span> </span>three other styles of organic cotton face masks:<span> </span><a href="https://www.dreamdesigns.ca/collections/sleepwear/products/organic-cotton-face-mask">Full Coverage Masks</a>, <a href="https://www.dreamdesigns.ca/collections/sleepwear/products/organic-cotton-face-mask-sleeve-style">Sleeve Pocket Masks</a>, <a href="https://www.dreamdesigns.ca/collections/limited-edition-prints-organic-cotton-masks">Limited Edition Prints Masks</a>, and <a href="https://www.dreamdesigns.ca/collections/sleepwear/products/silk-face-mask-liner">Filtration Liners</a>.</p>
+<p><strong>This mask is not medical grade and in</strong><strong>sufficient for people with a weakened immune system. It has not been tested against pathogens, including COVID-19. Please use at your own risk.<span> </span></strong> To stop the spread of COVID-19, please practise social distancing first and foremost.</p>
+<meta charset="utf-8"><meta charset="utf-8">
+<p><span>Your mask should fit snugly on the face, but not too tight that it pulls on the ears. All of our face masks can fit different face shapes and sizes by adjusting the earloops. For fabric earloops, simply untie and then re-tie the knots. For elastic earloops, pull the knots on the elastic earloops out of the side channels, untie and then re-tie them.  </span></p>
+<p>Wash by hand with hot water and regular soap to sterilize and hang to dry. Do not microwave. Minimal shrinkage (5% or less) and colour bleeding are normal in the first wash.  <br></p>
+<p><span>Before putting on your mask, sanitize your hands first. Hold the mask flat against your nose and mouth, and put on the earloops. If necessary, adjust the earloops to ensure a tight and comfortable fit. Bend the nose seal to close the gap between your nose bridge and the mask. Wash your hands immediately after taking the mask off. </span></p>
+<p><iframe width="560" height="315" src="https://www.youtube.com/embed/QTymoljv128" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></p>
+<p>We offer bulk discounts to organizations seeking 50 or more masks.</p>
+<ul>
+<li>50 or more - 10% off and free shipping (discount code "Mask50")</li>
+<li>100 or more - 15% off and free shipping (discount code "Mask100")</li>
+<li>200 or more - 20% off and free shipping (discount code "Mask200")</li>
+</ul>
+<meta charset="utf-8">
+<p>We started designing and making masks in March in response to the severe PPE shortage and have supplied masks to healthcare professionals, logistics operators, grocery store workers, and other frontline essential services workers who keep our society running in the current pandemic. Our story was featured in the Global News. </p>
+<p><iframe src="https://globalnews.ca/video/embed/6836490/" width="670" height="372" frameborder="0" allowfullscreen="" scrolling="no" style="font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 1.4em;"></iframe><br></p>
+<meta charset="utf-8"><meta charset="utf-8">
+<p><br></p>
+<ul></ul>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4690456412248</id>
+      <title>Adult / Green / Elastic with headband</title>
+      <s:price currency="CAD">16.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4690456412248</id>
+      <title>Adult / Green / Fabric ties</title>
+      <s:price currency="CAD">18.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4690456412248</id>
+      <title>Adult / Pink / Elastic with headband</title>
+      <s:price currency="CAD">16.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4690456412248</id>
+      <title>Adult / Pink / Fabric ties</title>
+      <s:price currency="CAD">18.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4690456412248</id>
+      <title>Adult / Dew / Elastic with headband</title>
+      <s:price currency="CAD">16.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4690456412248</id>
+      <title>Adult / Dew / Fabric ties</title>
+      <s:price currency="CAD">18.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4690456412248</id>
+      <title>Adult / Lilac / Elastic with headband</title>
+      <s:price currency="CAD">16.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4690456412248</id>
+      <title>Adult / Lilac / Fabric ties</title>
+      <s:price currency="CAD">18.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4690456412248</id>
+      <title>Adult / Seaglass / Elastic with headband</title>
+      <s:price currency="CAD">16.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4690456412248</id>
+      <title>Adult / Seaglass / Fabric ties</title>
+      <s:price currency="CAD">18.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4690456412248</id>
+      <title>Adult / Violet / Elastic with headband</title>
+      <s:price currency="CAD">16.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4690456412248</id>
+      <title>Adult / Violet / Fabric ties</title>
+      <s:price currency="CAD">18.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4690456412248</id>
+      <title>Adult / Blue / Elastic with headband</title>
+      <s:price currency="CAD">16.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4690456412248</id>
+      <title>Adult / Blue / Fabric ties</title>
+      <s:price currency="CAD">18.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4690456412248</id>
+      <title>Adult / Navy / Elastic with headband</title>
+      <s:price currency="CAD">16.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4690456412248</id>
+      <title>Adult / Navy / Fabric ties</title>
+      <s:price currency="CAD">18.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4690456412248</id>
+      <title>Adult / Grey / Elastic with headband</title>
+      <s:price currency="CAD">16.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4690456412248</id>
+      <title>Adult / Grey / Fabric ties</title>
+      <s:price currency="CAD">18.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4690456412248</id>
+      <title>Adult / Taupe / Elastic with headband</title>
+      <s:price currency="CAD">16.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4690456412248</id>
+      <title>Adult / Taupe / Fabric ties</title>
+      <s:price currency="CAD">18.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4690456412248</id>
+      <title>Adult / Brown / Elastic with headband</title>
+      <s:price currency="CAD">16.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4690456412248</id>
+      <title>Adult / Brown / Fabric ties</title>
+      <s:price currency="CAD">18.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4690456412248</id>
+      <title>Adult / Black / Elastic with headband</title>
+      <s:price currency="CAD">16.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4690456412248</id>
+      <title>Adult / Black / Fabric ties</title>
+      <s:price currency="CAD">18.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4690456412248</id>
+      <title>Child / Green / Elastic with headband</title>
+      <s:price currency="CAD">16.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4690456412248</id>
+      <title>Child / Green / Fabric ties</title>
+      <s:price currency="CAD">18.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4690456412248</id>
+      <title>Child / Pink / Elastic with headband</title>
+      <s:price currency="CAD">16.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4690456412248</id>
+      <title>Child / Pink / Fabric ties</title>
+      <s:price currency="CAD">18.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4690456412248</id>
+      <title>Child / Dew / Elastic with headband</title>
+      <s:price currency="CAD">16.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4690456412248</id>
+      <title>Child / Dew / Fabric ties</title>
+      <s:price currency="CAD">18.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4690456412248</id>
+      <title>Child / Lilac / Elastic with headband</title>
+      <s:price currency="CAD">16.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4690456412248</id>
+      <title>Child / Lilac / Fabric ties</title>
+      <s:price currency="CAD">18.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4690456412248</id>
+      <title>Child / Seaglass / Elastic with headband</title>
+      <s:price currency="CAD">16.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4690456412248</id>
+      <title>Child / Seaglass / Fabric ties</title>
+      <s:price currency="CAD">18.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4690456412248</id>
+      <title>Child / Violet / Elastic with headband</title>
+      <s:price currency="CAD">16.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4690456412248</id>
+      <title>Child / Violet / Fabric ties</title>
+      <s:price currency="CAD">18.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4690456412248</id>
+      <title>Child / Blue / Elastic with headband</title>
+      <s:price currency="CAD">16.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4690456412248</id>
+      <title>Child / Blue / Fabric ties</title>
+      <s:price currency="CAD">18.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4690456412248</id>
+      <title>Child / Navy / Elastic with headband</title>
+      <s:price currency="CAD">16.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4690456412248</id>
+      <title>Child / Navy / Fabric ties</title>
+      <s:price currency="CAD">18.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4690456412248</id>
+      <title>Child / Grey / Elastic with headband</title>
+      <s:price currency="CAD">16.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4690456412248</id>
+      <title>Child / Grey / Fabric ties</title>
+      <s:price currency="CAD">18.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4690456412248</id>
+      <title>Child / Taupe / Elastic with headband</title>
+      <s:price currency="CAD">16.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4690456412248</id>
+      <title>Child / Taupe / Fabric ties</title>
+      <s:price currency="CAD">18.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4690456412248</id>
+      <title>Child / Brown / Elastic with headband</title>
+      <s:price currency="CAD">16.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4690456412248</id>
+      <title>Child / Brown / Fabric ties</title>
+      <s:price currency="CAD">18.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4690456412248</id>
+      <title>Child / Black / Elastic with headband</title>
+      <s:price currency="CAD">16.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4690456412248</id>
+      <title>Child / Black / Fabric ties</title>
+      <s:price currency="CAD">18.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.dreamdesigns.ca/products/4671308824664</id>
+    <published>2020-06-30T13:40:49-07:00</published>
+    <updated>2020-06-30T13:40:49-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dreamdesigns.ca/products/limited-edition-prints-organic-cotton-face-mask-vine"/>
+    <title>Limited Edition Prints Organic Cotton Face Mask: Vine</title>
+    <s:type>Sleepwear</s:type>
+    <s:vendor>Dream Designs Co. Ltd. (Tax ID: 133893164)</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0389/5989/products/image_f7a7c6a6-f36f-46d4-b116-27b9a5df1e3b.jpg?v=1593549722"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dream Designs Co. Ltd. (Tax ID: 133893164)<br>
+        <strong>Type: </strong>Sleepwear<br>
+        <strong>Price: </strong>
+            15.00 - 24.00
+            <a href="https://www.dreamdesigns.ca/products/limited-edition-prints-organic-cotton-face-mask-vine">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Limited prints organic Cotton Face Mask made in Vancouver, Canada from two layers of tightly woven 100% GOTS/Oeko-Tex certified organic cotton sateen. <br></p>
+<blockquote>
+<p><strong>We will donate $5 to <a href="https://foodbank.bc.ca">The Greater Vancouver Food Bank</a> for each "Vine" mask sold.</strong></p>
+</blockquote>
+<p>Each mask is individually cut by hand and has different pattern placement. </p>
+<p>Top opening filter pocket. Optional organic cotton sateen filter <span>special sized for the </span><span>limited edition masks</span>. Convenient elastic ear loops with pain-free headband, adjustable to fit different face shapes and sizes. The headband also holds the mask around your neck when you don't need to wear it. Sew-in nose seal. Breathable. Washable. Reusable. Unisex. </p>
+<meta charset="utf-8">
+<p><span>To adjust the size of your mask, pull the knots </span><span>on</span><span> the elastic earloops out of the side channels, untie and then re-tie them so the mask fits snugly on the face, but not too tight that it pulls on the ears. </span><span>Wash by hand with hot water and regular soap to sterilize and hang to dry. Do not microwave. </span><br></p>
+<p>This mask has not been tested against pathogens, including COVID-19. Please use at your own risk. To stop the spread of COVID-19, please stay home and practise social distancing first and foremost. This mask is not sufficient for people with a weakened immune system. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4671308824664</id>
+      <title>Adult / Vine Mask</title>
+      <s:price currency="CAD">24.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4671308824664</id>
+      <title>Adult / Organic Sateen Filtration Filter</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4671308824664</id>
+      <title>Children (age 6 and up) / Vine Mask</title>
+      <s:price currency="CAD">24.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4671308824664</id>
+      <title>Children (age 6 and up) / Organic Sateen Filtration Filter</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.dreamdesigns.ca/products/4662302376024</id>
+    <published>2020-06-25T14:37:08-07:00</published>
+    <updated>2020-06-25T14:37:08-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dreamdesigns.ca/products/limited-edition-prints-organic-cotton-face-mask-forest-annimals"/>
+    <title>Limited Edition Prints Organic Cotton Face Mask: Forest Annimals</title>
+    <s:type>Sleepwear</s:type>
+    <s:vendor>Dream Designs Co. Ltd. (Tax ID: 133893164)</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0389/5989/products/image_bf002ab0-51ca-4a53-8859-d59e4bb00bd2.jpg?v=1593120465"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dream Designs Co. Ltd. (Tax ID: 133893164)<br>
+        <strong>Type: </strong>Sleepwear<br>
+        <strong>Price: </strong>
+            15.00 - 24.00
+            <a href="https://www.dreamdesigns.ca/products/limited-edition-prints-organic-cotton-face-mask-forest-annimals">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Limited prints organic Cotton Face Mask made in Vancouver, Canada from two layers of tightly woven 100% GOTS/Oeko-Tex certified organic cotton sateen. <br></p>
+<blockquote>
+<p><strong>We will donate $5 to the <a href="https://www.ancientforestalliance.org">Ancient Forest Alliance</a> for each "Forest Animals" mask sold.</strong></p>
+</blockquote>
+<p>Each mask is individually cut by hand and has different pattern placement. </p>
+<p>Top opening filter pocket. Optional organic cotton sateen filter <span>special sized for the </span><span>limited edition masks</span>. Convenient elastic ear loops with pain-free headband, adjustable to fit different face shapes and sizes. The headband also holds the mask around your neck when you don't need to wear it. Sew-in nose seal. Breathable. Washable. Reusable. Unisex. </p>
+<meta charset="utf-8">
+<p><span>To adjust the size of your mask, pull the knots </span><span>on</span><span> the elastic earloops out of the side channels, untie and then re-tie them so the mask fits snugly on the face, but not too tight that it pulls on the ears. </span>Wash by hand with hot water and regular soap to sterilize and hang to dry. Do not microwave. </p>
+<p>This mask has not been tested against pathogens, including COVID-19. Please use at your own risk. To stop the spread of COVID-19, please stay home and practise social distancing first and foremost. This mask is not sufficient for people with a weakened immune system. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4662302376024</id>
+      <title>Adult / Forest Animal Mask</title>
+      <s:price currency="CAD">24.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4662302376024</id>
+      <title>Adult / Organic Sateen Filtration Filter</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4662302376024</id>
+      <title>Children (age 6 and up) / Forest Animal Mask</title>
+      <s:price currency="CAD">24.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4662302376024</id>
+      <title>Children (age 6 and up) / Organic Sateen Filtration Filter</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.dreamdesigns.ca/products/4662294085720</id>
+    <published>2020-06-25T14:30:24-07:00</published>
+    <updated>2020-06-25T14:30:24-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dreamdesigns.ca/products/limited-edition-prints-organic-cotton-face-mask-intertwine"/>
+    <title>Limited Edition Prints Organic Cotton Face Mask: Intertwine</title>
+    <s:type>Sleepwear</s:type>
+    <s:vendor>Dream Designs Co. Ltd. (Tax ID: 133893164)</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0389/5989/products/image_bd9ee815-7163-420b-bebd-afbc9b77dbc1.jpg?v=1593120441"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dream Designs Co. Ltd. (Tax ID: 133893164)<br>
+        <strong>Type: </strong>Sleepwear<br>
+        <strong>Price: </strong>
+            15.00 - 24.00
+            <a href="https://www.dreamdesigns.ca/products/limited-edition-prints-organic-cotton-face-mask-intertwine">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Limited prints organic Cotton Face Mask made in Vancouver, Canada from two layers of tightly woven 100% GOTS/Oeko-Tex certified organic cotton sateen. <br></p>
+<blockquote>
+<p><strong>We will donate $5 to <a href="https://foodbank.bc.ca">The Greater Vancouver Food Bank</a> for each "Intertwine" mask sold.</strong></p>
+</blockquote>
+<p>Each mask is individually cut by hand and has different pattern placement. </p>
+<p>Top opening filter pocket. Optional organic cotton sateen filter <span>special sized for the </span><span>limited edition masks</span>. Convenient elastic ear loops with pain-free headband, adjustable to fit different face shapes and sizes. The headband also holds the mask around your neck when you don't need to wear it. Sew-in nose seal. Breathable. Washable. Reusable. Unisex. </p>
+<meta charset="utf-8">
+<p><span>To adjust the size of your mask, pull the knots </span><span>on</span><span> the elastic earloops out of the side channels, untie and then re-tie them so the mask fits snugly on the face, but not too tight that it pulls on the ears. </span><span>Wash by hand with hot water and regular soap to sterilize and hang to dry. Do not microwave. </span><br></p>
+<p>This mask has not been tested against pathogens, including COVID-19. Please use at your own risk. To stop the spread of COVID-19, please stay home and practise social distancing first and foremost. This mask is not sufficient for people with a weakened immune system. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4662294085720</id>
+      <title>Adult / Intertwine Mask</title>
+      <s:price currency="CAD">24.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4662294085720</id>
+      <title>Adult / Organic Sateen Filtration Filter</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4662294085720</id>
+      <title>Children (age 6 and up) / Intertwine Mask</title>
+      <s:price currency="CAD">24.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4662294085720</id>
+      <title>Children (age 6 and up) / Organic Sateen Filtration Filter</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.dreamdesigns.ca/products/4647536722008</id>
+    <published>2020-06-10T15:50:26-07:00</published>
+    <updated>2020-06-10T15:50:26-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dreamdesigns.ca/products/organic-cotton-face-mask-limited-prints-garden-cats"/>
+    <title>Limited Edition Prints Organic Cotton Face Mask: Garden Cats</title>
+    <s:type>Sleepwear</s:type>
+    <s:vendor>Dream Designs Co. Ltd. (Tax ID: 133893164)</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0389/5989/products/Catsmask.jpg?v=1600464868"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dream Designs Co. Ltd. (Tax ID: 133893164)<br>
+        <strong>Type: </strong>Sleepwear<br>
+        <strong>Price: </strong>
+            15.00 - 24.00
+            <a href="https://www.dreamdesigns.ca/products/organic-cotton-face-mask-limited-prints-garden-cats">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Limited prints organic Cotton Face Mask made in Vancouver, Canada from two layers of tightly woven 100% GOTS/Oeko-Tex certified organic cotton sateen. Check out our other <a href="https://www.dreamdesigns.ca/collections/non-medical-organic-cotton-face-masks">organic cotton face masks</a>.<br></p>
+<blockquote>
+<p><strong>We will donate $5 to Vancouver's <a href="https://dewc.ca" target="_blank">Downtown Eastside Women’s Centre</a> for each "Garden Cats" mask sold.</strong></p>
+</blockquote>
+<p>Each mask is individually cut by hand and has a different pattern placement. We will place at least one whole cat on each mask in a central location. You can choose from Standing Cat, Sitting Cat, and Lying Cat.  </p>
+<p>Top opening filter pocket. Optional organic cotton sateen filter special sized for the limited edition masks. Convenient elastic ear loops with pain-free headband, adjustable to fit different face shapes and sizes. The headband also holds the mask around your neck when you don't need to wear it. Sew-in nose seal. Breathable. Washable. Reusable. Unisex.</p>
+<meta charset="utf-8">
+<p><span>To adjust the size of your mask, pull the knots </span><span>on</span><span> the elastic earloops out of the side channels, untie and then re-tie them so the mask fits snugly on the face, but not too tight that it pulls on the ears. </span><span>Wash by hand with hot water and regular soap to sterilize and hang to dry. Do not microwave. </span></p>
+<p>This mask has not been tested against pathogens, including COVID-19. Please use at your own risk. To stop the spread of COVID-19, please stay home and practise social distancing first and foremost. This mask is not sufficient for people with a weakened immune system. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4647536722008</id>
+      <title>Adult / Sitting Cat Mask</title>
+      <s:price currency="CAD">24.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4647536722008</id>
+      <title>Adult / Standing Cat Mask</title>
+      <s:price currency="CAD">24.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4647536722008</id>
+      <title>Adult / Lying Cat Mask</title>
+      <s:price currency="CAD">24.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4647536722008</id>
+      <title>Adult / Organic Cotton Sateen Filtration Liner</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4647536722008</id>
+      <title>Children (age 6 and up) / Sitting Cat Mask</title>
+      <s:price currency="CAD">24.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4647536722008</id>
+      <title>Children (age 6 and up) / Standing Cat Mask</title>
+      <s:price currency="CAD">24.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4647536722008</id>
+      <title>Children (age 6 and up) / Lying Cat Mask</title>
+      <s:price currency="CAD">24.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4647536722008</id>
+      <title>Children (age 6 and up) / Organic Cotton Sateen Filtration Liner</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.dreamdesigns.ca/products/265487909</id>
+    <published>2020-05-28T13:56:03-07:00</published>
+    <updated>2020-05-28T13:56:03-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dreamdesigns.ca/products/organic-cotton-flannel-night-gown"/>
+    <title>Organic Cotton Flannel Night Gown</title>
+    <s:type>Sleepwear</s:type>
+    <s:vendor>Dream Designs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0389/5989/products/Organic_flannel_nightgown.jpg?v=1571438936"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dream Designs<br>
+        <strong>Type: </strong>Sleepwear<br>
+        <strong>Price: </strong>
+            119.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our traditional styled nightgown is made from organic cotton flannel. Soft, warm, and cozy. Contrast piping details bring style to this classic. Well made in Canada.</p>
+<h2>Features</h2>
+<ul>
+<li>Made from 100% SKAL certified organic cotton</li>
+<li>Well made in Canada</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265487909</id>
+      <title>S / Natural</title>
+      <s:price currency="CAD">119.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265487909</id>
+      <title>M / Natural</title>
+      <s:price currency="CAD">119.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265487909</id>
+      <title>L / Natural</title>
+      <s:price currency="CAD">119.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265487909</id>
+      <title>XL / Natural</title>
+      <s:price currency="CAD">119.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.dreamdesigns.ca/products/4603074478168</id>
+    <published>2020-05-07T14:10:25-07:00</published>
+    <updated>2020-05-07T14:10:25-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dreamdesigns.ca/products/contouring-organic-cotton-face-mask-corded-elastic-earloops"/>
+    <title>Contouring Organic Cotton Face Mask - Elastic Earloops/Headband</title>
+    <s:type>Sleepwear</s:type>
+    <s:vendor>Dream Designs Co. Ltd. (Tax ID: 133893164)</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0389/5989/products/IMG_96122_c59b10fc-38cb-42ae-b7e7-915305aec699.jpg?v=1594671356"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dream Designs Co. Ltd. (Tax ID: 133893164)<br>
+        <strong>Type: </strong>Sleepwear<br>
+        <strong>Price: </strong>
+            13.00 - 14.00
+            <a href="https://www.dreamdesigns.ca/products/contouring-organic-cotton-face-mask-corded-elastic-earloops">(48 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p>Organic Cotton Face Mask made in Vancouver, Canada from two layers of tightly woven 100% certified organic cotton sateen bed linen fabric. Contouring fit. Optional nose seal. Wear it two ways with elastic ear loops, adjustable to fit different face shapes and sizes, or fabric headband, which also holds the mask around your neck when you don't need to wear it. Breathable. Washable. Reusable. Unisex. Child size is for 6 years or older.</p>
+<meta charset="utf-8">
+<p>The Contouring Masks is also available with <a href="https://www.dreamdesigns.ca/products/certified-organic-cotton-face-mask">Fabric Tie Earloops</a>, which are softer and more comfortable on the ears, and <a href="https://www.dreamdesigns.ca/products/contouring-organic-cotton-face-mask-filter-pocket">Filter Pockets</a>. We also offer<span> three</span> other styles of organic cotton face masks:<span> </span><a href="https://www.dreamdesigns.ca/collections/sleepwear/products/organic-cotton-face-mask">Full Coverage Masks</a>,<span> </span><a href="https://www.dreamdesigns.ca/collections/sleepwear/products/organic-cotton-face-mask-sleeve-style">Sleeve Pocket Masks</a>, and <a href="https://www.dreamdesigns.ca/collections/limited-edition-prints-organic-cotton-masks">Limited Edition Prints Masks</a>, as well as <a href="https://j0xgqn3wna7evb4f-3895989.shopifypreview.com/collections/sleepwear/products/silk-face-mask-liner">Filtration Liners</a>. </p>
+<p><strong>This mask is not medical grade and in</strong><strong>sufficient for people with a weakened immune system. It has not been tested against pathogens, including COVID-19. Please use at your own risk.<span> </span></strong> To stop the spread of COVID-19, please practise social distancing first and foremost.</p>
+<meta charset="utf-8">
+<p><span>To adjust the size of your mask, pull the knots on the elastic earloops out of the side channels, untie and then re-tie them so the mask fits snugly on the face, but not too tight that it pulls on the ears. Wash by hand with hot water and regular soap to sterilize and hang to dry. Do not microwave. Minimal shrinkage (5% or less) and colour bleeding are normal in the first wash.  </span></p>
+<p><span>Before putting on your mask, sanitize your hands first. Hold the mask flat against your nose and mouth, and put on the earloops. If necessary, adjust the earloops to ensure a tight and comfortable fit. If your mask has a nose seal, bend it to close the gap between your nose bridge and the mask. Wash your hands immediately after taking the mask off. </span></p>
+<p><iframe width="560" height="315" src="https://www.youtube.com/embed/QTymoljv128" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></p>
+<p>We offer bulk discounts to organizations seeking 50 or more masks.</p>
+<ul>
+<li>50 or more - 10% off and free shipping (discount code "Mask50")</li>
+<li>100 or more - 15% off and free shipping (discount code "Mask100")</li>
+<li>200 or more - 20% off and free shipping (discount code "Mask200")</li>
+</ul>
+<meta charset="utf-8">
+<p>We started designing and making masks in March in response to the severe PPE shortage and have supplied masks to healthcare professionals, logistics operators, grocery store workers, and other frontline essential services workers who keep our society running in the current pandemic. Our story was featured in the Global News. </p>
+<p><iframe src="https://globalnews.ca/video/embed/6836490/" width="670" height="372" frameborder="0" allowfullscreen="" scrolling="no" style="font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 1.4em;"></iframe><br></p>
+<meta charset="utf-8"><meta charset="utf-8">
+<p><br></p>
+<ul></ul>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4603074478168</id>
+      <title>Adult / Green / No nose seal</title>
+      <s:price currency="CAD">13.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4603074478168</id>
+      <title>Adult / Green / With nose seal</title>
+      <s:price currency="CAD">14.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4603074478168</id>
+      <title>Adult / Pink / No nose seal</title>
+      <s:price currency="CAD">13.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4603074478168</id>
+      <title>Adult / Pink / With nose seal</title>
+      <s:price currency="CAD">14.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4603074478168</id>
+      <title>Adult / Dew / No nose seal</title>
+      <s:price currency="CAD">13.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4603074478168</id>
+      <title>Adult / Dew / With nose seal</title>
+      <s:price currency="CAD">14.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4603074478168</id>
+      <title>Adult / Lilac / No nose seal</title>
+      <s:price currency="CAD">13.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4603074478168</id>
+      <title>Adult / Lilac / With nose seal</title>
+      <s:price currency="CAD">14.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4603074478168</id>
+      <title>Adult / Seaglass / No nose seal</title>
+      <s:price currency="CAD">13.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4603074478168</id>
+      <title>Adult / Seaglass / With nose seal</title>
+      <s:price currency="CAD">14.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4603074478168</id>
+      <title>Adult / Violet / No nose seal</title>
+      <s:price currency="CAD">13.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4603074478168</id>
+      <title>Adult / Violet / With nose seal</title>
+      <s:price currency="CAD">14.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4603074478168</id>
+      <title>Adult / Blue / No nose seal</title>
+      <s:price currency="CAD">13.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4603074478168</id>
+      <title>Adult / Blue / With nose seal</title>
+      <s:price currency="CAD">14.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4603074478168</id>
+      <title>Adult / Navy / No nose seal</title>
+      <s:price currency="CAD">13.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4603074478168</id>
+      <title>Adult / Navy / With nose seal</title>
+      <s:price currency="CAD">14.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4603074478168</id>
+      <title>Adult / Grey / No nose seal</title>
+      <s:price currency="CAD">13.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4603074478168</id>
+      <title>Adult / Grey / With nose seal</title>
+      <s:price currency="CAD">14.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4603074478168</id>
+      <title>Adult / Taupe / No nose seal</title>
+      <s:price currency="CAD">13.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4603074478168</id>
+      <title>Adult / Taupe / With nose seal</title>
+      <s:price currency="CAD">14.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4603074478168</id>
+      <title>Adult / Brown / No nose seal</title>
+      <s:price currency="CAD">13.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4603074478168</id>
+      <title>Adult / Brown / With nose seal</title>
+      <s:price currency="CAD">14.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4603074478168</id>
+      <title>Adult / Black / No nose seal</title>
+      <s:price currency="CAD">13.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4603074478168</id>
+      <title>Adult / Black / With nose seal</title>
+      <s:price currency="CAD">14.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4603074478168</id>
+      <title>Child / Green / No nose seal</title>
+      <s:price currency="CAD">13.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4603074478168</id>
+      <title>Child / Green / With nose seal</title>
+      <s:price currency="CAD">14.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4603074478168</id>
+      <title>Child / Pink / No nose seal</title>
+      <s:price currency="CAD">13.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4603074478168</id>
+      <title>Child / Pink / With nose seal</title>
+      <s:price currency="CAD">14.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4603074478168</id>
+      <title>Child / Dew / No nose seal</title>
+      <s:price currency="CAD">13.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4603074478168</id>
+      <title>Child / Dew / With nose seal</title>
+      <s:price currency="CAD">14.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4603074478168</id>
+      <title>Child / Lilac / No nose seal</title>
+      <s:price currency="CAD">13.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4603074478168</id>
+      <title>Child / Lilac / With nose seal</title>
+      <s:price currency="CAD">14.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4603074478168</id>
+      <title>Child / Seaglass / No nose seal</title>
+      <s:price currency="CAD">13.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4603074478168</id>
+      <title>Child / Seaglass / With nose seal</title>
+      <s:price currency="CAD">14.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4603074478168</id>
+      <title>Child / Violet / No nose seal</title>
+      <s:price currency="CAD">13.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4603074478168</id>
+      <title>Child / Violet / With nose seal</title>
+      <s:price currency="CAD">14.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4603074478168</id>
+      <title>Child / Blue / No nose seal</title>
+      <s:price currency="CAD">13.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4603074478168</id>
+      <title>Child / Blue / With nose seal</title>
+      <s:price currency="CAD">14.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4603074478168</id>
+      <title>Child / Navy / No nose seal</title>
+      <s:price currency="CAD">13.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4603074478168</id>
+      <title>Child / Navy / With nose seal</title>
+      <s:price currency="CAD">14.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4603074478168</id>
+      <title>Child / Grey / No nose seal</title>
+      <s:price currency="CAD">13.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4603074478168</id>
+      <title>Child / Grey / With nose seal</title>
+      <s:price currency="CAD">14.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4603074478168</id>
+      <title>Child / Taupe / No nose seal</title>
+      <s:price currency="CAD">13.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4603074478168</id>
+      <title>Child / Taupe / With nose seal</title>
+      <s:price currency="CAD">14.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4603074478168</id>
+      <title>Child / Brown / No nose seal</title>
+      <s:price currency="CAD">13.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4603074478168</id>
+      <title>Child / Brown / With nose seal</title>
+      <s:price currency="CAD">14.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4603074478168</id>
+      <title>Child / Black / No nose seal</title>
+      <s:price currency="CAD">13.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4603074478168</id>
+      <title>Child / Black / With nose seal</title>
+      <s:price currency="CAD">14.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.dreamdesigns.ca/products/4585007546456</id>
+    <published>2020-04-30T15:43:48-07:00</published>
+    <updated>2020-04-30T15:43:48-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dreamdesigns.ca/products/silk-face-mask-liner"/>
+    <title>Organic Natural Face Mask Filtration Liner</title>
+    <s:type>Sleepwear</s:type>
+    <s:vendor>Dream Designs Co. Ltd. (Tax ID: 133893164)</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0389/5989/products/IMG_6549copy_f0aaf45f-aeae-400c-ad49-213bcb2be3de.jpg?v=1588355680"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dream Designs Co. Ltd. (Tax ID: 133893164)<br>
+        <strong>Type: </strong>Sleepwear<br>
+        <strong>Price: </strong>
+            10.00 - 14.00
+            <a href="https://www.dreamdesigns.ca/products/silk-face-mask-liner">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p><em>Enhance the aerosol filtration efficiency of our <a href="https://www.dreamdesigns.ca/products/certified-organic-cotton-face-mask" target="_blank" rel="noopener noreferrer">organic cotton contouring face masks</a> by adding these 100% natural cloth filtration liner. </em><em>Made in Vancouver, Canada from two layers of natural silk satin or certified organic cotton flannel. </em><em>Ultra-soft. Breathable. Washable. Reusable. Eco-friendly. Unisex. One size only to fit in between the face and our masks. </em><em>Filter pockets are not necessary for this liner as the mask will hold it in place. </em></p>
+<p><em>Our Limited Edition Prints masks have filter pockets that require smaller filters to fit inside, which can be found on each Limited Edition Prints mask page. This filter will not fit inside of the filter pocket but can still fit in between the face and the limited edition masks.</em></p>
+<p><em>We developed this product based on <a href="https://pubs.acs.org/doi/full/10.1021/acsnano.0c03252">recent research</a>* that studied the aerosol filtration efficacies of cloth face masks, which found the efficiencies improved when multiple layers were used, and with specific combinations of different fabrics such as cotton–silk, cotton– synthetic chiffon, and cotton–flannel. </em></p>
+<p><em><img src="https://cdn.shopify.com/s/files/1/0389/5989/files/Mask_electrostatic_filtration_480x480.jpg?v=1587912172" alt=""></em></p>
+<p><em>The researchers attributed the increase in filtration efficiency to possibly the combined effect of mechanical and electrostatic-based filtration.</em></p>
+<div style="text-align: left;"><img src="https://cdn.shopify.com/s/files/1/0389/5989/files/Screen_Shot_2020-04-30_at_3.11.59_PM_600x600.png?v=1588284755" alt="" style="float: none;"></div>
+<meta charset="utf-8">
+<h4><strong><em>The study concludes that a multi-layered, well-fitted cloth mask that combines two different types of fabrics, as shown above, can filter</em><em> &gt;80%</em><em> particles smaller than 300nm and &gt;90% particles larger than </em><em>300 nm. </em></strong></h4>
+<meta charset="utf-8">
+<p><em><span><strong>Cloth masks are not medical grade and </strong></span></em><em><span><strong>not sufficient for people with a weakened immune system. We have not tested our masks against pathogens, including COVID-19. Please use at your own risk. </strong>To stop the spread of COVID-19, please practise social distancing first and foremost. </span></em></p>
+<p><strong>Each household is limited to a maximum purchase of 6 mask liners. </strong></p>
+<p><span style="color: #ff2a00;"><strong>20% off </strong></span><strong><span style="color: #ff2a00;">for <a href="https://www2.gov.bc.ca/gov/content/safety/emergency-preparedness-response-recovery/covid-19-provincial-support/essential-services-covid-19">essential services workers</a></span>. </strong>Please <a href="info@dreamdesigns.ca">email us</a> from your work email address and state your position. We'll verify your workplace prior to providing you with the discount code.</p>
+<meta charset="utf-8">
+<p>Wash daily by hand with soapy water, rinse, and line dry.  Please wash your mask and liner before wearing them. Before putting on your mask and liner, wash and dry hands first. Place the liner on top of the mask, hold them flat together against your nose and mouth, and put on the earloops. If necessary, adjust the earloops to ensure a tight and comfortable fit. If your mask has a nose seal, bend it to close the gap between your nose bridge and the mask. Wash your hands immediately after taking the mask off. Do not wear the mask more than once between each wash.   </p>
+<p><iframe width="560" height="315" src="https://www.youtube.com/embed/u4XPoUBfPt8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></p>
+<p><span></span><span></span>* Aerosol Filtration Efficiency of Common Fabrics Used in Respiratory Cloth Masks Abhiteja Konda, Abhinav Prakash, Gregory A. Moss, Michael Schmoldt, Gregory D. Grant, Supratik Guha, ACS Nano 2020, April 24, 2020,  https://doi.org/10.1021/acsnano.0c03252</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4585007546456</id>
+      <title>Organic Flannel</title>
+      <s:price currency="CAD">10.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4585007546456</id>
+      <title>Natural Silk Satin</title>
+      <s:price currency="CAD">14.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.dreamdesigns.ca/products/4569242140760</id>
+    <published>2020-04-11T08:42:34-07:00</published>
+    <updated>2020-04-11T08:42:34-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dreamdesigns.ca/products/organic-cotton-face-mask-sleeve-style"/>
+    <title>Organic Cotton Face Mask - Sleeve Style</title>
+    <s:type></s:type>
+    <s:vendor>Dream Designs Co. Ltd. (Tax ID: 133893164)</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0389/5989/products/image_8d3010a3-3751-4b3a-931f-d7d23be20c4e.jpg?v=1587075564"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dream Designs Co. Ltd. (Tax ID: 133893164)<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            14.00 - 15.00
+            <a href="https://www.dreamdesigns.ca/products/organic-cotton-face-mask-sleeve-style">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our largest face mask with sleeve for inserting a standard surgical mask* (not included) or other filter materials from either side. Made in Vancouver, Canada from certified organic cotton sateen. Pain free ear loops, adjustable to fit different face shapes and sizes. Optional sew-in nose wire (may cause pin-size rust stain if left wet for extended periods). Breathable. Washable. Reusable. Unisex. </p>
+<p><strong>This mask is not medical grade and has not been tested against pathogens, including COVID-19. Please use at your own risk. </strong> To stop the spread of COVID-19, please practise social distancing first and foremost. This mask is not sufficient for people with a weakened immune system. </p>
+<meta charset="utf-8">
+<p><span>To adjust the size of your mask, simply untie and then retie the knots on the fabric earloops according to fit. Your mask should fit snugly on the face, but not too tight that it pulls on the ears.</span> Wash by hand and line dry recommended. <a href="https://nypost.com/2020/04/21/firefighters-warn-not-to-sterilize-coronavirus-face-masks-in-microwaves/?utm_source=url_sitebuttons&amp;utm_medium=site%20buttons&amp;utm_campaign=site%20buttons">DO NOT MICROWAVE</a>.</p>
+<p>We offer two other styles of organic cotton face masks: <a href="https://www.dreamdesigns.ca/collections/sleepwear/products/certified-organic-cotton-face-mask" title="Contouring Organic Cotton Face Masks">Contouring Face Masks</a> and <a href="https://www.dreamdesigns.ca/collections/sleepwear/products/organic-cotton-face-mask" title="Full Coverage Organic Cotton Face Masks">Full Coverage Masks.</a>   </p>
+<meta charset="utf-8">
+<p>We offer bulk discounts to organizations seeking 50 or more masks.</p>
+<ul>
+<li>50 or more - 10% off and free shipping (discount code "Mask50")</li>
+<li>100 or more - 15% off and free shipping (discount code "Mask100")</li>
+<li>200 or more - 20% off and free shipping (discount code "Mask200")</li>
+</ul>
+<p>We started designing and making masks in March in response to the severe PPE shortage and have supplied masks to healthcare professionals, logistics operators, grocery store workers, and other frontline essential services workers who keep our society running in the current pandemic. Our story was featured in the Global News. </p>
+<p><iframe src="https://globalnews.ca/video/embed/6836490/" width="670" height="372" frameborder="0" allowfullscreen="" scrolling="no"></iframe><br></p>
+<p> </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4569242140760</id>
+      <title>Brown / No nose wire</title>
+      <s:price currency="CAD">14.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4569242140760</id>
+      <title>Brown / With nose wire</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4569242140760</id>
+      <title>Navy / No nose wire</title>
+      <s:price currency="CAD">14.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4569242140760</id>
+      <title>Navy / With nose wire</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4569242140760</id>
+      <title>Black / No nose wire</title>
+      <s:price currency="CAD">14.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4569242140760</id>
+      <title>Black / With nose wire</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.dreamdesigns.ca/products/4550015254616</id>
+    <published>2020-03-25T11:58:07-07:00</published>
+    <updated>2020-03-25T11:58:07-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dreamdesigns.ca/products/certified-organic-cotton-face-mask"/>
+    <title>Contouring Organic Cotton Face Mask - Fabric Tie Earloops</title>
+    <s:type>Sleepwear</s:type>
+    <s:vendor>Dream Designs Co. Ltd. (Tax ID: 133893164)</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0389/5989/products/IMG_6609.jpg?v=1591911241"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dream Designs Co. Ltd. (Tax ID: 133893164)<br>
+        <strong>Type: </strong>Sleepwear<br>
+        <strong>Price: </strong>
+            14.00 - 15.00
+            <a href="https://www.dreamdesigns.ca/products/certified-organic-cotton-face-mask">(48 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p>Organic Cotton Face Mask made in Vancouver, Canada from two layers of tightly woven 100% GOTS/Oeko-tex certified organic cotton sateen bed linen fabric. Contouring fit. Optional nose seal. Pain-free fabric ear loops, adjustable to fit different face shapes and sizes. Breathable. Washable. Reusable. Unisex. Child size is for 6 years or older.</p>
+<meta charset="utf-8">
+<p>Shield against respiratory droplets, dust, pollen, odour, smog, forest fire smoke, and other impurities in the air. According to <a href="https://pubs.acs.org/doi/abs/10.1021/acsnano.0c03252">recent research</a>, a mask made from two layers of tightly woven cotton fabric similar to ours has a filtration efficiency of 63% or higher against particles smaller than 300 NM. Combined with our new <a href="https://www.dreamdesigns.ca/collections/handkerchiefs/products/silk-face-mask-liner">silk or organic flannel mask liner</a> and a tight fit, it can filter over 90% aerosol particles - comparable to that of N95 or surgical masks.</p>
+<meta charset="utf-8">
+<p>We also offer Contouring Masks with <a href="https://www.dreamdesigns.ca/collections/sleepwear/products/contouring-organic-cotton-face-mask-corded-elastic-earloops">Elastic Ear Loops</a> and <a href="https://www.dreamdesigns.ca/products/contouring-organic-cotton-face-mask-filter-pocket">Filter Pockets</a>, as well as three other styles of organic cotton face masks: <a href="https://www.dreamdesigns.ca/collections/sleepwear/products/organic-cotton-face-mask">Full Coverage Masks,</a> <a href="https://www.dreamdesigns.ca/collections/sleepwear/products/organic-cotton-face-mask-sleeve-style">Sleeve Pocket Masks</a>, and <a href="https://www.dreamdesigns.ca/collections/limited-edition-prints-organic-cotton-masks">Limited Edition Prints Masks</a>.</p>
+<meta charset="utf-8">
+<p><strong>This mask is not medical grade and in</strong><strong>sufficient for people with a weakened immune system. It has not been tested against pathogens, including COVID-19. Please use at your own risk. </strong> To stop the spread of COVID-19, please practise social distancing first and foremost.</p>
+<meta charset="utf-8">
+<p><span>To adjust the size of your mask, untie and then re-tie the fabric ear loops so the mask fits snugly on the face, but not too tight that it pulls on the ears. Wash by hand with hot water and regular soap to sterilize and hang to dry. Do not microwave. Minimal shrinkage (5% or less) and colour bleeding is normal in the first wash.  </span></p>
+<p><span>Before putting on your mask, sanitize your hands first. Hold the mask flat against your nose and mouth, and put on the earloops. If your mask has a nose seal, bend it to close the gap between your nose bridge and the mask. Wash your hands immediately after taking the mask off. </span></p>
+<p><iframe width="560" height="315" src="https://www.youtube.com/embed/rh6OvEGPU0Q" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></p>
+<p>We started designing and making masks in March in response to the severe PPE shortage and have supplied masks to healthcare professionals, logistics operators, grocery store workers, and other frontline essential services workers who keep our society running in the current pandemic. Our story was featured in the Global News. </p>
+<p><iframe src="https://globalnews.ca/video/embed/6836490/" width="670" height="372" frameborder="0" allowfullscreen="" scrolling="no"></iframe></p>
+<p>We offer bulk discounts to organizations seeking 50 or more masks.</p>
+<ul>
+<li>50 or more - 10% off and free shipping (discount code "Mask50")</li>
+<li>100 or more - 15% off and free shipping (discount code "Mask100")</li>
+<li>200 or more - 20% off and free shipping (discount code "Mask200")</li>
+</ul>
+<meta charset="utf-8">
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4550015254616</id>
+      <title>Adult / Green / No nose seal</title>
+      <s:price currency="CAD">14.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4550015254616</id>
+      <title>Adult / Green / With nose seal</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4550015254616</id>
+      <title>Adult / Pink / No nose seal</title>
+      <s:price currency="CAD">14.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4550015254616</id>
+      <title>Adult / Pink / With nose seal</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4550015254616</id>
+      <title>Adult / Dew / No nose seal</title>
+      <s:price currency="CAD">14.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4550015254616</id>
+      <title>Adult / Dew / With nose seal</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4550015254616</id>
+      <title>Adult / Lilac / No nose seal</title>
+      <s:price currency="CAD">14.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4550015254616</id>
+      <title>Adult / Lilac / With nose seal</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4550015254616</id>
+      <title>Adult / Seaglass / No nose seal</title>
+      <s:price currency="CAD">14.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4550015254616</id>
+      <title>Adult / Seaglass / With nose seal</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4550015254616</id>
+      <title>Adult / Violet / No nose seal</title>
+      <s:price currency="CAD">14.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4550015254616</id>
+      <title>Adult / Violet / With nose seal</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4550015254616</id>
+      <title>Adult / Blue / No nose seal</title>
+      <s:price currency="CAD">14.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4550015254616</id>
+      <title>Adult / Blue / With nose seal</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4550015254616</id>
+      <title>Adult / Navy / No nose seal</title>
+      <s:price currency="CAD">14.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4550015254616</id>
+      <title>Adult / Navy / With nose seal</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4550015254616</id>
+      <title>Adult / Grey / No nose seal</title>
+      <s:price currency="CAD">14.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4550015254616</id>
+      <title>Adult / Grey / With nose seal</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4550015254616</id>
+      <title>Adult / Taupe / No nose seal</title>
+      <s:price currency="CAD">14.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4550015254616</id>
+      <title>Adult / Taupe / With nose seal</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4550015254616</id>
+      <title>Adult / Brown / No nose seal</title>
+      <s:price currency="CAD">14.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4550015254616</id>
+      <title>Adult / Brown / With nose seal</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4550015254616</id>
+      <title>Adult / Black / No nose seal</title>
+      <s:price currency="CAD">14.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4550015254616</id>
+      <title>Adult / Black / With nose seal</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4550015254616</id>
+      <title>Child / Green / No nose seal</title>
+      <s:price currency="CAD">14.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4550015254616</id>
+      <title>Child / Green / With nose seal</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4550015254616</id>
+      <title>Child / Pink / No nose seal</title>
+      <s:price currency="CAD">14.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4550015254616</id>
+      <title>Child / Pink / With nose seal</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4550015254616</id>
+      <title>Child / Dew / No nose seal</title>
+      <s:price currency="CAD">14.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4550015254616</id>
+      <title>Child / Dew / With nose seal</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4550015254616</id>
+      <title>Child / Lilac / No nose seal</title>
+      <s:price currency="CAD">14.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4550015254616</id>
+      <title>Child / Lilac / With nose seal</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4550015254616</id>
+      <title>Child / Seaglass / No nose seal</title>
+      <s:price currency="CAD">14.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4550015254616</id>
+      <title>Child / Seaglass / With nose seal</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4550015254616</id>
+      <title>Child / Violet / No nose seal</title>
+      <s:price currency="CAD">14.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4550015254616</id>
+      <title>Child / Violet / With nose seal</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4550015254616</id>
+      <title>Child / Blue / No nose seal</title>
+      <s:price currency="CAD">14.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4550015254616</id>
+      <title>Child / Blue / With nose seal</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4550015254616</id>
+      <title>Child / Navy / No nose seal</title>
+      <s:price currency="CAD">14.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4550015254616</id>
+      <title>Child / Navy / With nose seal</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4550015254616</id>
+      <title>Child / Grey / No nose seal</title>
+      <s:price currency="CAD">14.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4550015254616</id>
+      <title>Child / Grey / With nose seal</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4550015254616</id>
+      <title>Child / Taupe / No nose seal</title>
+      <s:price currency="CAD">14.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4550015254616</id>
+      <title>Child / Taupe / With nose seal</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4550015254616</id>
+      <title>Child / Brown / No nose seal</title>
+      <s:price currency="CAD">14.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4550015254616</id>
+      <title>Child / Brown / With nose seal</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4550015254616</id>
+      <title>Child / Black / No nose seal</title>
+      <s:price currency="CAD">14.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4550015254616</id>
+      <title>Child / Black / With nose seal</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.dreamdesigns.ca/products/4530426839128</id>
+    <published>2020-03-25T11:40:11-07:00</published>
+    <updated>2020-03-25T11:40:11-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dreamdesigns.ca/products/organic-cotton-face-mask"/>
+    <title>Organic Cotton Face Mask - Full Coverage</title>
+    <s:type>Sleepwear</s:type>
+    <s:vendor>Dream Designs Co. Ltd. (Tax ID: 133893164)</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0389/5989/products/image_a4c6a521-506f-40ec-9bd9-af23e1c93a97.jpg?v=1589487605"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dream Designs Co. Ltd. (Tax ID: 133893164)<br>
+        <strong>Type: </strong>Sleepwear<br>
+        <strong>Price: </strong>
+            12.00 - 14.00
+            <a href="https://www.dreamdesigns.ca/products/organic-cotton-face-mask">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Organic Cotton Face Mask made in Vancouver, Canada from two layers of tightly woven 100% certified organic cotton sateen. Convenient elastic or pain free fabric ear loops, both adjustable to fit different face shapes and sizes. Sew-in nose wire*. Breathable. Washable. Reusable. Unisex. </p>
+<p>* The nose wire we use is wrapped in plastic and moisture resistant. With repeated washes, the ends may rust and cause pin-size stains on the fabric. If this is a concern, please consider our other two styles of organic cotton face masks with the wire: <a href="https://www.dreamdesigns.ca/collections/sleepwear/products/certified-organic-cotton-face-mask" title="Contouring Organic Cotton Face Masks">Contouring Face Masks</a> and <a href="https://www.dreamdesigns.ca/products/organic-cotton-face-mask-sleeve-style" title="Sleeve Pocket Insert Organic Cotton Face Mask">Sleeve Style Face Masks</a>.  </p>
+<p><span style="color: #000000;"></span><span>To make your mask bigger or smaller, adjust the ear loops. For elastic earloops, pull the knots</span><span> out of the side channels, untie and then re-tie them. For fabric tie earloops, simply untie and then retie the knots. Your mask should fit snugly on the face, but not too tight that it pulls on the ears. </span></p>
+<p><span>Wash by hand with hot water and regular soap to sterilize and hang to dry. Do not microwave.</span> </p>
+<p><strong>This mask has not been tested against pathogens, including COVID-19. Please use at your own risk. </strong>To stop the spread of COVID-19, please stay home and practise social distancing first and foremost. This mask is not sufficient for people with a weakened immune system. </p>
+<meta charset="utf-8">
+<p>We offer bulk discounts to organizations seeking 50 or more masks.</p>
+<ul>
+<li>50 or more - 10% off and free shipping (discount code "Mask50")</li>
+<li>100 or more - 15% off and free shipping (discount code "Mask100")</li>
+<li>200 or more - 20% off and free shipping (discount code "Mask200")</li>
+</ul>
+<meta charset="utf-8">
+<p>We started designing and making masks in March in response to the severe PPE shortage and have supplied masks to healthcare professionals, logistics operators, grocery store workers, and other frontline essential services workers who keep our society running in the current pandemic. Our story was featured in the Global News. </p>
+<p><iframe src="https://globalnews.ca/video/embed/6836490/" width="670" height="372" frameborder="0" allowfullscreen="" scrolling="no"></iframe></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4530426839128</id>
+      <title>Grey / Elastic</title>
+      <s:price currency="CAD">12.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4530426839128</id>
+      <title>Grey / Fabric ties</title>
+      <s:price currency="CAD">14.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4530426839128</id>
+      <title>Dark Brown / Elastic</title>
+      <s:price currency="CAD">12.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4530426839128</id>
+      <title>Dark Brown / Fabric ties</title>
+      <s:price currency="CAD">14.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4530426839128</id>
+      <title>Black / Elastic</title>
+      <s:price currency="CAD">12.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4530426839128</id>
+      <title>Black / Fabric ties</title>
+      <s:price currency="CAD">14.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.dreamdesigns.ca/products/708473860</id>
+    <published>2015-05-29T12:13:00-07:00</published>
+    <updated>2015-05-29T12:13:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dreamdesigns.ca/products/butterfly-organic-cotton-sateen-short-robe"/>
+    <title>Butterfly Organic Cotton Sateen Short Robe</title>
+    <s:type>Sleepwear</s:type>
+    <s:vendor>Dream Designs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0389/5989/products/DSC1925.jpg?v=1571438945"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dream Designs<br>
+        <strong>Type: </strong>Sleepwear<br>
+        <strong>Price: </strong>
+            89.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Stylish short robe made from Butterfly prints organic cotton.  Quality made in Canada.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/708473860</id>
+      <title>Small / Blue</title>
+      <s:price currency="CAD">89.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/708473860</id>
+      <title>Small / Grey</title>
+      <s:price currency="CAD">89.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/708473860</id>
+      <title>Small / White</title>
+      <s:price currency="CAD">89.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/708473860</id>
+      <title>Small / Brown</title>
+      <s:price currency="CAD">89.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/708473860</id>
+      <title>Medium / Blue</title>
+      <s:price currency="CAD">89.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/708473860</id>
+      <title>Medium / Grey</title>
+      <s:price currency="CAD">89.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/708473860</id>
+      <title>Medium / White</title>
+      <s:price currency="CAD">89.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/708473860</id>
+      <title>Medium / Brown</title>
+      <s:price currency="CAD">89.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/708473860</id>
+      <title>Large / Blue</title>
+      <s:price currency="CAD">89.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/708473860</id>
+      <title>Large / Grey</title>
+      <s:price currency="CAD">89.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/708473860</id>
+      <title>Large / White</title>
+      <s:price currency="CAD">89.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/708473860</id>
+      <title>Large / Brown</title>
+      <s:price currency="CAD">89.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.dreamdesigns.ca/products/708469316</id>
+    <published>2015-05-29T12:13:00-07:00</published>
+    <updated>2015-05-29T12:13:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dreamdesigns.ca/products/herboganic-short-robe"/>
+    <title>Herboganic Unisex Short Robe</title>
+    <s:type>Sleepwear</s:type>
+    <s:vendor>Dream Designs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0389/5989/products/DSC2233.jpg?v=1571438945"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dream Designs<br>
+        <strong>Type: </strong>Sleepwear<br>
+        <strong>Price: </strong>
+            89.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Stylish short robe made from herbal dyed handloom organic cotton.  Quality made in Canada.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/708469316</id>
+      <title>Small / Blue</title>
+      <s:price currency="CAD">89.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/708469316</id>
+      <title>Medium / Blue</title>
+      <s:price currency="CAD">89.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/708469316</id>
+      <title>Large / Blue</title>
+      <s:price currency="CAD">89.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.dreamdesigns.ca/products/266962113</id>
+    <published>2014-04-03T21:50:39-07:00</published>
+    <updated>2014-04-03T21:50:39-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dreamdesigns.ca/products/bamboo-charcoal-eye-mask"/>
+    <title>Bamboo Charcoal Eye Mask</title>
+    <s:type>Sleepwear</s:type>
+    <s:vendor>Dream Designs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0389/5989/products/100718.jpg?v=1571438937"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dream Designs<br>
+        <strong>Type: </strong>Sleepwear<br>
+        <strong>Price: </strong>
+            14.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Bamboo charcoal, or "takesumi" in Japanese, is made when bamboo stalks are heated to 750°C in clay furnaces. The resulting charcoal generates negative ions, stimulates circulation, alleviates fatigue, balances humidity, and dissipates electromagnetic waves: an excellent filling for a restful eyemask!</p>
+<h2>Features</h2>
+<ul>
+<li>One size fits all</li>
+<li>Made in China</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/266962113</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">14.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.dreamdesigns.ca/products/265489233</id>
+    <published>2014-03-14T15:26:00-07:00</published>
+    <updated>2014-03-14T15:26:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dreamdesigns.ca/products/organic-cotton-sateen-robe"/>
+    <title>Organic Cotton Sateen Robe</title>
+    <s:type>Sleepwear</s:type>
+    <s:vendor>Dream Designs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0389/5989/products/Organic_sateen_robe.jpg?v=1571438936"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dream Designs<br>
+        <strong>Type: </strong>Sleepwear<br>
+        <strong>Price: </strong>
+            89.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This cozy robe is essential for an authentic spa experience. It features contrast piping and deep pockets. To prolong the life of your sleepwear and to minimize the environmental impact, we recommend machine washing all of our clothing and apparel at moderate temperatures on a gentle cycle and hanging to dry.</p>
+<h2>Features</h2>
+<ul>
+<li>Made from 100% SKAL certified organic cotton</li>
+<li>Well made in Canada</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265489233</id>
+      <title>S / Natural</title>
+      <s:price currency="CAD">89.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265489233</id>
+      <title>S / Natural Damask</title>
+      <s:price currency="CAD">89.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265489233</id>
+      <title>M / Natural</title>
+      <s:price currency="CAD">89.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265489233</id>
+      <title>M / Natural Damask</title>
+      <s:price currency="CAD">89.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265489233</id>
+      <title>L / Natural</title>
+      <s:price currency="CAD">89.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265489233</id>
+      <title>L / Natural Damask</title>
+      <s:price currency="CAD">89.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265489233</id>
+      <title>XL / Natural</title>
+      <s:price currency="CAD">89.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265489233</id>
+      <title>XL / Natural Damask</title>
+      <s:price currency="CAD">89.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.dreamdesigns.ca/products/265488633</id>
+    <published>2014-03-14T15:25:02-07:00</published>
+    <updated>2014-03-14T15:25:02-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dreamdesigns.ca/products/organic-cotton-sateen-nightie"/>
+    <title>Organic Cotton Sateen Nightie</title>
+    <s:type>Sleepwear</s:type>
+    <s:vendor>Dream Designs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0389/5989/products/DSC2173.jpg?v=1571438936"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dream Designs<br>
+        <strong>Type: </strong>Sleepwear<br>
+        <strong>Price: </strong>
+            49.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Sleepwear perfect for a midsummer night's dream! This playful nightie features spaghetti straps and rests at mid-thigh.</p>
+<p>To prolong the life of your sleepwear and to minimize the environmental impact, we recommend machine washing all of our clothing and apparel at moderate temperatures on a gentle cycle and hanging to dry.</p>
+<h2>Features</h2>
+<ul>
+<li>Made from 100% SKAL certified organic cotton</li>
+<li>Well made in Canada</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265488633</id>
+      <title>XS / Natural</title>
+      <s:price currency="CAD">49.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265488633</id>
+      <title>XS / Natural Damask</title>
+      <s:price currency="CAD">49.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265488633</id>
+      <title>XS / Terra Cotta</title>
+      <s:price currency="CAD">49.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265488633</id>
+      <title>XS / Violet</title>
+      <s:price currency="CAD">49.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265488633</id>
+      <title>S / Natural</title>
+      <s:price currency="CAD">49.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265488633</id>
+      <title>S / Natural Damask</title>
+      <s:price currency="CAD">49.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265488633</id>
+      <title>S / Terra Cotta</title>
+      <s:price currency="CAD">49.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265488633</id>
+      <title>S / Violet</title>
+      <s:price currency="CAD">49.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265488633</id>
+      <title>M / Natural</title>
+      <s:price currency="CAD">49.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265488633</id>
+      <title>M / Coal</title>
+      <s:price currency="CAD">49.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265488633</id>
+      <title>M / Natural Damask</title>
+      <s:price currency="CAD">49.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265488633</id>
+      <title>M / Terra Cotta</title>
+      <s:price currency="CAD">49.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265488633</id>
+      <title>M / Violet</title>
+      <s:price currency="CAD">49.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265488633</id>
+      <title>L / Natural</title>
+      <s:price currency="CAD">49.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265488633</id>
+      <title>L / Natural Damask</title>
+      <s:price currency="CAD">49.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265488633</id>
+      <title>L / Terra Cotta</title>
+      <s:price currency="CAD">49.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265488633</id>
+      <title>L / Violet</title>
+      <s:price currency="CAD">49.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265488633</id>
+      <title>XL / Natural</title>
+      <s:price currency="CAD">49.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265488633</id>
+      <title>XL / Natural Damask</title>
+      <s:price currency="CAD">49.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265488633</id>
+      <title>XL / Terra Cotta</title>
+      <s:price currency="CAD">49.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265488633</id>
+      <title>XL / Violet</title>
+      <s:price currency="CAD">49.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265488633</id>
+      <title>XS / Coal</title>
+      <s:price currency="CAD">49.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265488633</id>
+      <title>S / Coal</title>
+      <s:price currency="CAD">49.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.dreamdesigns.ca/products/265487037</id>
+    <published>2014-03-14T15:21:00-07:00</published>
+    <updated>2014-03-14T15:21:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dreamdesigns.ca/products/organic-cotton-sateen-night-shirt"/>
+    <title>Organic Cotton Sateen Night Shirt</title>
+    <s:type>Sleepwear</s:type>
+    <s:vendor>Dream Designs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0389/5989/products/DSC2657.jpg?v=1571438936"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dream Designs<br>
+        <strong>Type: </strong>Sleepwear<br>
+        <strong>Price: </strong>
+            79.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This nightshirt is an updated classic with shirt-collar, shell-buttons, and one chest pocket.</p>
+<p>To prolong the life of your sleepwear and to minimize the environmental impact, we recommend machine washing all of our clothing and apparel at moderate temperatures on a gentle cycle and hanging to dry.</p>
+<h2>Features</h2>
+<ul>
+<li>Made from 100% SKAL certified organic cotton</li>
+<li>Well made in Canada</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265487037</id>
+      <title>S / Glacier (Damask)</title>
+      <s:price currency="CAD">79.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265487037</id>
+      <title>S / Natural</title>
+      <s:price currency="CAD">79.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265487037</id>
+      <title>S / Red</title>
+      <s:price currency="CAD">79.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265487037</id>
+      <title>S / Cypress (Damask)</title>
+      <s:price currency="CAD">79.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265487037</id>
+      <title>M / Glacier (Damask)</title>
+      <s:price currency="CAD">79.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265487037</id>
+      <title>M / Natural</title>
+      <s:price currency="CAD">79.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265487037</id>
+      <title>M / Red</title>
+      <s:price currency="CAD">79.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265487037</id>
+      <title>M / Cypress (Damask)</title>
+      <s:price currency="CAD">79.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265487037</id>
+      <title>L / Glacier (Damask)</title>
+      <s:price currency="CAD">79.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265487037</id>
+      <title>L / Natural</title>
+      <s:price currency="CAD">79.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265487037</id>
+      <title>L / Red</title>
+      <s:price currency="CAD">79.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265487037</id>
+      <title>L / Cypress (Damask)</title>
+      <s:price currency="CAD">79.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265487037</id>
+      <title>XL / Glacier (Damask)</title>
+      <s:price currency="CAD">79.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265487037</id>
+      <title>XL / Natural</title>
+      <s:price currency="CAD">79.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265487037</id>
+      <title>XL / Red</title>
+      <s:price currency="CAD">79.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265487037</id>
+      <title>XL / Cypress (Damask)</title>
+      <s:price currency="CAD">79.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.dreamdesigns.ca/products/265485477</id>
+    <published>2014-03-14T15:16:10-07:00</published>
+    <updated>2014-03-14T15:16:10-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dreamdesigns.ca/products/organic-cotton-sateen-pajama-pants"/>
+    <title>Organic Cotton Sateen Pajama Pants</title>
+    <s:type>Sleepwear</s:type>
+    <s:vendor>Dream Designs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0389/5989/products/Organic_sateen_pj_pant.jpg?v=1571438936"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dream Designs<br>
+        <strong>Type: </strong>Sleepwear<br>
+        <strong>Price: </strong>
+            59.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>These full-length pajama pants are an updated classic featuring a drawstring waist.</p>
+<p>To prolong the life of your sleepwear and to minimize the environmental impact, we recommend machine washing all of our clothing and apparel at moderate temperatures on a gentle cycle and hanging to dry.</p>
+<h2>Features</h2>
+<ul>
+<li>Made from 100% SKAL certified organic cotton</li>
+<li>Well made in Canada</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265485477</id>
+      <title>XS / Natural</title>
+      <s:price currency="CAD">59.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265485477</id>
+      <title>XS / Mason</title>
+      <s:price currency="CAD">59.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265485477</id>
+      <title>XS / Violet</title>
+      <s:price currency="CAD">59.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265485477</id>
+      <title>XS / Natural (Damask)</title>
+      <s:price currency="CAD">59.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265485477</id>
+      <title>XS / Cypress (Damask)</title>
+      <s:price currency="CAD">59.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265485477</id>
+      <title>XS / Glacier (Damask)</title>
+      <s:price currency="CAD">59.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265485477</id>
+      <title>S / Natural</title>
+      <s:price currency="CAD">59.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265485477</id>
+      <title>S / Mason</title>
+      <s:price currency="CAD">59.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265485477</id>
+      <title>S / Violet</title>
+      <s:price currency="CAD">59.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265485477</id>
+      <title>S / Natural (Damask)</title>
+      <s:price currency="CAD">59.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265485477</id>
+      <title>S / Cypress (Damask)</title>
+      <s:price currency="CAD">59.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265485477</id>
+      <title>S / Glacier (Damask)</title>
+      <s:price currency="CAD">59.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265485477</id>
+      <title>M / Natural</title>
+      <s:price currency="CAD">59.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265485477</id>
+      <title>M / Mason</title>
+      <s:price currency="CAD">59.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265485477</id>
+      <title>M / Violet</title>
+      <s:price currency="CAD">59.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265485477</id>
+      <title>M / Natural (Damask)</title>
+      <s:price currency="CAD">59.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265485477</id>
+      <title>M / Cypress (Damask)</title>
+      <s:price currency="CAD">59.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265485477</id>
+      <title>M / Glacier (Damask)</title>
+      <s:price currency="CAD">59.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265485477</id>
+      <title>L / Natural</title>
+      <s:price currency="CAD">59.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265485477</id>
+      <title>L / Mason</title>
+      <s:price currency="CAD">59.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265485477</id>
+      <title>L / Violet</title>
+      <s:price currency="CAD">59.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265485477</id>
+      <title>L / Natural (Damask)</title>
+      <s:price currency="CAD">59.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265485477</id>
+      <title>L / Cypress (Damask)</title>
+      <s:price currency="CAD">59.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265485477</id>
+      <title>L / Glacier (Damask)</title>
+      <s:price currency="CAD">59.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265485477</id>
+      <title>XL / Natural</title>
+      <s:price currency="CAD">59.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265485477</id>
+      <title>XL / Mason</title>
+      <s:price currency="CAD">59.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265485477</id>
+      <title>XL / Violet</title>
+      <s:price currency="CAD">59.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265485477</id>
+      <title>XL / Natural (Damask)</title>
+      <s:price currency="CAD">59.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265485477</id>
+      <title>XL / Cypress (Damask)</title>
+      <s:price currency="CAD">59.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265485477</id>
+      <title>XL / Glacier (Damask)</title>
+      <s:price currency="CAD">59.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.dreamdesigns.ca/products/265483345</id>
+    <published>2014-03-14T15:10:09-07:00</published>
+    <updated>2014-03-14T15:10:09-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dreamdesigns.ca/products/organic-cotton-flannel-unisex-pajama-set"/>
+    <title>Organic Cotton Flannel Unisex Pajama Set</title>
+    <s:type>Sleepwear</s:type>
+    <s:vendor>Dream Designs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0389/5989/products/Organic_flannel_PJ.jpg?v=1571438936"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dream Designs<br>
+        <strong>Type: </strong>Sleepwear<br>
+        <strong>Price: </strong>
+            149.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Cozy organic flannel makes the perfect winter pajamas! The collared shirt is adorned with shell-buttons and one chest pocket while the full-length pants feature a drawstring waist. To prolong the life of your sleepwear and to minimize the environmental impact, we recommend machine washing all of our clothing and apparel at moderate temperatures on a gentle cycle and hanging to dry.</p>
+<h2>Features</h2>
+<ul>
+<li>Made from 100% SKAL certified organic cotton</li>
+<li>Well made in Canada</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265483345</id>
+      <title>S / Natural</title>
+      <s:price currency="CAD">149.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265483345</id>
+      <title>M / Natural</title>
+      <s:price currency="CAD">149.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265483345</id>
+      <title>L / Natural</title>
+      <s:price currency="CAD">149.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265483345</id>
+      <title>XL / Natural</title>
+      <s:price currency="CAD">149.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.dreamdesigns.ca/products/265482829</id>
+    <published>2014-03-14T15:07:01-07:00</published>
+    <updated>2014-03-14T15:07:01-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dreamdesigns.ca/products/organic-cotton-sateen-pajama-set"/>
+    <title>Organic Cotton Sateen Pajama Set</title>
+    <s:type>Sleepwear</s:type>
+    <s:vendor>Dream Designs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0389/5989/products/Organic_sateen_pj_glacier.jpg?v=1571438936"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dream Designs<br>
+        <strong>Type: </strong>Sleepwear<br>
+        <strong>Price: </strong>
+            109.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>These pajamas are an updated classic. The collared shirt is adorned with shell-buttons and one chest pocket while the full-length pants feature a drawstring waist.</p>
+<p>To prolong the life of your sleepwear and to minimize the environmental impact, we recommend machine washing all of our clothing and apparel at moderate temperatures on a gentle cycle and hanging to dry.</p>
+<h2>Features</h2>
+<ul>
+<li>Made from 100% SKAL certified organic cotton</li>
+<li>Well made in Canada</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265482829</id>
+      <title>S / Natural</title>
+      <s:price currency="CAD">109.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265482829</id>
+      <title>S / Grey (Damask)</title>
+      <s:price currency="CAD">109.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265482829</id>
+      <title>S / Red</title>
+      <s:price currency="CAD">109.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265482829</id>
+      <title>S / Violet</title>
+      <s:price currency="CAD">109.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265482829</id>
+      <title>S / Natural (Damask)</title>
+      <s:price currency="CAD">109.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265482829</id>
+      <title>S / Cypress (Damask)</title>
+      <s:price currency="CAD">109.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265482829</id>
+      <title>S / Glacier (Damask)</title>
+      <s:price currency="CAD">109.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265482829</id>
+      <title>M / Natural</title>
+      <s:price currency="CAD">109.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265482829</id>
+      <title>M / Grey (Damask)</title>
+      <s:price currency="CAD">109.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265482829</id>
+      <title>XS / Natural</title>
+      <s:price currency="CAD">109.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265482829</id>
+      <title>XS / Grey (Damask)</title>
+      <s:price currency="CAD">109.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265482829</id>
+      <title>M / Red</title>
+      <s:price currency="CAD">109.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265482829</id>
+      <title>XS / Red</title>
+      <s:price currency="CAD">109.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265482829</id>
+      <title>M / Violet</title>
+      <s:price currency="CAD">109.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265482829</id>
+      <title>XS / Violet</title>
+      <s:price currency="CAD">109.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265482829</id>
+      <title>M / Natural (Damask)</title>
+      <s:price currency="CAD">109.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265482829</id>
+      <title>XS / Natural (Damask)</title>
+      <s:price currency="CAD">109.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265482829</id>
+      <title>M / Cypress (Damask)</title>
+      <s:price currency="CAD">109.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265482829</id>
+      <title>XS / Cypress (Damask)</title>
+      <s:price currency="CAD">109.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265482829</id>
+      <title>M / Glacier (Damask)</title>
+      <s:price currency="CAD">109.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265482829</id>
+      <title>XS / Glacier (Damask)</title>
+      <s:price currency="CAD">109.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265482829</id>
+      <title>L / Natural</title>
+      <s:price currency="CAD">109.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265482829</id>
+      <title>L / Grey (Damask)</title>
+      <s:price currency="CAD">109.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265482829</id>
+      <title>L / Red</title>
+      <s:price currency="CAD">109.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265482829</id>
+      <title>L / Violet</title>
+      <s:price currency="CAD">109.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265482829</id>
+      <title>L / Natural (Damask)</title>
+      <s:price currency="CAD">109.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265482829</id>
+      <title>L / Cypress (Damask)</title>
+      <s:price currency="CAD">109.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265482829</id>
+      <title>L / Glacier (Damask)</title>
+      <s:price currency="CAD">109.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265482829</id>
+      <title>XL / Natural</title>
+      <s:price currency="CAD">109.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265482829</id>
+      <title>XL / Grey (Damask)</title>
+      <s:price currency="CAD">109.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265482829</id>
+      <title>XL / Red</title>
+      <s:price currency="CAD">109.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265482829</id>
+      <title>XL / Violet</title>
+      <s:price currency="CAD">109.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265482829</id>
+      <title>XL / Natural (Damask)</title>
+      <s:price currency="CAD">109.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265482829</id>
+      <title>XL / Cypress (Damask)</title>
+      <s:price currency="CAD">109.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265482829</id>
+      <title>XL / Glacier (Damask)</title>
+      <s:price currency="CAD">109.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

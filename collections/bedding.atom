@@ -1,0 +1,1574 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.dreamdesigns.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.dreamdesigns.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.dreamdesigns.ca/collections/bedding.atom"/>
+  <title>Dream Designs Co. Ltd. </title>
+  <updated>2021-07-17T08:42:41-07:00</updated>
+  <author>
+    <name>Dream Designs Co. Ltd. </name>
+  </author>
+  <entry>
+    <id>https://www.dreamdesigns.ca/products/278488809</id>
+    <published>2021-07-17T08:42:41-07:00</published>
+    <updated>2021-07-17T08:42:41-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dreamdesigns.ca/products/alpaca-wool-duvet"/>
+    <title>Alpaca Wool Duvet</title>
+    <s:type>Duvets</s:type>
+    <s:vendor>Dream Designs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0389/5989/products/Alpaca_wool_duvet.jpg?v=1621720543"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dream Designs<br>
+        <strong>Type: </strong>Duvets<br>
+        <strong>Price: </strong>
+            289.00 - 449.00
+            <a href="https://www.dreamdesigns.ca/products/alpaca-wool-duvet">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Cozy up with our alpaca wool duvets.  They are filled with a blend of 50% alpaca and 50% wool from New Zealand and cased in 100% organic cotton.  Wool is best known for its insulation and natural ability to wick away moisture, keeping you toasty warm and dry.  Alpaca is similar to wool in insulation yet much silkier and softer.  Our alpaca wool duvet is fluffy yet drapes beautifully around the body, leaving no cold pockets under the cover.</p>
+<p>Use a duvet cover to keep your alpaca wool duvet clean.  Dry clean or spot clean with a damp cloth.  We also recommend airing out your bedding under the sun to eliminate odour and germs. </p>
+<ul>
+<li>Soft and smooth drape</li>
+<li>100% organic cotton fabric casing</li>
+<li><span style="line-height: 1.2;">Warm</span></li>
+<li><span style="line-height: 1.2;">Breathable</span></li>
+<li><span style="line-height: 1.2;">Dust mite resistant</span></li>
+<li><span style="line-height: 1.2;">Well made in Canada  </span></li>
+</ul>
+<p><span style="text-decoration: underline;"><strong><span style="line-height: 1.2;">Weight</span></strong></span></p>
+<ul>
+<li>Summer - best for warmer weather or year-round in an apartment or condo. Equivalent GPSM 250 to 280**</li>
+<li>Regular / All-Season - most sleeper’s preference for all-year-round use. Equivalent GPSM 320 to 350**</li>
+</ul>
+<p><span style="text-decoration: underline;"><strong><span style="line-height: 1.2;">Size:</span></strong></span></p>
+<p><span style="line-height: 1.2;">Twin 64″ x 88″<br>Double 78″ x 88″<br>Queen 89″ x 90″<br>King 106″ x 90″</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Alpaca wool duvet</s:tag>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/278488809</id>
+      <title>All Season / Twin</title>
+      <s:price currency="CAD">319.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/278488809</id>
+      <title>Summer / Twin</title>
+      <s:price currency="CAD">289.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/278488809</id>
+      <title>All Season / Double</title>
+      <s:price currency="CAD">389.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/278488809</id>
+      <title>Summer / Double</title>
+      <s:price currency="CAD">339.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/278488809</id>
+      <title>All Season / Queen</title>
+      <s:price currency="CAD">399.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/278488809</id>
+      <title>Summer / Queen</title>
+      <s:price currency="CAD">359.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/278488809</id>
+      <title>All Season / King</title>
+      <s:price currency="CAD">449.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/278488809</id>
+      <title>Summer / King</title>
+      <s:price currency="CAD">399.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.dreamdesigns.ca/products/4481093894232</id>
+    <published>2020-01-23T15:04:54-08:00</published>
+    <updated>2020-01-23T15:04:54-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dreamdesigns.ca/products/organic-wool-duvet"/>
+    <title>Organic Wool Duvet</title>
+    <s:type>Duvets</s:type>
+    <s:vendor>Dream Designs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0389/5989/products/iStock-1161232231.jpg?v=1579820753"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dream Designs<br>
+        <strong>Type: </strong>Duvets<br>
+        <strong>Price: </strong>
+            219.00 - 399.00
+            <a href="https://www.dreamdesigns.ca/products/organic-wool-duvet">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Organic wool duvet made with 100% certified organic cotton casing and certified organic wool batting.  Made in Vancouver, Canada.</p>
+<ul>
+<li>Hypoallergenic</li>
+<li>Insulating</li>
+<li>Humidity regulating</li>
+<li>Dust mite resistant</li>
+<li>Sustainable</li>
+</ul>
+<p>Care instructions: Cover the organic wool duvet with a duvet cover and wash the duvet cover regularly. Air out on a hot sunny day once a year to deodorize and kill germs.   This product cannot be washed in water.  Professional dry clean ok if necessary. </p>
+<p>Organic Certification: </p>
+<p>Casing cotton: GOTS: GOTS-CUC_03 (1001591/00009845)</p>
+<p>Wool fill: GOTS: GOTS-SACL-02 (X99453-051)</p>
+<p><span style="text-decoration: underline;"><strong><span style="line-height: 1.2;">Weight</span></strong></span></p>
+<ul>
+<li>Summer - best for warmer weather or year-round in an apartment or condo. Equivalent GPSM 250 to 280**</li>
+<li>Regular / All-Season - most sleeper’s preference for all-year-round use. Equivalent GPSM 320 to 350**</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4481093894232</id>
+      <title>Twin / Summer</title>
+      <s:price currency="CAD">219.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4481093894232</id>
+      <title>Twin / All season</title>
+      <s:price currency="CAD">249.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4481093894232</id>
+      <title>Queen / Summer</title>
+      <s:price currency="CAD">309.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4481093894232</id>
+      <title>Double / Summer</title>
+      <s:price currency="CAD">309.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4481093894232</id>
+      <title>Queen / All season</title>
+      <s:price currency="CAD">339.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4481093894232</id>
+      <title>Double / All season</title>
+      <s:price currency="CAD">339.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4481093894232</id>
+      <title>King / Summer</title>
+      <s:price currency="CAD">369.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4481093894232</id>
+      <title>King / All season</title>
+      <s:price currency="CAD">399.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.dreamdesigns.ca/products/468344900</id>
+    <published>2016-07-19T13:25:00-07:00</published>
+    <updated>2016-07-19T13:25:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dreamdesigns.ca/products/pillow-protector"/>
+    <title>Pillow Protector</title>
+    <s:type>Pillows</s:type>
+    <s:vendor>Dream Designs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0389/5989/products/Dream_Designs_020.jpg?v=1571438944"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dream Designs<br>
+        <strong>Type: </strong>Pillows<br>
+        <strong>Price: </strong>
+            14.99 - 38.00
+            <a href="https://www.dreamdesigns.ca/products/pillow-protector">(14 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Made in Canada with 100% tightly woven cotton and a zipper on the side.  Sold individually. Machine washable and dryable.</p>
+<p>The organic pillow protector is made from organic cotton sateen and is not down/feather proof.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/468344900</id>
+      <title>Petite / Cotton Ticking</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/468344900</id>
+      <title>Petite / Organic Sateen</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/468344900</id>
+      <title>Dr Bill / Cotton Ticking</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/468344900</id>
+      <title>Dr Bill / Organic Sateen</title>
+      <s:price currency="CAD">24.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/468344900</id>
+      <title>Bolster 6x16&quot; / Cotton Ticking</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/468344900</id>
+      <title>Bolster 6x16&quot; / Organic Sateen</title>
+      <s:price currency="CAD">24.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/468344900</id>
+      <title>Standard / Cotton Ticking</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/468344900</id>
+      <title>Standard / Organic Sateen</title>
+      <s:price currency="CAD">29.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/468344900</id>
+      <title>Queen / Cotton Ticking</title>
+      <s:price currency="CAD">22.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/468344900</id>
+      <title>Queen / Organic Sateen</title>
+      <s:price currency="CAD">32.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/468344900</id>
+      <title>King / Cotton Ticking</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/468344900</id>
+      <title>King / Organic Sateen</title>
+      <s:price currency="CAD">38.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/468344900</id>
+      <title>Body pillow / Cotton Ticking</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/468344900</id>
+      <title>Body pillow / Organic Sateen</title>
+      <s:price currency="CAD">38.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.dreamdesigns.ca/products/4934788356</id>
+    <published>2016-05-16T10:16:00-07:00</published>
+    <updated>2016-05-16T10:16:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dreamdesigns.ca/products/1-2-lb-wool-knop-refill"/>
+    <title>1/2 lb Wool knop refill</title>
+    <s:type>Pillows</s:type>
+    <s:vendor>Dream Designs (Tax ID: 133893164)</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0389/5989/products/wool_knop.jpg?v=1571438945"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dream Designs (Tax ID: 133893164)<br>
+        <strong>Type: </strong>Pillows<br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">100% British certified organic wool knops. Non-washable.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4934788356</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">20.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.dreamdesigns.ca/products/729379460</id>
+    <published>2016-03-14T21:25:00-07:00</published>
+    <updated>2016-03-14T21:25:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dreamdesigns.ca/products/washable-wool-duvet"/>
+    <title>Washable Wool Duvet</title>
+    <s:type>Duvets</s:type>
+    <s:vendor>Dream Designs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0389/5989/products/Girl_sleeping.jpg?v=1571438945"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dream Designs<br>
+        <strong>Type: </strong>Duvets<br>
+        <strong>Price: </strong>
+            109.00 - 349.00
+            <a href="https://www.dreamdesigns.ca/products/washable-wool-duvet">(9 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Washable wool duvet made with 100% cotton casing and washable wool batting from England.  Made in Vancouver, Canada.</p>
+<p><span style="text-decoration: underline;"><strong><span style="line-height: 1.2;">Weight</span></strong></span></p>
+<ul>
+<li>Summer - best for warmer weather or year-round in an apartment or condo. Equivalent GPSM 250 to 280**</li>
+<li>Regular / All-Season - most sleeper’s preference for all-year-round use. Equivalent GPSM 320 to 350**</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/729379460</id>
+      <title>Crib / Summer</title>
+      <s:price currency="CAD">109.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/729379460</id>
+      <title>Twin / Summer</title>
+      <s:price currency="CAD">189.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/729379460</id>
+      <title>Twin / All season</title>
+      <s:price currency="CAD">219.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/729379460</id>
+      <title>Queen / Summer</title>
+      <s:price currency="CAD">249.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/729379460</id>
+      <title>Double / Summer</title>
+      <s:price currency="CAD">249.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/729379460</id>
+      <title>Queen / All season</title>
+      <s:price currency="CAD">279.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/729379460</id>
+      <title>Double / All season</title>
+      <s:price currency="CAD">279.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/729379460</id>
+      <title>King / Summer</title>
+      <s:price currency="CAD">299.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/729379460</id>
+      <title>King / All season</title>
+      <s:price currency="CAD">349.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.dreamdesigns.ca/products/714199044</id>
+    <published>2016-03-14T11:57:00-07:00</published>
+    <updated>2016-03-14T11:57:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dreamdesigns.ca/products/washable-wool-pillow-petite"/>
+    <title>Washable Wool Pillow</title>
+    <s:type>Pillows</s:type>
+    <s:vendor>Dream Designs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0389/5989/products/Baby_pillow.jpg?v=1571438945"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dream Designs<br>
+        <strong>Type: </strong>Pillows<br>
+        <strong>Price: </strong>
+            59.00 - 109.00
+            <a href="https://www.dreamdesigns.ca/products/washable-wool-pillow-petite">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A medium-loft pillow filled with washable wool and cased in cotton.  Well made in Vancouver, Canada.  </p>
+<meta charset="utf-8"><meta charset="utf-8">
+<ul>
+<li><span>Petite 14x20"</span></li>
+<li><span>Standard 20x27"</span></li>
+<li><span>Queen 20x30"</span></li>
+<li><span>King 20x36"</span></li>
+</ul>
+<meta charset="utf-8">
+<p><span>Wool has a faint natural smell that may be noticeable when you first open the packaging. It is normal and will dissipate with time and airing.</span></p>
+<p><span>The whole pillow may be handed washed when necessary in cool water and with mild detergent.  Gently squeeze and do not over agitate.  When rinsed it can be “spun” in the washing machine to remove excess water. Place in dryer on “hot” for a max. of 10 minutes.  Remove and allow to air dry. </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/714199044</id>
+      <title>Petite</title>
+      <s:price currency="CAD">59.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/714199044</id>
+      <title>Standard</title>
+      <s:price currency="CAD">89.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/714199044</id>
+      <title>Queen</title>
+      <s:price currency="CAD">99.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/714199044</id>
+      <title>King</title>
+      <s:price currency="CAD">109.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.dreamdesigns.ca/products/597439364</id>
+    <published>2016-02-20T08:29:00-08:00</published>
+    <updated>2016-02-20T08:29:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dreamdesigns.ca/products/kapok-fibre-1lb"/>
+    <title>Kapok fibre 1lb</title>
+    <s:type>Pillows</s:type>
+    <s:vendor>Dream Designs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0389/5989/products/DreamDesigns-3195.jpg?v=1571438944"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dream Designs<br>
+        <strong>Type: </strong>Pillows<br>
+        <strong>Price: </strong>
+            16.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Kapok tree fibre.  Packaged in 1lb bag. Not washable. <meta charset="utf-8"><span data-mce-fragment="1">When adding or removing the kapok fill from your pillow, we recommend wearing a face mask</span><span data-mce-fragment="1"> to protect your airway.</span></p>
+<p><span data-mce-fragment="1"><meta charset="utf-8">Kapok is highly flammable. Please keep away from fire and high heat.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/597439364</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.dreamdesigns.ca/products/708777156</id>
+    <published>2016-02-12T08:55:00-08:00</published>
+    <updated>2016-02-12T08:55:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dreamdesigns.ca/products/washable-wool-mattress-pad"/>
+    <title>Washable Wool Mattress Pad</title>
+    <s:type>Duvets</s:type>
+    <s:vendor>Dream Designs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0389/5989/products/washable_mattress_topper.jpg?v=1571438945"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dream Designs<br>
+        <strong>Type: </strong>Duvets<br>
+        <strong>Price: </strong>
+            99.00 - 289.00
+            <a href="https://www.dreamdesigns.ca/products/washable-wool-mattress-pad">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Every day our bodies give off moisture vapor at a rate of 2 ounces per hour. If the materials surrounding us in bed cannot absorb and release this moisture, thermal stress and poor quality sleep will occur. Wool is the only material that can absorb up to 30% of its weight in moisture without feeling damp, and then release this moisture into the atmosphere, resulting in greatly improved sleep quality.  The wool mattress pad <span>prevents moisture build-up in the mattress, prolonging the life of the mattress as well as greatly increasing sleeping comfort.</span></p>
+<p>Our washable wool matters pads are filled with New Zealand washable wool, and cased in 100% cotton fabric.  It is made to fit on top of your mattress, and is held secure in place by elastic bands on the corners.  Well made in Canada.  </p>
+<p> </p>
+<p>Care instruction:</p>
+Use cold water and gentle soap, wash by hand or delicate cycle in front loading machine. Tumble dry on low for a maximum of 10 minutes and hang to dry.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/708777156</id>
+      <title>Single</title>
+      <s:price currency="CAD">159.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/708777156</id>
+      <title>Double</title>
+      <s:price currency="CAD">195.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/708777156</id>
+      <title>Queen</title>
+      <s:price currency="CAD">229.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/708777156</id>
+      <title>King</title>
+      <s:price currency="CAD">289.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/708777156</id>
+      <title>Crib</title>
+      <s:price currency="CAD">99.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.dreamdesigns.ca/products/684618884</id>
+    <published>2015-05-26T12:02:00-07:00</published>
+    <updated>2015-05-26T12:02:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dreamdesigns.ca/products/kapok-cushion-inserts"/>
+    <title>Kapok Cushion Inserts</title>
+    <s:type>Pillows</s:type>
+    <s:vendor>Dream Designs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0389/5989/products/Kapok_pillow_d70fae1f-f8e5-45f3-b467-6131a4a41c2c.jpg?v=1571438944"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dream Designs<br>
+        <strong>Type: </strong>Pillows<br>
+        <strong>Price: </strong>
+            22.00 - 65.00
+            <a href="https://www.dreamdesigns.ca/products/kapok-cushion-inserts">(12 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Filled with natural kapok fibre and cased in either natural cotton muslin or organic cotton sateen.  Made in Canada.</p>
+<p><meta charset="utf-8"><span>Not washable. Cushion cover required. When adding or removing the kapok fill from your pillow, we recommend wearing a face mask</span><span> to protect your airway.</span></p>
+<p><span>Kapok is highly flammable. Please keep away from fire and high heat.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/684618884</id>
+      <title>Natural Cotton Muslin Casing / 12x20&quot;</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/684618884</id>
+      <title>Natural Cotton Muslin Casing / 16x16&quot;</title>
+      <s:price currency="CAD">26.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/684618884</id>
+      <title>Natural Cotton Muslin Casing / 18x18</title>
+      <s:price currency="CAD">32.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/684618884</id>
+      <title>Natural Cotton Muslin Casing / 20x20&quot;</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/684618884</id>
+      <title>Natural Cotton Muslin Casing / 22x22&quot;</title>
+      <s:price currency="CAD">49.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/684618884</id>
+      <title>Natural Cotton Muslin Casing / 24x24&quot;</title>
+      <s:price currency="CAD">58.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/684618884</id>
+      <title>Organic Cotton Sateen Casing / 12x20&quot;</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/684618884</id>
+      <title>Organic Cotton Sateen Casing / 16x16&quot;</title>
+      <s:price currency="CAD">29.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/684618884</id>
+      <title>Organic Cotton Sateen Casing / 18x18</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/684618884</id>
+      <title>Organic Cotton Sateen Casing / 20x20&quot;</title>
+      <s:price currency="CAD">46.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/684618884</id>
+      <title>Organic Cotton Sateen Casing / 22x22&quot;</title>
+      <s:price currency="CAD">55.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/684618884</id>
+      <title>Organic Cotton Sateen Casing / 24x24&quot;</title>
+      <s:price currency="CAD">65.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.dreamdesigns.ca/products/266962873</id>
+    <published>2014-03-17T12:00:00-07:00</published>
+    <updated>2014-03-17T12:00:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dreamdesigns.ca/products/organic-buckwheat-neck-pillow"/>
+    <title>Organic Buckwheat Neck Pillow &quot;Comfort to Go&quot;</title>
+    <s:type>Pillows</s:type>
+    <s:vendor>Dream Designs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0389/5989/products/Dream_Designs_003.jpg?v=1571438937"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dream Designs<br>
+        <strong>Type: </strong>Pillows<br>
+        <strong>Price: </strong>
+            45.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This flexible, U-shaped buckwheat pillow is perfect for travel, offering comfort and support for seated sleepers.</p>
+<h2>Features</h2>
+<ul>
+<li>Filled with organic buckwheat hulls</li>
+<li>Removable casing 100% organic cotton sateen</li>
+<li>Well made in Canada</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/266962873</id>
+      <title>Natural</title>
+      <s:price currency="CAD">45.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.dreamdesigns.ca/products/266961301</id>
+    <published>2014-03-17T11:57:00-07:00</published>
+    <updated>2014-03-17T11:57:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dreamdesigns.ca/products/organic-flaxseed-eye-pillow-organic-cotton-casing"/>
+    <title>Organic Flaxseed Eye Pillow (Organic Cotton Casing)</title>
+    <s:type>Pillows</s:type>
+    <s:vendor>Dream Designs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0389/5989/products/32736_ae68c151-17d4-4187-9cc0-2a85165cfbbd.jpg?v=1571438937"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dream Designs<br>
+        <strong>Type: </strong>Pillows<br>
+        <strong>Price: </strong>
+            21.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>These delicate eye pillows provide cool and soothing comfort for tired eyes. The casing is removable.</p>
+<p>Our organic flaxseed eye pillows are:</p>
+<h2>Features</h2>
+<ul>
+<li>Filled with organic flaxseed</li>
+<li>Cased in 100% SKAL certified organic cotton</li>
+<li>Well made in Canada</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/266961301</id>
+      <title>Natural</title>
+      <s:price currency="CAD">21.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/266961301</id>
+      <title>Terra Cotta</title>
+      <s:price currency="CAD">21.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/266961301</id>
+      <title>Violet</title>
+      <s:price currency="CAD">21.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/266961301</id>
+      <title>Natural (Damask)</title>
+      <s:price currency="CAD">21.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/266961301</id>
+      <title>Cypress (Damask)</title>
+      <s:price currency="CAD">21.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/266961301</id>
+      <title>Marigold (Damask)</title>
+      <s:price currency="CAD">21.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/266961301</id>
+      <title>Glacier (Damask)</title>
+      <s:price currency="CAD">21.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.dreamdesigns.ca/products/266954849</id>
+    <published>2014-03-17T11:48:00-07:00</published>
+    <updated>2014-03-17T11:48:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dreamdesigns.ca/products/peanut-pillow-organic"/>
+    <title>Peanut Pillow - Organic</title>
+    <s:type>Pillows</s:type>
+    <s:vendor>Dream Designs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0389/5989/products/30242_be1f4309-cc95-49f8-a858-61535240c61c.jpg?v=1571438937"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dream Designs<br>
+        <strong>Type: </strong>Pillows<br>
+        <strong>Price: </strong>
+            39.00 - 59.00
+            <a href="https://www.dreamdesigns.ca/products/peanut-pillow-organic">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Recommended by chiropractors to relieve stress and back pain, our peanut pillows help restore the natural curve of the spine and relieve pressure in the neck and shoulders. They may also be used beneath or between the knees when you are lying down or tucked behind the small of your back when you are seated.</p>
+<h2>Features</h2>
+<ul>
+<li>Filled with natural wool or natural kapok tree fibre</li>
+<li>Cased in 100% GOTS certified organic cotton</li>
+<li>Well made in Canada</li>
+</ul>
+<p>The large peanut pillow is about 15” long and the small one is 12”.</p>
+<meta charset="utf-8">
+<p><span>Kapok is highly flammable. Please keep away from fire and </span><span>high heat. Wool is naturally flame resistant.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/266954849</id>
+      <title>Small / 100% Wool</title>
+      <s:price currency="CAD">49.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/266954849</id>
+      <title>Small / 100% Kapok</title>
+      <s:price currency="CAD">39.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/266954849</id>
+      <title>Large / 100% Wool</title>
+      <s:price currency="CAD">59.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/266954849</id>
+      <title>Large / 100% Kapok</title>
+      <s:price currency="CAD">49.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.dreamdesigns.ca/products/266954321</id>
+    <published>2014-03-17T11:47:00-07:00</published>
+    <updated>2014-03-17T11:47:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dreamdesigns.ca/products/peanut-pillow-natural"/>
+    <title>Peanut Pillow - Natural</title>
+    <s:type>Pillows</s:type>
+    <s:vendor>Dream Designs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0389/5989/products/30242.jpg?v=1571438937"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dream Designs<br>
+        <strong>Type: </strong>Pillows<br>
+        <strong>Price: </strong>
+            34.00 - 49.00
+            <a href="https://www.dreamdesigns.ca/products/peanut-pillow-natural">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Recommended by chiropractors to relieve stress and back pain, our peanut pillows help restore the natural curve of the spine and relieve pressure in the neck and shoulders. They may also be used beneath or between the knees when you are lying down or tucked behind the small of your back when you are seated.</p>
+<h2>Features</h2>
+<ul>
+<li>Filled with natural wool or natural kapok tree fibre</li>
+<li>Cased in natural cotton</li>
+<li>Well made in Canada</li>
+</ul>
+<div>The large peanut pillow is about 15” long and the small one is 12”.</div>
+<div></div>
+<div>
+<meta charset="utf-8">
+<span>Kapok is highly flammable. Please keep away from fire and </span><span>high heat. Wool is naturally flame resistant.</span>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/266954321</id>
+      <title>Small / 100% Wool</title>
+      <s:price currency="CAD">44.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/266954321</id>
+      <title>Small / 100% Kapok</title>
+      <s:price currency="CAD">34.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/266954321</id>
+      <title>Large / 100% Wool</title>
+      <s:price currency="CAD">49.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/266954321</id>
+      <title>Large / 100% Kapok</title>
+      <s:price currency="CAD">39.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.dreamdesigns.ca/products/265445313</id>
+    <published>2014-03-14T14:40:00-07:00</published>
+    <updated>2014-03-14T14:40:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dreamdesigns.ca/products/kapok-pillow"/>
+    <title>Kapok Pillow</title>
+    <s:type>Pillows</s:type>
+    <s:vendor>Dream Designs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0389/5989/products/Kapok_pillow.jpg?v=1624998899"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dream Designs<br>
+        <strong>Type: </strong>Pillows<br>
+        <strong>Price: </strong>
+            34.00 - 89.00
+            <a href="https://www.dreamdesigns.ca/products/kapok-pillow">(12 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The kapok fibre comes from the fluffy seed covering of the kapok tree, also known as the silk cotton tree, which grows in tropical rainforests around the world.  Our kapok fibre is <span>grown naturally without c</span><span>hemicals, pesticides, herbicides or fungicides.  During harvesting, it </span>is not washed or treated with any chemicals.  The seed is mechanically separated from the fibre, just like Cotton Fiber is. </p>
+<p>A zippered* opening allows you to easily remove stuffing to customize the loft of the pillow. Kapok fibre has a faint natural smell that may be noticeable when you first open the packaging. It will dissipate with time and airing. </p>
+<p>Pillowcase required. Kapok pillows are not washable, but you can spot clean the surface with a damp cloth. Air out under the sun to eliminate odour and impurities. When adding or removing the kapok fill from your pillow, we recommend wearing a face mask to protect your airway.</p>
+<h2>Features</h2>
+<ul>
+<li>Filled with natural kapok</li>
+<li>Cased in natural cotton or certified organic cotton</li>
+<li>Full support</li>
+<li>High loft</li>
+<li>Hypoallergenic</li>
+<li>Well made in Canada</li>
+</ul>
+<p>Size: (corner to corner)</p>
+<ul>
+<li><span>Standard 20x27"</span></li>
+<li><span>Queen 20x30"</span></li>
+<li><span>King 20x36"</span></li>
+<li><span>Dr. Bill/Junior 16x24"</span></li>
+<li><span>Petite/Baby 14x20"</span></li>
+<li><span>Bolster 6dx16"</span></li>
+<li><span>Body Pillow 14x45"</span></li>
+</ul>
+<p>* Petite sized pillows do not have zippers.</p>
+<meta charset="utf-8">
+<p><span>Kapok is highly flammable. Please keep away from fire and </span><span>high heat.</span></p>
+<p><em>"Having been combatting chronic neck pain for years I find it difficult to find pillows that don't aggravate the issue.  Sleeping anywhere but my own bed can result in weeks of discomfort.  The kapok </em>Dr.<em> Bill size pillow has been exactly right for me.  It is </em>the perfect size<em> and offers great support for my neck.  Being the small size that it </em>is makes<em> it easily transportable to virtually any destination so I never need to awake in discomfort again."</em></p>
+<p><em>- Emily Evans-Galeski, Registered Physiotherapist, North Vancouver</em></p>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265445313</id>
+      <title>Dr. Bill / Organic Cotton Casing</title>
+      <s:price currency="CAD">49.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265445313</id>
+      <title>Standard / Organic Cotton Casing</title>
+      <s:price currency="CAD">69.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265445313</id>
+      <title>Queen / Organic Cotton Casing</title>
+      <s:price currency="CAD">79.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265445313</id>
+      <title>King / Organic Cotton Casing</title>
+      <s:price currency="CAD">89.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265445313</id>
+      <title>Body Pillow / Organic Cotton Casing</title>
+      <s:price currency="CAD">89.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265445313</id>
+      <title>Petite / Organic Cotton Casing</title>
+      <s:price currency="CAD">39.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265445313</id>
+      <title>Dr. Bill / Natural Cotton Casing</title>
+      <s:price currency="CAD">44.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265445313</id>
+      <title>Standard / Natural Cotton Casing</title>
+      <s:price currency="CAD">59.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265445313</id>
+      <title>Queen / Natural Cotton Casing</title>
+      <s:price currency="CAD">69.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265445313</id>
+      <title>King / Natural Cotton Casing</title>
+      <s:price currency="CAD">79.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265445313</id>
+      <title>Body Pillow / Natural Cotton Casing</title>
+      <s:price currency="CAD">79.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265445313</id>
+      <title>Petite / Natural Cotton Casing</title>
+      <s:price currency="CAD">34.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.dreamdesigns.ca/products/544243012</id>
+    <published>2014-03-14T14:31:00-07:00</published>
+    <updated>2014-03-14T14:31:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dreamdesigns.ca/products/buckwheat-pillow-organic"/>
+    <title>Buckwheat Pillow &quot;Organic&quot;</title>
+    <s:type>Pillows</s:type>
+    <s:vendor>Dream Designs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0389/5989/products/Buckwheat_Pillows_web_518b9c9f-3b45-4406-bd9f-c9582c5d4e78.jpg?v=1571438944"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dream Designs<br>
+        <strong>Type: </strong>Pillows<br>
+        <strong>Price: </strong>
+            52.00 - 140.00
+            <a href="https://www.dreamdesigns.ca/products/buckwheat-pillow-organic">(10 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Buckwheat-filled pillows allow air to circulate freely, creating a thermodynamic sleeping surface that is warm in winter and cool in summer. Unlike fiber-filled pillows which pack down, the buckwheat hulls that fill these pillows shift to contour to the shape of your head and neck. Our Buckwheat Cloud Pillows are made with a layer of wool inside the casing on one side of the pillow. This adds a layer of softness to this firm but flexible pillow, it muffles the sound of the buckwheat hulls, it prevents dust mites from living in your pillow, and it also helps to equalize body temperature and humidity by wicking away moisture.</p>
+<h2>Features</h2>
+<ul>
+<li>Filled with organic buckwheat hulls</li>
+<li>Cased in certified organic cotton</li>
+<li>Made with a layer of natural wool</li>
+<li>Well made in Canada</li>
+</ul>
+<p>Buckwheat pillows are heavy, and therefore not recommended for sizes queen and king.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Buckwheat pillows</s:tag>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/544243012</id>
+      <title>Comfort (no wool) / Standard</title>
+      <s:price currency="CAD">85.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/544243012</id>
+      <title>Comfort (no wool) / Queen</title>
+      <s:price currency="CAD">95.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/544243012</id>
+      <title>Comfort (no wool) / King</title>
+      <s:price currency="CAD">120.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/544243012</id>
+      <title>Comfort (no wool) / Petite</title>
+      <s:price currency="CAD">59.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/544243012</id>
+      <title>Comfort (no wool) / Bolster</title>
+      <s:price currency="CAD">52.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/544243012</id>
+      <title>Cloud (with wool) / Standard</title>
+      <s:price currency="CAD">105.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/544243012</id>
+      <title>Cloud (with wool) / Queen</title>
+      <s:price currency="CAD">120.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/544243012</id>
+      <title>Cloud (with wool) / King</title>
+      <s:price currency="CAD">140.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/544243012</id>
+      <title>Cloud (with wool) / Petite</title>
+      <s:price currency="CAD">65.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/544243012</id>
+      <title>Cloud (with wool) / Bolster</title>
+      <s:price currency="CAD">59.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.dreamdesigns.ca/products/265436117</id>
+    <published>2014-03-14T14:31:00-07:00</published>
+    <updated>2014-03-14T14:31:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dreamdesigns.ca/products/buckwheat-pillow-cloud-with-wool"/>
+    <title>Buckwheat Pillows &quot;Natural&quot;</title>
+    <s:type>Pillows</s:type>
+    <s:vendor>Dream Designs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0389/5989/products/Buckwheat_Pillows_web.jpg?v=1571438936"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dream Designs<br>
+        <strong>Type: </strong>Pillows<br>
+        <strong>Price: </strong>
+            42.00 - 130.00
+            <a href="https://www.dreamdesigns.ca/products/buckwheat-pillow-cloud-with-wool">(10 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Buckwheat-filled pillows allow air to circulate freely, creating a thermodynamic sleeping surface that is warm in winter and cool in summer. Unlike fiber-filled pillows which pack down, the buckwheat hulls that fill these pillows shift to contour to the shape of your head and neck. Our Buckwheat Cloud Pillows are made with a layer of wool inside the casing on one side of the pillow. This adds a layer of softness to this firm but flexible pillow, it muffles the sound of the buckwheat hulls, it prevents dust mites from living in your pillow, and it also helps to equalize body temperature and humidity by wicking away moisture.</p>
+<h2>Features</h2>
+<ul>
+<li>Filled with organic buckwheat hulls</li>
+<li>Cased in natural cotton</li>
+<li>Made with a layer of natural wool</li>
+<li>Well made in Canada</li>
+</ul>
+<p><meta charset="utf-8"><span>Buckwheat pillows are heavy, and therefore not recommended for sizes queen and king.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Buckwheat pillows</s:tag>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265436117</id>
+      <title>Comfort (no wool) / Standard</title>
+      <s:price currency="CAD">79.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265436117</id>
+      <title>Comfort (no wool) / Queen</title>
+      <s:price currency="CAD">85.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265436117</id>
+      <title>Comfort (no wool) / King</title>
+      <s:price currency="CAD">105.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265436117</id>
+      <title>Comfort (no wool) / Petite</title>
+      <s:price currency="CAD">52.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265436117</id>
+      <title>Comfort (no wool) / Bolster</title>
+      <s:price currency="CAD">42.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265436117</id>
+      <title>Cloud (with wool) / Standard</title>
+      <s:price currency="CAD">95.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265436117</id>
+      <title>Cloud (with wool) / Queen</title>
+      <s:price currency="CAD">105.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265436117</id>
+      <title>Cloud (with wool) / King</title>
+      <s:price currency="CAD">130.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265436117</id>
+      <title>Cloud (with wool) / Petite</title>
+      <s:price currency="CAD">59.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265436117</id>
+      <title>Cloud (with wool) / Bolster</title>
+      <s:price currency="CAD">54.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.dreamdesigns.ca/products/265430465</id>
+    <published>2014-03-14T14:22:30-07:00</published>
+    <updated>2014-03-14T14:22:30-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dreamdesigns.ca/products/bamboo-rayon-duvet-all-season"/>
+    <title>Bamboo Rayon Duvet</title>
+    <s:type>Duvets</s:type>
+    <s:vendor>Dream Designs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0389/5989/products/image.png?v=1620311600"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dream Designs<br>
+        <strong>Type: </strong>Duvets<br>
+        <strong>Price: </strong>
+            69.00 - 329.00
+            <a href="https://www.dreamdesigns.ca/products/bamboo-rayon-duvet-all-season">(7 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Filled with bamboo fibre spun from the pulp of the bamboo plant, cased in 100% unbleached natural cotton. Vegan-friendly, naturally antibacterial, antifungal, breathable, insulating, and odour resistant. </p>
+<p>Care Instructions: Use a duvet cover, preferably made from natural fibers for enhanced breathability, to keep the duvet clean. Fluff the duvet regularly to maintain loft. To eliminate odor and bacteria air the duvet outside in direct sun or tumble dry on a low setting. Store your duvet in a cotton bag as plastic and polyester trap moisture and promote the growth of mildew. Spot clean or dry clean as needed, using an eco-friendly dry cleaner whenever possible. Designed by and made exclusively for Dream Designs. Produced in compliance with International Labor Standards.</p>
+<ul>
+<li>Breathable</li>
+<li>Naturally anti-bacterial and anti-fungal</li>
+<li>Made from sustainable resources</li>
+<li>Biodegradable</li>
+</ul>
+<p>Weight (approx. KG):</p>
+<ul>
+<li>Summer (Twin 1.1, Queen 1.6, King 2.1) </li>
+<li>All-season (Twin 2.1, Queen 2.8, King 3.3)</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bamboo rayon duvet</s:tag>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265430465</id>
+      <title>Summer / Twin</title>
+      <s:price currency="CAD">169.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265430465</id>
+      <title>Summer / Queen</title>
+      <s:price currency="CAD">219.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265430465</id>
+      <title>Summer / King</title>
+      <s:price currency="CAD">249.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265430465</id>
+      <title>All Season / Crib</title>
+      <s:price currency="CAD">69.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265430465</id>
+      <title>All Season / Twin</title>
+      <s:price currency="CAD">229.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265430465</id>
+      <title>All Season / Queen</title>
+      <s:price currency="CAD">289.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265430465</id>
+      <title>All Season / King</title>
+      <s:price currency="CAD">329.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.dreamdesigns.ca/products/265425977</id>
+    <published>2014-03-14T14:17:22-07:00</published>
+    <updated>2014-03-14T14:17:22-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dreamdesigns.ca/products/all-season-silk-duvet"/>
+    <title>Mulberry Silk Duvet</title>
+    <s:type>Duvets</s:type>
+    <s:vendor>Dream Designs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0389/5989/products/100727.jpg?v=1571438936"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dream Designs<br>
+        <strong>Type: </strong>Duvets<br>
+        <strong>Price: </strong>
+            289.00 - 499.00
+            <a href="https://www.dreamdesigns.ca/products/all-season-silk-duvet">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="line-height: 1.5;">Enrich your sleep with the luxury of silk.  </span><span style="line-height: 1.5;">Our silk duvets are filled with 100% hand-stretched natural mulberry silk, and c</span><span style="line-height: 1.5;">ased in unbleached natural cotton. They are </span><span style="line-height: 1.5;">box stitched to prevent the fill from shifting.</span></p>
+<p><span style="line-height: 1.5;">Silk is very lightweight.  Comparing silk to wool of the same warmth, silk is only half the weight.  Silk duvets are best suited for sleeping partners with different body temperatures.  Silk naturally equalizes temperature which will make the cold sleeping partner warm and the hot sleeping partner dry and comfortable.  Silk duvets drape around the body beautifully, eliminating cold pockets under your cover. </span></p>
+<p>Use a duvet cover to protect your silk duvet.  It cannot be soaked in water.  Please dry clean or spot clean with a damp cloth.  We also recommend airing it out under the sun to eliminate germs and odours.</p>
+<ul>
+<li>Lightweight</li>
+<li>Breathable</li>
+<li>Temperature and humidity equalizing</li>
+<li>Hypoallergenic</li>
+<li>Made in China exclusively for Dream Designs</li>
+</ul>
+<p>Weight (approx KG)</p>
+<ul>
+<li>Summer (Twin 0.8, Queen 1.1, King 1.3)</li>
+<li>All-season (Twin 1.4, Queen 1.7, King 2.1)</li>
+</ul>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>mulberry silk</s:tag>
+    <s:tag>Silk duvet</s:tag>
+    <s:tag>unbleached cotton</s:tag>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265425977</id>
+      <title>Summer / Single</title>
+      <s:price currency="CAD">289.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265425977</id>
+      <title>Summer / Queen</title>
+      <s:price currency="CAD">359.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265425977</id>
+      <title>Summer / King</title>
+      <s:price currency="CAD">379.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265425977</id>
+      <title>All Season / Single</title>
+      <s:price currency="CAD">380.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265425977</id>
+      <title>All Season / Queen</title>
+      <s:price currency="CAD">439.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265425977</id>
+      <title>All Season / King</title>
+      <s:price currency="CAD">499.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

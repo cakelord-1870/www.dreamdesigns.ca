@@ -1,0 +1,661 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.dreamdesigns.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.dreamdesigns.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.dreamdesigns.ca/collections/bath-laundry.atom"/>
+  <title>Dream Designs Co. Ltd. </title>
+  <updated>2020-05-26T12:47:26-07:00</updated>
+  <author>
+    <name>Dream Designs Co. Ltd. </name>
+  </author>
+  <entry>
+    <id>https://www.dreamdesigns.ca/products/4630788505688</id>
+    <published>2020-05-26T12:47:26-07:00</published>
+    <updated>2020-05-26T12:47:26-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dreamdesigns.ca/products/linen-shower-curtains-1"/>
+    <title>Linen Shower Curtains</title>
+    <s:type>Bath</s:type>
+    <s:vendor>Dream Designs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0389/5989/products/Hempshowercurtain_4.jpg?v=1611010612"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dream Designs<br>
+        <strong>Type: </strong>Bath<br>
+        <strong>Price: </strong>
+            109.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>No plastic or vinyl liner required!  Our linen shower curtain is made from 100% linen canvas, which is tightly woven so water will not leak through.   Although it will get wet during your shower, it can air dry quickly in a well-ventilated space.  Machine washable or dryable.  <meta charset="utf-8"><span data-mce-fragment="1">L</span><span data-mce-fragment="1">aundering and thorough drying once a week required. </span></p>
+<h2>Features</h2>
+<ul>
+<li>Made from 100% natural linen canvas</li>
+<li>Oeko-Tex certified non-toxic</li>
+<li>Tightly woven so water will not leak through</li>
+<li>Machine wash and dryable</li>
+<li>Measures 72" x 72" (183cm x 183cm)</li>
+<li>Well made in Canada</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Dream Designs hemp shower curtain</s:tag>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4630788505688</id>
+      <title>Sand</title>
+      <s:price currency="CAD">109.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4630788505688</id>
+      <title>Key Lime</title>
+      <s:price currency="CAD">109.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4630788505688</id>
+      <title>Natural</title>
+      <s:price currency="CAD">109.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.dreamdesigns.ca/products/684350084</id>
+    <published>2015-05-26T12:21:00-07:00</published>
+    <updated>2015-05-26T12:21:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dreamdesigns.ca/products/herboganic-hankie"/>
+    <title>Organic Cotton Hankie</title>
+    <s:type>Laundry</s:type>
+    <s:vendor>Dream Designs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0389/5989/products/Dream_Designs_004.jpg?v=1571438944"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dream Designs<br>
+        <strong>Type: </strong>Laundry<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Handkerchiefs made in Canada from certified organic cotton.  Assorted colours. 14x14".</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/684350084</id>
+      <title>Light Pink</title>
+      <s:price currency="CAD">6.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/684350084</id>
+      <title>Light Green</title>
+      <s:price currency="CAD">6.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/684350084</id>
+      <title>Turquoise</title>
+      <s:price currency="CAD">6.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/684350084</id>
+      <title>Navy</title>
+      <s:price currency="CAD">6.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/684350084</id>
+      <title>Grey</title>
+      <s:price currency="CAD">6.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/684350084</id>
+      <title>Taupe</title>
+      <s:price currency="CAD">6.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/684350084</id>
+      <title>Terra Cotta</title>
+      <s:price currency="CAD">6.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.dreamdesigns.ca/products/279077533</id>
+    <published>2015-05-26T12:21:00-07:00</published>
+    <updated>2015-05-26T12:21:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dreamdesigns.ca/products/soap-nut-laundry-detergent"/>
+    <title>Soap Nut Laundry Detergent</title>
+    <s:type>Laundry</s:type>
+    <s:vendor>Dream Designs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0389/5989/products/Soapnut_laundry_detergent.jpg?v=1571438938"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dream Designs<br>
+        <strong>Type: </strong>Laundry<br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Wash your laundry naturally with our organic soap nut laundry detergent.  It's an effective yet non-toxic, hypoallergenic, scent-free, and biodegradable alternative to conventional detergent.   It's also gentle on fabrics, helping your linens and clothes last longer.</p>
+<p>Boil the entire bag of soap nuts in 8 cups of water.  Simmer for twenty minutes and let it cool completely.  Strain and save the liquid to use as laundry detergent that's good for 30-40 loads.  Depending on the soil level and volume of your laundry, add between 3 and 4 tablespoonful to each load.  The leftover cooked soap nuts can be composted.  Packaged in Canada.</p>
+<p> </p>
+<p> </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/279077533</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.dreamdesigns.ca/products/271195429</id>
+    <published>2014-03-22T15:06:00-07:00</published>
+    <updated>2014-03-22T15:06:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dreamdesigns.ca/products/lavender-dryer-bag"/>
+    <title>Lavender dryer bag</title>
+    <s:type>Laundry</s:type>
+    <s:vendor>Dream Designs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0389/5989/products/Lavender_dryer_bag.jpg?v=1571438937"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dream Designs<br>
+        <strong>Type: </strong>Laundry<br>
+        <strong>Price: </strong>
+            19.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">A 100% natural, toxin free alternative to dryer sheet that truly work!  We fill our lavender dryer bag with 100% dried lavender flowers from Provence France, and the casing fabric is 100% organic cotton scrap from our bed linens manufacturing.  Toss one in with your laundry to eliminate statics.  Your clothes and linens will have a soothing lavender scent fresh out of the dryer, but the smell won't linger like chemical fragrance.  Each bag will last up to 40 loads, and after that you can use it as a sachet to freshen up your sock drawer.  Quality made in Canada.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/271195429</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.dreamdesigns.ca/products/266946521</id>
+    <published>2014-03-17T11:29:36-07:00</published>
+    <updated>2014-03-17T11:29:36-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dreamdesigns.ca/products/organic-cotton-bath-towels"/>
+    <title>Organic Cotton Towels</title>
+    <s:type>Bath</s:type>
+    <s:vendor>Dream Designs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0389/5989/products/Towels_group_2018.jpg?v=1571949233"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dream Designs<br>
+        <strong>Type: </strong>Bath<br>
+        <strong>Price: </strong>
+            8.99 - 64.99
+            <a href="https://www.dreamdesigns.ca/products/organic-cotton-bath-towels">(56 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Pamper yourself with our luxury organic cotton towels!  Thick, plush, soft, and super absorbent.  Their gorgeous colours will accent any bathroom decor and uplift your mood.     </p>
+<ul>
+<li>Made from organic cotton</li>
+<li>Oeko-Tex certified</li>
+<li>Traditional terry feel</li>
+<li>Long-lasting</li>
+<li>Machine wash in cold water.  Line dry or tumble dry low</li>
+<li>Made in Portugal exclusively for Dream Designs</li>
+</ul>
+<p>Currently out of stock:</p>
+<p>Face towels: Chocolate</p>
+<p>Hand towels: Taupe</p>
+<p>Bath towels: Taupe, Navy, Violet, Red</p>
+<p>Bath sheets: Navy, Violet, and Red </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/266946521</id>
+      <title>White (Org. Cotton) / Face Towel (12x12&quot;)</title>
+      <s:price currency="CAD">8.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/266946521</id>
+      <title>White (Org. Cotton) / Hand Towel (15x27&quot;)</title>
+      <s:price currency="CAD">18.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/266946521</id>
+      <title>White (Org. Cotton) / Bath Mat (20x30&quot;)</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/266946521</id>
+      <title>White (Org. Cotton) / Bath Towel (28x51&quot;)</title>
+      <s:price currency="CAD">34.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/266946521</id>
+      <title>White (Org. Cotton) / Bath Sheet (35x72&quot;)</title>
+      <s:price currency="CAD">64.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/266946521</id>
+      <title>Ivory (Org. Cotton) / Face Towel (12x12&quot;)</title>
+      <s:price currency="CAD">8.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/266946521</id>
+      <title>Ivory (Org. Cotton) / Hand Towel (15x27&quot;)</title>
+      <s:price currency="CAD">18.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/266946521</id>
+      <title>Ivory (Org. Cotton) / Bath Mat (20x30&quot;)</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/266946521</id>
+      <title>Ivory (Org. Cotton) / Bath Towel (28x51&quot;)</title>
+      <s:price currency="CAD">34.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/266946521</id>
+      <title>Ivory (Org. Cotton) / Bath Sheet (35x72&quot;)</title>
+      <s:price currency="CAD">64.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/266946521</id>
+      <title>Slate (Org. Cotton) / Face Towel (12x12&quot;)</title>
+      <s:price currency="CAD">8.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/266946521</id>
+      <title>Slate (Org. Cotton) / Hand Towel (15x27&quot;)</title>
+      <s:price currency="CAD">18.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/266946521</id>
+      <title>Slate (Org. Cotton) / Bath Mat (20x30&quot;)</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/266946521</id>
+      <title>Slate (Org. Cotton) / Bath Towel (28x51&quot;)</title>
+      <s:price currency="CAD">34.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/266946521</id>
+      <title>Slate (Org. Cotton) / Bath Sheet (35x72&quot;)</title>
+      <s:price currency="CAD">64.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/266946521</id>
+      <title>Chocolate (Org. Cotton) / Face Towel (12x12&quot;)</title>
+      <s:price currency="CAD">8.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/266946521</id>
+      <title>Chocolate (Org. Cotton) / Hand Towel (15x27&quot;)</title>
+      <s:price currency="CAD">18.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/266946521</id>
+      <title>Chocolate (Org. Cotton) / Bath Mat (20x30&quot;)</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/266946521</id>
+      <title>Chocolate (Org. Cotton) / Bath Towel (28x51&quot;)</title>
+      <s:price currency="CAD">34.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/266946521</id>
+      <title>Chocolate (Org. Cotton) / Bath Sheet (35x72&quot;)</title>
+      <s:price currency="CAD">64.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/266946521</id>
+      <title>Cactus (Org. Cotton) / Face Towel (12x12&quot;)</title>
+      <s:price currency="CAD">8.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/266946521</id>
+      <title>Cactus (Org. Cotton) / Hand Towel (15x27&quot;)</title>
+      <s:price currency="CAD">18.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/266946521</id>
+      <title>Cactus (Org. Cotton) / Bath Mat (20x30&quot;)</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/266946521</id>
+      <title>Cactus (Org. Cotton) / Bath Towel (28x51&quot;)</title>
+      <s:price currency="CAD">34.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/266946521</id>
+      <title>Cactus (Org. Cotton) / Bath Sheet (35x72&quot;)</title>
+      <s:price currency="CAD">64.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/266946521</id>
+      <title>Violet (Org. Cotton) / Face Towel (12x12&quot;)</title>
+      <s:price currency="CAD">8.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/266946521</id>
+      <title>Violet (Org. Cotton) / Hand Towel (15x27&quot;)</title>
+      <s:price currency="CAD">18.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/266946521</id>
+      <title>Violet (Org. Cotton) / Bath Mat (20x30&quot;)</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/266946521</id>
+      <title>Violet (Org. Cotton) / Bath Towel (28x51&quot;)</title>
+      <s:price currency="CAD">34.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/266946521</id>
+      <title>Red (Org. Cotton) / Face Towel (12x12&quot;)</title>
+      <s:price currency="CAD">8.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/266946521</id>
+      <title>Red (Org. Cotton) / Hand Towel (15x27&quot;)</title>
+      <s:price currency="CAD">18.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/266946521</id>
+      <title>Red (Org. Cotton) / Bath Mat (20x30&quot;)</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/266946521</id>
+      <title>Red (Org. Cotton) / Bath Towel (28x51&quot;)</title>
+      <s:price currency="CAD">34.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/266946521</id>
+      <title>Red (Org. Cotton) / Bath Sheet (35x72&quot;)</title>
+      <s:price currency="CAD">64.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/266946521</id>
+      <title>Navy (Org. Cotton) / Face Towel (12x12&quot;)</title>
+      <s:price currency="CAD">8.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/266946521</id>
+      <title>Taupe (Org. Cotton) / Face Towel (12x12&quot;)</title>
+      <s:price currency="CAD">8.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/266946521</id>
+      <title>Seafoam (Org. Cotton) / Face Towel (12x12&quot;)</title>
+      <s:price currency="CAD">8.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/266946521</id>
+      <title>Sky (Org. Cotton) / Face Towel (12x12&quot;)</title>
+      <s:price currency="CAD">8.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/266946521</id>
+      <title>Coral (Org. Cotton) / Face Towel (12x12&quot;)</title>
+      <s:price currency="CAD">8.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/266946521</id>
+      <title>Navy (Org. Cotton) / Hand Towel (15x27&quot;)</title>
+      <s:price currency="CAD">18.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/266946521</id>
+      <title>Taupe (Org. Cotton) / Hand Towel (15x27&quot;)</title>
+      <s:price currency="CAD">18.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/266946521</id>
+      <title>Seafoam (Org. Cotton) / Hand Towel (15x27&quot;)</title>
+      <s:price currency="CAD">18.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/266946521</id>
+      <title>Sky (Org. Cotton) / Hand Towel (15x27&quot;)</title>
+      <s:price currency="CAD">18.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/266946521</id>
+      <title>Coral (Org. Cotton) / Hand Towel (15x27&quot;)</title>
+      <s:price currency="CAD">18.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/266946521</id>
+      <title>Navy (Org. Cotton) / Bath Mat (20x30&quot;)</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/266946521</id>
+      <title>Taupe (Org. Cotton) / Bath Mat (20x30&quot;)</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/266946521</id>
+      <title>Seafoam (Org. Cotton) / Bath Mat (20x30&quot;)</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/266946521</id>
+      <title>Sky (Org. Cotton) / Bath Mat (20x30&quot;)</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/266946521</id>
+      <title>Coral (Org. Cotton) / Bath Mat (20x30&quot;)</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/266946521</id>
+      <title>Navy (Org. Cotton) / Bath Towel (28x51&quot;)</title>
+      <s:price currency="CAD">34.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/266946521</id>
+      <title>Taupe (Org. Cotton) / Bath Towel (28x51&quot;)</title>
+      <s:price currency="CAD">34.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/266946521</id>
+      <title>Seafoam (Org. Cotton) / Bath Towel (28x51&quot;)</title>
+      <s:price currency="CAD">34.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/266946521</id>
+      <title>Sky (Org. Cotton) / Bath Towel (28x51&quot;)</title>
+      <s:price currency="CAD">34.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/266946521</id>
+      <title>Coral (Org. Cotton) / Bath Towel (28x51&quot;)</title>
+      <s:price currency="CAD">34.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/266946521</id>
+      <title>Taupe (Org. Cotton) / Bath Sheet (35x72&quot;)</title>
+      <s:price currency="CAD">64.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/266946521</id>
+      <title>Seafoam (Org. Cotton) / Bath Sheet (35x72&quot;)</title>
+      <s:price currency="CAD">64.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

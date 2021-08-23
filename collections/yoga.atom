@@ -1,0 +1,2030 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.dreamdesigns.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.dreamdesigns.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.dreamdesigns.ca/collections/yoga.atom"/>
+  <title>Dream Designs Co. Ltd. </title>
+  <updated>2020-06-04T13:01:13-07:00</updated>
+  <author>
+    <name>Dream Designs Co. Ltd. </name>
+  </author>
+  <entry>
+    <id>https://www.dreamdesigns.ca/products/4640494321752</id>
+    <published>2020-06-04T13:01:13-07:00</published>
+    <updated>2020-06-04T13:01:13-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dreamdesigns.ca/products/organic-cotton-canvas-block-cover"/>
+    <title>Organic Cotton Canvas Block Cover</title>
+    <s:type>Yoga</s:type>
+    <s:vendor>Dream Designs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0389/5989/products/100330_df93d044-1e82-430d-a050-024061615599.jpg?v=1591302042"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dream Designs<br>
+        <strong>Type: </strong>Yoga<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>These zippered fabric covers for our foam blocks are removable and washable.</p>
+<ul>
+<li>Made of organic cotton canvas</li>
+<li>Well made in Canada</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4640494321752</id>
+      <title>Natural</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4640494321752</id>
+      <title>Wenge</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4640494321752</id>
+      <title>Cherry</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.dreamdesigns.ca/products/266915745</id>
+    <published>2014-03-17T10:54:00-07:00</published>
+    <updated>2014-03-17T10:54:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dreamdesigns.ca/products/organic-cotton-gomden"/>
+    <title>Organic Gomden</title>
+    <s:type>Yoga</s:type>
+    <s:vendor>Dream Designs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0389/5989/products/OYG001.jpg?v=1571438937"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dream Designs<br>
+        <strong>Type: </strong>Yoga<br>
+        <strong>Price: </strong>
+            90.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This rectangular buckwheat filled cushion was designed by a Tibetan meditation master and is usually used in conjunction with a zabuton.</p>
+<h2>Features</h2>
+<ul>
+<li>Filled will organic buckwheat</li>
+<li>Cased in organic cotton twill</li>
+<li>Measures 11x15x5"</li>
+<li>Well made in Canada</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/266915745</id>
+      <title>Natural</title>
+      <s:price currency="CAD">90.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/266915745</id>
+      <title>Cherry</title>
+      <s:price currency="CAD">90.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/266915745</id>
+      <title>Wenge</title>
+      <s:price currency="CAD">90.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/266915745</id>
+      <title>Avocado disc.</title>
+      <s:price currency="CAD">90.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.dreamdesigns.ca/products/266914421</id>
+    <published>2014-03-17T10:50:00-07:00</published>
+    <updated>2014-03-17T10:50:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dreamdesigns.ca/products/gomden"/>
+    <title>Gomden</title>
+    <s:type>Yoga</s:type>
+    <s:vendor>Dream Designs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0389/5989/products/YGD001.jpg?v=1571438937"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dream Designs<br>
+        <strong>Type: </strong>Yoga<br>
+        <strong>Price: </strong>
+            75.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This rectangular buckwheat filled cushion was designed by a Tibetan meditation master and is usually used in conjunction with a zabuton.</p>
+<h2>Features</h2>
+<ul>
+<li>Filled will buckwheat hulls</li>
+<li>Cased in cotton canvas</li>
+<li>Measures 11x15x5"</li>
+<li>Well made in Canada</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/266914421</id>
+      <title>Purple (Cotton Canvas)</title>
+      <s:price currency="CAD">75.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/266914421</id>
+      <title>Terra Cotta (Cotton Canvas)</title>
+      <s:price currency="CAD">75.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/266914421</id>
+      <title>Burgundy (Cotton Canvas)</title>
+      <s:price currency="CAD">75.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/266914421</id>
+      <title>Navy (Cotton Canvas)</title>
+      <s:price currency="CAD">75.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/266914421</id>
+      <title>Black (Cotton Canvas)</title>
+      <s:price currency="CAD">75.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/266914421</id>
+      <title>Green (Cotton Canvas)</title>
+      <s:price currency="CAD">75.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/266914421</id>
+      <title>Olive</title>
+      <s:price currency="CAD">75.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.dreamdesigns.ca/products/266911125</id>
+    <published>2014-03-17T10:49:25-07:00</published>
+    <updated>2014-03-17T10:49:25-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dreamdesigns.ca/products/yoga-mat-tote"/>
+    <title>Yoga Mat Tote</title>
+    <s:type>Yoga</s:type>
+    <s:vendor>Dream Designs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0389/5989/products/YMT005.jpg?v=1571438937"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dream Designs<br>
+        <strong>Type: </strong>Yoga<br>
+        <strong>Price: </strong>
+            34.99 - 42.99
+            <a href="https://www.dreamdesigns.ca/products/yoga-mat-tote">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Designed for yogis and yoginas on the go, this tote features a toggle drawstring closure and a zippered pocket. It fits our Natural Grass Yoga Mat and most sticky mats with room to spare for your yoga strap.</p>
+<h2>Features</h2>
+<ul>
+<li>Available in conventional or organic cotton canvas</li>
+<li>Well made in Canada</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/266911125</id>
+      <title>Purple (Cotton Canvas)</title>
+      <s:price currency="CAD">34.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/266911125</id>
+      <title>Terra Cotta (Cotton Canvas)</title>
+      <s:price currency="CAD">34.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/266911125</id>
+      <title>Burgundy (Cotton Canvas)</title>
+      <s:price currency="CAD">34.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/266911125</id>
+      <title>Navy (Cotton Canvas)</title>
+      <s:price currency="CAD">34.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/266911125</id>
+      <title>Black (Cotton Canvas)</title>
+      <s:price currency="CAD">34.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/266911125</id>
+      <title>Green (Cotton Canvas)</title>
+      <s:price currency="CAD">34.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/266911125</id>
+      <title>Organic Cotton &quot;Natural&quot;</title>
+      <s:price currency="CAD">42.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/266911125</id>
+      <title>Organic Cotton &quot;Avocado&quot;</title>
+      <s:price currency="CAD">42.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.dreamdesigns.ca/products/266909697</id>
+    <published>2014-03-17T10:48:00-07:00</published>
+    <updated>2014-03-17T10:48:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dreamdesigns.ca/products/yoga-straps"/>
+    <title>Yoga Straps</title>
+    <s:type>Yoga</s:type>
+    <s:vendor>Dream Designs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0389/5989/products/Black_yoga_strap.jpg?v=1571438937"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dream Designs<br>
+        <strong>Type: </strong>Yoga<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This 6' long cotton strap with a D ring allows you to find flexibility and quiet in poses that would otherwise be out of reach.  Black only.  We are no longer carrying the natural colour.</p>
+<h2>Features</h2>
+<ul>
+<li>Measures 6' x 1"</li>
+<li>Well made in Canada</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/266909697</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.dreamdesigns.ca/products/266897289</id>
+    <published>2014-03-17T10:33:00-07:00</published>
+    <updated>2014-03-17T10:33:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dreamdesigns.ca/products/recycled-foam-block"/>
+    <title>Recycled Foam Block</title>
+    <s:type>Yoga</s:type>
+    <s:vendor>Dream Designs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0389/5989/products/YBK001.jpg?v=1571438937"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dream Designs<br>
+        <strong>Type: </strong>Yoga<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>These lightweight blocks are used to support the thighs in sitting poses and to provide the perfect surface for shoulder stands.</p>
+<h2>Features</h2>
+<ul>
+<li>Made of recycled foam</li>
+<li>Measures 8" x 12" x 2" (20cm x 30cm x 5cm)</li>
+<li>Made in Canada</li>
+<li>Covers are available separately:<br>
+</li>
+<ul>
+<li><a href="https://www.dreamdesigns.ca/collections/yoga/products/cotton-canvas-block-cover">Regular cotton</a></li>
+<li><a href="https://www.dreamdesigns.ca/collections/foam-blocks/products/organic-cotton-canvas-block-cover">Organic cotton</a></li>
+</ul>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/266897289</id>
+      <title>Foam Block (No Cover)</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku>16.99</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.dreamdesigns.ca/products/266895609</id>
+    <published>2014-03-17T10:30:00-07:00</published>
+    <updated>2014-03-17T10:30:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dreamdesigns.ca/products/cotton-canvas-block-cover"/>
+    <title>Cotton Canvas Block Cover</title>
+    <s:type>Yoga</s:type>
+    <s:vendor>Dream Designs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0389/5989/products/100330.jpg?v=1571438937"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dream Designs<br>
+        <strong>Type: </strong>Yoga<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>These zippered fabric covers for our foam blocks are removable and washable.</p>
+<h2>Features</h2>
+<ul>
+<li>Made of cotton canvas</li>
+<li>Well made in Canada</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/266895609</id>
+      <title>Purple (Cotton Canvas)</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/266895609</id>
+      <title>Terra Cotta (Cotton Canvas)</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/266895609</id>
+      <title>Burgundy (Cotton Canvas)</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/266895609</id>
+      <title>Navy (Cotton Canvas)</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/266895609</id>
+      <title>Black (Cotton Canvas)</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/266895609</id>
+      <title>Green (Cotton Canvas)</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.dreamdesigns.ca/products/265507353</id>
+    <published>2014-03-14T16:29:20-07:00</published>
+    <updated>2014-03-14T16:29:20-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dreamdesigns.ca/products/regular-shiatsu-mat"/>
+    <title>Regular Shiatsu Mat</title>
+    <s:type>Yoga</s:type>
+    <s:vendor>Dream Designs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0389/5989/products/YST001.jpg?v=1571438937"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dream Designs<br>
+        <strong>Type: </strong>Yoga<br>
+        <strong>Price: </strong>
+            129.00 - 199.00
+            <a href="https://www.dreamdesigns.ca/products/regular-shiatsu-mat">(12 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This mat may be used for bodywork as well as for restorative yoga poses. Fold in half to use as a zabuton and roll and secure with its fabric ties to use as a large bolster and for easy storage and transport. Also an ideal camping mat or guest bed.    </p>
+<h2>Features</h2>
+<ul>
+<li>Stuffed with 2 layers of cotton felting</li>
+<li>Cased in cotton canvas with matching fabric ties</li>
+<li>Measures either 24" x 75" (61cm x 190cm) or 30" x 75" (76cm x 190cm)</li>
+<li>Well made in Canada</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265507353</id>
+      <title>24x75x2&quot; (Standard) / Purple (Cotton Canvas)</title>
+      <s:price currency="CAD">129.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265507353</id>
+      <title>24x75x2&quot; (Standard) / Terra Cotta (Cotton Canvas)</title>
+      <s:price currency="CAD">129.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265507353</id>
+      <title>24x75x2&quot; (Standard) / Burgundy (Cotton Canvas)</title>
+      <s:price currency="CAD">129.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265507353</id>
+      <title>24x75x2&quot; (Standard) / Navy (Cotton Canvas)</title>
+      <s:price currency="CAD">129.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265507353</id>
+      <title>24x75x2&quot; (Standard) / Black (Cotton Canvas)</title>
+      <s:price currency="CAD">129.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265507353</id>
+      <title>24x75x2&quot; (Standard) / Green (Cotton Canvas)</title>
+      <s:price currency="CAD">129.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265507353</id>
+      <title>30x75x2&quot; (Extra wide) / Purple (Cotton Canvas)</title>
+      <s:price currency="CAD">199.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265507353</id>
+      <title>30x75x2&quot; (Extra wide) / Terra Cotta (Cotton Canvas)</title>
+      <s:price currency="CAD">199.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265507353</id>
+      <title>30x75x2&quot; (Extra wide) / Burgundy (Cotton Canvas)</title>
+      <s:price currency="CAD">199.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265507353</id>
+      <title>30x75x2&quot; (Extra wide) / Navy (Cotton Canvas)</title>
+      <s:price currency="CAD">199.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265507353</id>
+      <title>30x75x2&quot; (Extra wide) / Black (Cotton Canvas)</title>
+      <s:price currency="CAD">199.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265507353</id>
+      <title>30x75x2&quot; (Extra wide) / Green (Cotton Canvas)</title>
+      <s:price currency="CAD">199.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.dreamdesigns.ca/products/265507129</id>
+    <published>2014-03-14T16:26:00-07:00</published>
+    <updated>2014-03-14T16:26:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dreamdesigns.ca/products/organic-shiatsu-mat"/>
+    <title>Organic Shiatsu Mat</title>
+    <s:type>Yoga</s:type>
+    <s:vendor>Dream Designs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0389/5989/products/OYS001.jpg?v=1571438937"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dream Designs<br>
+        <strong>Type: </strong>Yoga<br>
+        <strong>Price: </strong>
+            199.00 - 295.00
+            <a href="https://www.dreamdesigns.ca/products/organic-shiatsu-mat">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This mat may be used for body work as well as for restorative yoga poses. Fold in half to use as a zabuton and roll and secure with its fabric ties to use as a large bolster and for easy transport.</p>
+<h2>Features</h2>
+<li>Stuffed with 2 layers of organic cotton felting</li>
+<li>Cased in organic twill with matching fabric ties</li>
+<li>Measures either 24" x 75" (61cm x 190cm) or 30" x 75" (76cm x 190cm)</li>
+<li>Well made in Canada</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265507129</id>
+      <title>24x75x2&quot; (Standard) / Natural</title>
+      <s:price currency="CAD">199.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265507129</id>
+      <title>24x75x2&quot; (Standard) / Wenge</title>
+      <s:price currency="CAD">199.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265507129</id>
+      <title>24x75x2&quot; (Standard) / Cherry</title>
+      <s:price currency="CAD">199.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265507129</id>
+      <title>24x75x2&quot; (Standard) / Olive disc.</title>
+      <s:price currency="CAD">199.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265507129</id>
+      <title>30x75x2&quot; (Extra wide) / Natural</title>
+      <s:price currency="CAD">295.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265507129</id>
+      <title>30x75x2&quot; (Extra wide) / Wenge</title>
+      <s:price currency="CAD">295.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265507129</id>
+      <title>30x75x2&quot; (Extra wide) / Cherry</title>
+      <s:price currency="CAD">295.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265507129</id>
+      <title>30x75x2&quot; (Extra wide) / Olive disc.</title>
+      <s:price currency="CAD">295.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.dreamdesigns.ca/products/265505937</id>
+    <published>2014-03-14T16:18:00-07:00</published>
+    <updated>2014-03-14T16:18:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dreamdesigns.ca/products/square-zabuton"/>
+    <title>Square Zabuton</title>
+    <s:type>Yoga</s:type>
+    <s:vendor>Dream Designs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0389/5989/products/YZN001.jpg?v=1571438937"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dream Designs<br>
+        <strong>Type: </strong>Yoga<br>
+        <strong>Price: </strong>
+            75.00 - 150.00
+            <a href="https://www.dreamdesigns.ca/products/square-zabuton">(24 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This traditional square floor cushion is used on its own or beneath a zafu or gomden to provide ankle and knee support.</p>
+<h2>Features</h2>
+<ul>
+<li>Stuffed with either 2 or 4 layers of cotton felting</li>
+<li>Cased in cotton canvas</li>
+<li>Measures 24" x 24" or 30"x30"</li>
+<li>Well made in Canada</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265505937</id>
+      <title>24x24x2&quot; / Purple (Cotton Canvas)</title>
+      <s:price currency="CAD">75.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265505937</id>
+      <title>24x24x2&quot; / Terra Cotta (Cotton Canvas)</title>
+      <s:price currency="CAD">75.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265505937</id>
+      <title>24x24x2&quot; / Burgundy (Cotton Canvas)</title>
+      <s:price currency="CAD">75.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265505937</id>
+      <title>24x24x2&quot; / Navy (Cotton Canvas)</title>
+      <s:price currency="CAD">75.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265505937</id>
+      <title>24x24x2&quot; / Black (Cotton Canvas)</title>
+      <s:price currency="CAD">75.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265505937</id>
+      <title>24x24x2&quot; / Green (Cotton Canvas)</title>
+      <s:price currency="CAD">75.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265505937</id>
+      <title>24x24x4&quot; / Purple (Cotton Canvas)</title>
+      <s:price currency="CAD">98.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265505937</id>
+      <title>24x24x4&quot; / Terra Cotta (Cotton Canvas)</title>
+      <s:price currency="CAD">98.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265505937</id>
+      <title>24x24x4&quot; / Burgundy (Cotton Canvas)</title>
+      <s:price currency="CAD">98.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265505937</id>
+      <title>24x24x4&quot; / Navy (Cotton Canvas)</title>
+      <s:price currency="CAD">98.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265505937</id>
+      <title>24x24x4&quot; / Black (Cotton Canvas)</title>
+      <s:price currency="CAD">98.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265505937</id>
+      <title>24x24x4&quot; / Green (Cotton Canvas)</title>
+      <s:price currency="CAD">98.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265505937</id>
+      <title>30x30x2&quot; / Purple (Cotton Canvas)</title>
+      <s:price currency="CAD">109.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265505937</id>
+      <title>30x30x4&quot; / Purple (Cotton Canvas)</title>
+      <s:price currency="CAD">150.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265505937</id>
+      <title>30x30x2&quot; / Terra Cotta (Cotton Canvas)</title>
+      <s:price currency="CAD">109.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265505937</id>
+      <title>30x30x4&quot; / Terra Cotta (Cotton Canvas)</title>
+      <s:price currency="CAD">150.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265505937</id>
+      <title>30x30x2&quot; / Burgundy (Cotton Canvas)</title>
+      <s:price currency="CAD">109.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265505937</id>
+      <title>30x30x4&quot; / Burgundy (Cotton Canvas)</title>
+      <s:price currency="CAD">150.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265505937</id>
+      <title>30x30x2&quot; / Navy (Cotton Canvas)</title>
+      <s:price currency="CAD">109.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265505937</id>
+      <title>30x30x4&quot; / Navy (Cotton Canvas)</title>
+      <s:price currency="CAD">150.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265505937</id>
+      <title>30x30x2&quot; / Black (Cotton Canvas)</title>
+      <s:price currency="CAD">109.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265505937</id>
+      <title>30x30x4&quot; / Black (Cotton Canvas)</title>
+      <s:price currency="CAD">150.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265505937</id>
+      <title>30x30x2&quot; / Green (Cotton Canvas)</title>
+      <s:price currency="CAD">109.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265505937</id>
+      <title>30x30x4&quot; / Green (Cotton Canvas)</title>
+      <s:price currency="CAD">150.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.dreamdesigns.ca/products/265504873</id>
+    <published>2014-03-14T16:15:30-07:00</published>
+    <updated>2014-03-14T16:15:30-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dreamdesigns.ca/products/rectangular-zabuton-with-ties"/>
+    <title>Rectangular Zabuton with Ties</title>
+    <s:type>Yoga</s:type>
+    <s:vendor>Dream Designs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0389/5989/products/YZN011_9edb3401-f7e4-4831-9456-422e912a5ed7.jpg?v=1571438937"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dream Designs<br>
+        <strong>Type: </strong>Yoga<br>
+        <strong>Price: </strong>
+            59.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This floor cushion is used on its own or beneath a zafu or gomden to provide ankle and knee support and comes with fabric ties to enable the zabuton to be rolled for use as a large bolster and for easy transport. The greater dimensions accommodate those with long legs or those who prefer more coverage.</p>
+<h2>Features</h2>
+<ul>
+<li>Stuffed with 2 layers of cotton felting</li>
+<li>Cased in cotton canvas</li>
+<li>Measures 24" x 30" (61cm x 76cm)</li>
+<li>Well made in Canada</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265504873</id>
+      <title>Purple (Cotton Canvas)</title>
+      <s:price currency="CAD">59.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265504873</id>
+      <title>Terra Cotta (Cotton Canvas)</title>
+      <s:price currency="CAD">59.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265504873</id>
+      <title>Burgundy (Cotton Canvas)</title>
+      <s:price currency="CAD">59.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265504873</id>
+      <title>Navy (Cotton Canvas)</title>
+      <s:price currency="CAD">59.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265504873</id>
+      <title>Black (Cotton Canvas)</title>
+      <s:price currency="CAD">59.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265504873</id>
+      <title>Green (Cotton Canvas)</title>
+      <s:price currency="CAD">59.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.dreamdesigns.ca/products/265503761</id>
+    <published>2014-03-14T16:11:00-07:00</published>
+    <updated>2014-03-14T16:11:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dreamdesigns.ca/products/organic-square-zabuton"/>
+    <title>Organic Square Zabuton</title>
+    <s:type>Yoga</s:type>
+    <s:vendor>Dream Designs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0389/5989/products/OYN001.jpg?v=1571438937"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dream Designs<br>
+        <strong>Type: </strong>Yoga<br>
+        <strong>Price: </strong>
+            105.00 - 179.00
+            <a href="https://www.dreamdesigns.ca/products/organic-square-zabuton">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This traditional square floor cushion is used on its own or beneath a zafu or gomden to provide ankle and knee support.</p>
+<h2>Features</h2>
+<ul>
+<li>Stuffed with either 2 or 4 layers of organic cotton felting</li>
+<li>Cased in organic twill</li>
+<li>Measures 24" x 24" (61cm x 61cm)</li>
+<li>Well made in Canada</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265503761</id>
+      <title>24x24x2&quot; (Large) / Natural</title>
+      <s:price currency="CAD">105.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265503761</id>
+      <title>24x24x2&quot; (Large) / Wenge</title>
+      <s:price currency="CAD">105.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265503761</id>
+      <title>24x24x2&quot; (Large) / Cherry</title>
+      <s:price currency="CAD">105.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265503761</id>
+      <title>24x24x2&quot; (Large) / Avocado disc.</title>
+      <s:price currency="CAD">105.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265503761</id>
+      <title>30x30x2&quot; (Extra Large) / Natural</title>
+      <s:price currency="CAD">179.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265503761</id>
+      <title>30x30x2&quot; (Extra Large) / Wenge</title>
+      <s:price currency="CAD">179.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265503761</id>
+      <title>30x30x2&quot; (Extra Large) / Cherry</title>
+      <s:price currency="CAD">179.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265503761</id>
+      <title>30x30x2&quot; (Extra Large) / Avocado disc.</title>
+      <s:price currency="CAD">179.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.dreamdesigns.ca/products/265503065</id>
+    <published>2014-03-14T16:10:00-07:00</published>
+    <updated>2014-03-14T16:10:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dreamdesigns.ca/products/organic-rectangular-zabuton-with-ties"/>
+    <title>Organic Rectangular Zabuton with Ties</title>
+    <s:type>Yoga</s:type>
+    <s:vendor>Dream Designs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0389/5989/products/YZN011.jpg?v=1571438937"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dream Designs<br>
+        <strong>Type: </strong>Yoga<br>
+        <strong>Price: </strong>
+            119.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This floor cushion is used on its own or beneath a zafu or gomden to provide ankle and knee support and comes with fabric ties to enable the zabuton to be rolled for use as a large bolster and for easy transport. The greater dimensions accommodate those with long legs or those who prefer more coverage.</p>
+<h2>Features</h2>
+<ul>
+<li>Stuffed with 2 or 4 layers of organic cotton felting</li>
+<li>Cased in organic twill</li>
+<li>Measures 24" x 30" (61cm x 76cm)</li>
+<li>Well made in Canada</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265503065</id>
+      <title>Natural</title>
+      <s:price currency="CAD">119.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265503065</id>
+      <title>Cherry</title>
+      <s:price currency="CAD">119.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265503065</id>
+      <title>Wenge</title>
+      <s:price currency="CAD">119.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.dreamdesigns.ca/products/265502557</id>
+    <published>2014-03-14T16:08:20-07:00</published>
+    <updated>2014-03-14T16:08:20-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dreamdesigns.ca/products/wedge-buckwheat-zafu"/>
+    <title>Wedge Buckwheat Zafu</title>
+    <s:type>Yoga</s:type>
+    <s:vendor>Dream Designs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0389/5989/products/YZF009.jpg?v=1571438937"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dream Designs<br>
+        <strong>Type: </strong>Yoga<br>
+        <strong>Price: </strong>
+            110.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This buckwheat filled cushion offers the lowest height and greatest stability of our zafus due to its size and shape. This cushion is designed for those looking for more ease in their seated meditation. It may be used in conjunction with a zabuton for added comfort.</p>
+<h2>Features</h2>
+<ul>
+<li>Filled with natural buckwheat hulls</li>
+<li>Cased in cotton canvas</li>
+<li>Measures 19" x 22" x 8" (48cm x 56cm x 20cm)</li>
+<li>Well made in Canada</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265502557</id>
+      <title>Terra Cotta (Cotton Canvas)</title>
+      <s:price currency="CAD">110.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265502557</id>
+      <title>Burgundy (Cotton Canvas)</title>
+      <s:price currency="CAD">110.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265502557</id>
+      <title>Navy (Cotton Canvas)</title>
+      <s:price currency="CAD">110.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265502557</id>
+      <title>Black (Cotton Canvas)</title>
+      <s:price currency="CAD">110.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265502557</id>
+      <title>Green (Cotton Canvas)</title>
+      <s:price currency="CAD">110.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.dreamdesigns.ca/products/265502241</id>
+    <published>2014-03-14T16:07:00-07:00</published>
+    <updated>2014-03-14T16:07:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dreamdesigns.ca/products/organic-wedge-buckwheat-zafu"/>
+    <title>Organic Wedge Buckwheat Zafu</title>
+    <s:type>Yoga</s:type>
+    <s:vendor>Dream Designs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0389/5989/products/Wedge_zafu_organic_wenge.jpg?v=1571438937"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dream Designs<br>
+        <strong>Type: </strong>Yoga<br>
+        <strong>Price: </strong>
+            129.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This buckwheat filled cushion offers the lowest height and greatest stability of our zafus due to its size and shape. This cushion is designed for those looking for more ease in their seated meditation. It may be used in conjunction with a zabuton for added comfort.</p>
+<h2>Features</h2>
+<ul>
+<li>Filled with organic buckwheat</li>
+<li>Cased in organic twill</li>
+<li>Measures 19" x 22" x 8" (48cm x 56cm x 20cm)</li>
+<li>Well made in Canada</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265502241</id>
+      <title>Natural</title>
+      <s:price currency="CAD">129.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265502241</id>
+      <title>Wenge</title>
+      <s:price currency="CAD">129.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265502241</id>
+      <title>Cherry</title>
+      <s:price currency="CAD">129.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265502241</id>
+      <title>Avocado disc.</title>
+      <s:price currency="CAD">129.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.dreamdesigns.ca/products/265501901</id>
+    <published>2014-03-14T16:05:00-07:00</published>
+    <updated>2014-03-14T16:05:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dreamdesigns.ca/products/organic-crescent-buckwheat-zafu"/>
+    <title>Organic Crescent Buckwheat Zafu</title>
+    <s:type>Yoga</s:type>
+    <s:vendor>Dream Designs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0389/5989/products/OYZ002.jpg?v=1571438937"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dream Designs<br>
+        <strong>Type: </strong>Yoga<br>
+        <strong>Price: </strong>
+            105.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Intended to be used as a wedge between your bottom and the floor, this cushion is slightly lower and more flexible than the kapok variety while the crescent shape offers even greater stability for those new to seated meditation and those with limited flexibility. It may be used in conjunction with a zabuton for added comfort.</p>
+<h2>Features</h2>
+<ul>
+<li>Filled with organic buckwheat</li>
+<li>Cased in organic twill</li>
+<li>Measures 14.5" x 10"x 7.5" (37cm x 27cm 19cm)</li>
+<li>Well made in Canada</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265501901</id>
+      <title>Natural</title>
+      <s:price currency="CAD">105.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265501901</id>
+      <title>Wenge</title>
+      <s:price currency="CAD">105.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265501901</id>
+      <title>Cherry</title>
+      <s:price currency="CAD">105.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265501901</id>
+      <title>Avocado disc.</title>
+      <s:price currency="CAD">105.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.dreamdesigns.ca/products/265500741</id>
+    <published>2014-03-14T16:02:37-07:00</published>
+    <updated>2014-03-14T16:02:37-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dreamdesigns.ca/products/crescent-buckwheat-zafu"/>
+    <title>Crescent Buckwheat Zafu</title>
+    <s:type>Yoga</s:type>
+    <s:vendor>Dream Designs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0389/5989/products/YZF005.jpg?v=1571438937"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dream Designs<br>
+        <strong>Type: </strong>Yoga<br>
+        <strong>Price: </strong>
+            89.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Intended to be used as a wedge between your bottom and the floor, this cushion is slightly lower and more flexible than the kapok variety while the crescent shape offers even greater stability for those new to seated meditation and those with limited flexibility. It may be used in conjunction with a zabuton for added comfort.</p>
+<h2>Features</h2>
+<ul>
+<li>Filled with buckwheat hulls</li>
+<li>Cased in cotton canvas</li>
+<li>Measures 14.5" x 10" x 7.5" (37cm x 27cm 19cm)</li>
+<li>Well made in Canada</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265500741</id>
+      <title>Purple (Cotton Canvas)</title>
+      <s:price currency="CAD">89.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265500741</id>
+      <title>Terra Cotta (Cotton Canvas)</title>
+      <s:price currency="CAD">89.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265500741</id>
+      <title>Burgundy (Cotton Canvas)</title>
+      <s:price currency="CAD">89.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265500741</id>
+      <title>Navy (Cotton Canvas)</title>
+      <s:price currency="CAD">89.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265500741</id>
+      <title>Black (Cotton Canvas)</title>
+      <s:price currency="CAD">89.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265500741</id>
+      <title>Green (Cotton Canvas)</title>
+      <s:price currency="CAD">89.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265500741</id>
+      <title>Olive (Cotton Canvas)</title>
+      <s:price currency="CAD">89.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.dreamdesigns.ca/products/265500993</id>
+    <published>2014-03-14T16:02:00-07:00</published>
+    <updated>2014-03-14T16:02:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dreamdesigns.ca/products/crescent-kapok-zafu"/>
+    <title>Crescent Kapok Zafu</title>
+    <s:type>Yoga</s:type>
+    <s:vendor>Dream Designs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0389/5989/products/YZF005_ec64124a-f8f5-4dca-857d-571950156eaa.jpg?v=1583538843"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dream Designs<br>
+        <strong>Type: </strong>Yoga<br>
+        <strong>Price: </strong>
+            89.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Intended to be used as a wedge between your bottom and the floor, this cushion is slightly lower and more flexible than the kapok variety while the crescent shape offers even greater stability for those new to seated meditation and those with limited flexibility. It may be used in conjunction with a zabuton for added comfort.</p>
+<h2>Features</h2>
+<ul>
+<li>Filled with kapok tree fibre</li>
+<li>Cased in cotton canvas</li>
+<li>Measures 14.5" x 10"x 7.5" (37cm x 27cm 19cm)</li>
+<li>Well made in Canada</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265500993</id>
+      <title>Purple (Cotton Canvas)</title>
+      <s:price currency="CAD">89.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265500993</id>
+      <title>Terra Cotta (Cotton Canvas)</title>
+      <s:price currency="CAD">89.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265500993</id>
+      <title>Burgundy (Cotton Canvas)</title>
+      <s:price currency="CAD">89.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265500993</id>
+      <title>Navy (Cotton Canvas)</title>
+      <s:price currency="CAD">89.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265500993</id>
+      <title>Black (Cotton Canvas)</title>
+      <s:price currency="CAD">89.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265500993</id>
+      <title>Green (Cotton Canvas)</title>
+      <s:price currency="CAD">89.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265500993</id>
+      <title>Olive</title>
+      <s:price currency="CAD">89.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.dreamdesigns.ca/products/265499897</id>
+    <published>2014-03-14T15:59:52-07:00</published>
+    <updated>2014-03-14T15:59:52-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dreamdesigns.ca/products/round-kapok-zafu"/>
+    <title>Round Kapok Zafu</title>
+    <s:type>Yoga</s:type>
+    <s:vendor>Dream Designs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0389/5989/products/YZF001_561aba25-edbc-405a-9abd-32a29ac03759.jpg?v=1571438937"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dream Designs<br>
+        <strong>Type: </strong>Yoga<br>
+        <strong>Price: </strong>
+            81.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Very supportive traditional zafu. May be used in conjunction with a zabuton for added comfort.</p>
+<h2>Features</h2>
+<ul>
+<li>Filled with kapok tree fibre</li>
+<li>Cased in cotton canvas</li>
+<li>Measures 15" diameter x 6" high</li>
+<li>Well made in Canada</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265499897</id>
+      <title>Purple (Cotton Canvas)</title>
+      <s:price currency="CAD">81.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265499897</id>
+      <title>Terra Cotta (Cotton Canvas)</title>
+      <s:price currency="CAD">81.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265499897</id>
+      <title>Burgundy (Cotton Canvas)</title>
+      <s:price currency="CAD">81.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265499897</id>
+      <title>Navy (Cotton Canvas)</title>
+      <s:price currency="CAD">81.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265499897</id>
+      <title>Black (Cotton Canvas)</title>
+      <s:price currency="CAD">81.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265499897</id>
+      <title>Green (Cotton Canvas)</title>
+      <s:price currency="CAD">81.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265499897</id>
+      <title>Olive (Cotton Canvas)</title>
+      <s:price currency="CAD">81.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.dreamdesigns.ca/products/265499529</id>
+    <published>2014-03-14T15:58:14-07:00</published>
+    <updated>2014-03-14T15:58:14-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dreamdesigns.ca/products/round-buckwheat-zafu"/>
+    <title>Round Buckwheat Zafu</title>
+    <s:type>Yoga</s:type>
+    <s:vendor>Dream Designs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0389/5989/products/YZF001.jpg?v=1571438937"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dream Designs<br>
+        <strong>Type: </strong>Yoga<br>
+        <strong>Price: </strong>
+            79.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Filled with buckwheat hulls, this traditional shape zafu is slightly lower and more stable than the kapok filled zafu. Use in conjunction with a zabuton for added comfort.<br></p>
+<h2>Features</h2>
+<ul>
+<li>Filled with natural buckwheat hulls</li>
+<li>Cased in cotton canvas</li>
+<li>Measures 15" diameter x 6" high</li>
+<li>Well made in Canada</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265499529</id>
+      <title>Purple (Cotton Canvas)</title>
+      <s:price currency="CAD">79.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265499529</id>
+      <title>Brown (Cotton Canvas)</title>
+      <s:price currency="CAD">79.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265499529</id>
+      <title>Blue (Cotton Canvas)</title>
+      <s:price currency="CAD">79.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265499529</id>
+      <title>Terra Cotta (Cotton Canvas)</title>
+      <s:price currency="CAD">79.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265499529</id>
+      <title>Burgundy (Cotton Canvas)</title>
+      <s:price currency="CAD">79.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265499529</id>
+      <title>Navy (Cotton Canvas)</title>
+      <s:price currency="CAD">79.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265499529</id>
+      <title>Black (Cotton Canvas)</title>
+      <s:price currency="CAD">79.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265499529</id>
+      <title>Green (Cotton Canvas)</title>
+      <s:price currency="CAD">79.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265499529</id>
+      <title>Olive</title>
+      <s:price currency="CAD">79.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.dreamdesigns.ca/products/265499101</id>
+    <published>2014-03-14T15:56:00-07:00</published>
+    <updated>2014-03-14T15:56:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dreamdesigns.ca/products/organic-cotton-round-buckwheat-zafu"/>
+    <title>Organic Cotton Round Buckwheat Zafu</title>
+    <s:type>Yoga</s:type>
+    <s:vendor>Dream Designs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0389/5989/products/Round_zafu_organic_wenge_L.jpg?v=1571438937"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dream Designs<br>
+        <strong>Type: </strong>Yoga<br>
+        <strong>Price: </strong>
+            90.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Intended to be used as a wedge between your bottom and the floor, this traditional cushion is slightly lower and more flexible than the kapok variety and may be used in conjunction with a zabuton for added comfort.</p>
+<h2>Features</h2>
+<ul>
+<li>Filled with organic buckwheat</li>
+<li>Cased in organic cotton twill</li>
+<li>Measures 15" diameter x 6" high</li>
+<li>Well made in Canada</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265499101</id>
+      <title>Natural</title>
+      <s:price currency="CAD">90.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265499101</id>
+      <title>Wenge</title>
+      <s:price currency="CAD">90.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265499101</id>
+      <title>Cherry</title>
+      <s:price currency="CAD">90.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265499101</id>
+      <title>Avocado</title>
+      <s:price currency="CAD">90.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.dreamdesigns.ca/products/265498641</id>
+    <published>2014-03-14T15:54:56-07:00</published>
+    <updated>2014-03-14T15:54:56-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dreamdesigns.ca/products/sama-bolster"/>
+    <title>Sama Bolster</title>
+    <s:type>Yoga</s:type>
+    <s:vendor>Dream Designs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0389/5989/products/YBT030.jpg?v=1571438937"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dream Designs<br>
+        <strong>Type: </strong>Yoga<br>
+        <strong>Price: </strong>
+            30.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This superiorly crafted yoga bolster is designed to aid relaxation, build strength, and improve body alignment. Our props allow you to achieve and sustain poses with greater ease by giving you the confidence to further your practice without strain or fear of injury. The small buckwheat filled sama bolster can help eliminate disc compression and stress on the upper vertebrae when tucked under the neck in chest opening poses. It may also be used as a gentle weight on the abdomen in restorative poses.</p>
+<h2>Features</h2>
+<ul>
+<li>Filled with natural buckwheat hulls</li>
+<li>Cased in cotton canvas</li>
+<li>Measures 4" x 12" (10cm x 30.5cm)</li>
+<li>Well made in Canada</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265498641</id>
+      <title>Purple (Cotton Canvas)</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265498641</id>
+      <title>Terra Cotta (Cotton Canvas)</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265498641</id>
+      <title>Burgundy (Cotton Canvas)</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265498641</id>
+      <title>Navy (Cotton Canvas)</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265498641</id>
+      <title>Black (Cotton Canvas)</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265498641</id>
+      <title>Green (Cotton Canvas)</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265498641</id>
+      <title>Olive</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.dreamdesigns.ca/products/265498229</id>
+    <published>2014-03-14T15:53:00-07:00</published>
+    <updated>2014-03-14T15:53:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dreamdesigns.ca/products/organic-cotton-sama-bolster"/>
+    <title>Organic Cotton Sama Bolster</title>
+    <s:type>Yoga</s:type>
+    <s:vendor>Dream Designs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0389/5989/products/OYB009.jpg?v=1571438936"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dream Designs<br>
+        <strong>Type: </strong>Yoga<br>
+        <strong>Price: </strong>
+            34.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This superiorly crafted yoga bolster is designed to aid relaxation, build strength, and improve body alignment. Our props allow you to achieve and sustain poses with greater ease by giving you the confidence to further your practice without strain or fear of injury. The small buckwheat filled sama bolster can help eliminate disc compression and stress on the upper vertebrae when tucked under the neck in chest opening poses. It may also be used as a gentle weight on the abdomen in restorative poses.</p>
+<h2>Features</h2>
+<ul>
+<li>Filled with organic buckwheat hulls</li>
+<li>Cased in organic twill</li>
+<li>Measures 4" x 12" (10cm x 30.5cm)</li>
+<li>Well made in Canada</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265498229</id>
+      <title>Natural</title>
+      <s:price currency="CAD">34.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265498229</id>
+      <title>Wenge</title>
+      <s:price currency="CAD">34.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265498229</id>
+      <title>Cherry</title>
+      <s:price currency="CAD">34.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265498229</id>
+      <title>Avocado disc.</title>
+      <s:price currency="CAD">34.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.dreamdesigns.ca/products/265497713</id>
+    <published>2014-03-14T15:51:00-07:00</published>
+    <updated>2014-03-14T15:51:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dreamdesigns.ca/products/prana-bolster"/>
+    <title>Prana Bolster</title>
+    <s:type>Yoga</s:type>
+    <s:vendor>Dream Designs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0389/5989/products/YBT022.jpg?v=1571438936"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dream Designs<br>
+        <strong>Type: </strong>Yoga<br>
+        <strong>Price: </strong>
+            59.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This superiorly crafted yoga bolster is designed to aid relaxation, build strength, and improve body alignment. Our props allow you to achieve and sustain poses with greater ease by giving you the confidence to further your practice without strain or fear of injury. The narrow rectangular prana bolster is typically used by those practicing breath work who want a gentle lift or those with a more slender body frame.</p>
+<h2>Features</h2>
+<ul>
+<li>Conventional cotton batting</li>
+<li>Cased in cotton canvas</li>
+<li>Measures 4" x 6" x 27" (10cm x 15cm x 68.5cm)</li>
+<li>Well made in Canada</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265497713</id>
+      <title>Purple (Cotton Canvas)</title>
+      <s:price currency="CAD">59.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265497713</id>
+      <title>Terra Cotta (Cotton Canvas)</title>
+      <s:price currency="CAD">59.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265497713</id>
+      <title>Burgundy (Cotton Canvas)</title>
+      <s:price currency="CAD">59.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265497713</id>
+      <title>Navy (Cotton Canvas)</title>
+      <s:price currency="CAD">59.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265497713</id>
+      <title>Black (Cotton Canvas)</title>
+      <s:price currency="CAD">59.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265497713</id>
+      <title>Green (Cotton Canvas)</title>
+      <s:price currency="CAD">59.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265497713</id>
+      <title>Olive</title>
+      <s:price currency="CAD">59.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.dreamdesigns.ca/products/265497293</id>
+    <published>2014-03-14T15:50:00-07:00</published>
+    <updated>2014-03-14T15:50:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dreamdesigns.ca/products/organic-cotton-prana-bolster"/>
+    <title>Organic Cotton Prana Bolster</title>
+    <s:type>Yoga</s:type>
+    <s:vendor>Dream Designs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0389/5989/products/OYB006.jpg?v=1571438936"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dream Designs<br>
+        <strong>Type: </strong>Yoga<br>
+        <strong>Price: </strong>
+            84.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This superiorly crafted yoga bolster is designed to aid relaxation, build strength, and improve body alignment. Our props allow you to achieve and sustain poses with greater ease by giving you the confidence to further your practice without strain or fear of injury. The narrow rectangular prana bolster is typically used by those practicing breath work who want a gentle lift or those with a more slender body frame.</p>
+<h2>Features</h2>
+<ul>
+<li>Filled with organic cotton batting</li>
+<li>Cased in organic twill</li>
+<li>Measures 4" x 6" x 27" (10cm x 15cm x 68.5cm)</li>
+<li>Well made in Canada</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265497293</id>
+      <title>Natural</title>
+      <s:price currency="CAD">84.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265497293</id>
+      <title>Cherry</title>
+      <s:price currency="CAD">84.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265497293</id>
+      <title>Wenge</title>
+      <s:price currency="CAD">84.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265497293</id>
+      <title>Avocado disc.</title>
+      <s:price currency="CAD">84.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,3025 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.dreamdesigns.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.dreamdesigns.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.dreamdesigns.ca/collections/bed-linens.atom"/>
+  <title>Dream Designs Co. Ltd. </title>
+  <updated>2020-11-12T11:36:39-08:00</updated>
+  <author>
+    <name>Dream Designs Co. Ltd. </name>
+  </author>
+  <entry>
+    <id>https://www.dreamdesigns.ca/products/265370845</id>
+    <published>2020-11-12T11:36:39-08:00</published>
+    <updated>2020-11-12T11:36:39-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dreamdesigns.ca/products/organic-cotton-flannel-pillow-cases"/>
+    <title>Organic cotton flannel pillow cases</title>
+    <s:type>Bed Linens</s:type>
+    <s:vendor>Dream Designs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0389/5989/products/OFL_PC.jpg?v=1571438935"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dream Designs<br>
+        <strong>Type: </strong>Bed Linens<br>
+        <strong>Price: </strong>
+            34.00 - 74.00
+            <a href="https://www.dreamdesigns.ca/products/organic-cotton-flannel-pillow-cases">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Treat yourself to a warm hug with our luxurious, ultra-soft organic cotton flannel bedlinens. Workshop crafted in Vancouver, Canada with thick, double-side brushed organic flannel. Also available in sleepwear for him or her. Machine wash cold. Do not bleach. Tumble dry low or line dry.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265370845</id>
+      <title>Standard (Pair)</title>
+      <s:price currency="CAD">54.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265370845</id>
+      <title>Queen (Pair)</title>
+      <s:price currency="CAD">64.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265370845</id>
+      <title>King (Pair)</title>
+      <s:price currency="CAD">74.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265370845</id>
+      <title>Dr Bill (each)</title>
+      <s:price currency="CAD">39.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265370845</id>
+      <title>Petite (each)</title>
+      <s:price currency="CAD">34.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.dreamdesigns.ca/products/284546481</id>
+    <published>2020-11-06T12:04:37-08:00</published>
+    <updated>2020-11-06T12:04:37-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dreamdesigns.ca/products/organic-cotton-flannel-sheet-set"/>
+    <title>Organic cotton flannel Duvet Cover</title>
+    <s:type>Bed Linens</s:type>
+    <s:vendor>Dream Designs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0389/5989/products/110228_DreamDesigns_008_2eab2712-5c35-46e8-a2f7-a6a4a3ffbc49.jpg?v=1571438939"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dream Designs<br>
+        <strong>Type: </strong>Bed Linens<br>
+        <strong>Price: </strong>
+            189.00 - 259.00
+            <a href="https://www.dreamdesigns.ca/products/organic-cotton-flannel-sheet-set">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Treat yourself to a warm cuddle with our luxurious, ultra-soft organic cotton flannel duvet cover.  Workshop crafted in Vancouver, Canada with thick, double-side brushed organic flannel. Also available in sleepwear for him or her. Machine wash cold. Do not bleach. Tumble dry low or line dry.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/284546481</id>
+      <title>Twin</title>
+      <s:price currency="CAD">189.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/284546481</id>
+      <title>Double</title>
+      <s:price currency="CAD">219.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/284546481</id>
+      <title>Queen</title>
+      <s:price currency="CAD">229.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/284546481</id>
+      <title>King</title>
+      <s:price currency="CAD">259.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.dreamdesigns.ca/products/265418901</id>
+    <published>2020-11-06T12:04:37-08:00</published>
+    <updated>2020-11-06T12:04:37-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dreamdesigns.ca/products/organic-cotton-flannel-flat-sheet"/>
+    <title>Organic cotton flannel flat sheet</title>
+    <s:type>Bed Linens</s:type>
+    <s:vendor>Dream Designs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0389/5989/products/OFL_FLT.jpg?v=1571438936"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dream Designs<br>
+        <strong>Type: </strong>Bed Linens<br>
+        <strong>Price: </strong>
+            129.00 - 189.00
+            <a href="https://www.dreamdesigns.ca/products/organic-cotton-flannel-flat-sheet">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Treat yourself to a warm hug with our luxurious, ultra-soft organic cotton flannel bedlinens. Workshop crafted in Vancouver, Canada with thick, double-side brushed organic flannel. Also available in sleepwear for him or her. Machine wash cold. Do not bleach. Tumble dry low or line dry. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265418901</id>
+      <title>Twin</title>
+      <s:price currency="CAD">129.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265418901</id>
+      <title>Double</title>
+      <s:price currency="CAD">149.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265418901</id>
+      <title>Queen</title>
+      <s:price currency="CAD">159.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265418901</id>
+      <title>King</title>
+      <s:price currency="CAD">189.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.dreamdesigns.ca/products/265416217</id>
+    <published>2020-11-06T12:04:36-08:00</published>
+    <updated>2020-11-06T12:04:36-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dreamdesigns.ca/products/organic-cotton-flannel-fitted-sheet"/>
+    <title>Organic cotton flannel fitted sheet</title>
+    <s:type>Bed Linens</s:type>
+    <s:vendor>Dream Designs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0389/5989/products/OFL_FIT_3c5f382f-dea4-42b5-9f24-e25e6b04514b.jpg?v=1580935079"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dream Designs<br>
+        <strong>Type: </strong>Bed Linens<br>
+        <strong>Price: </strong>
+            129.00 - 189.00
+            <a href="https://www.dreamdesigns.ca/products/organic-cotton-flannel-fitted-sheet">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Treat yourself to a warm hug with our luxurious, ultra-soft organic cotton flannel bedlinens. Workshop crafted in Vancouver, Canada with thick, double-side brushed organic flannel. Also available in sleepwear for him or her. Machine wash cold. Do not bleach. Tumble dry low or line dry.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265416217</id>
+      <title>Twin</title>
+      <s:price currency="CAD">129.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265416217</id>
+      <title>Double</title>
+      <s:price currency="CAD">149.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265416217</id>
+      <title>Queen</title>
+      <s:price currency="CAD">159.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/265416217</id>
+      <title>King</title>
+      <s:price currency="CAD">189.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.dreamdesigns.ca/products/187561345051</id>
+    <published>2017-09-03T14:08:00-07:00</published>
+    <updated>2017-09-03T14:08:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dreamdesigns.ca/products/mariner-organic-cotton-sateen-sheets-sets"/>
+    <title>&quot;Mariner&quot; organic cotton sateen sheets &amp; sets</title>
+    <s:type>Bed Linens</s:type>
+    <s:vendor>Dream Designs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0389/5989/products/Organic_cotton_sateen_mariner_d0b3f242-c708-4f8b-8d07-1eada603a001.jpg?v=1571438947"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dream Designs<br>
+        <strong>Type: </strong>Bed Linens<br>
+        <strong>Price: </strong>
+            129.00 - 359.00
+            <a href="https://www.dreamdesigns.ca/products/mariner-organic-cotton-sateen-sheets-sets">(12 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">Made in Canada from 100% certified organic cotton sateen, lab tested non-toxic.  Machine wash in cold water with gentle detergent, line dry or tumble dry low.
+<ul>
+<li>Healthy</li>
+<li>Non-toxic</li>
+<li>Hypoallergenic</li>
+<li>Eco-friendly</li>
+<li>Comfortable</li>
+<li>Breathable</li>
+<li>Durable</li>
+<li>250<span> </span>threadcount, ideal woven construction for softness and durability</li>
+<li>Crafted in-house in Canada by Dream Designs</li>
+<ul></ul>
+</ul>
+<p>Available in pillowcases, pillow shams, fitted sheets, flat sheets, sheet sets, duvet covers, and duvet cover sets.  </p>
+<p>Sheet set Includes 1 fitted sheet, 1 flat sheet, and 1 pair of standard pillowcases.  </p>
+<p>Duvet cover set i<span>ncludes 1 duvet cover and 1 pair of standard pillow shams.</span></p>
+<meta charset="utf-8">
+<p><span>Custom sizes available.  Please email us at </span><span>info@dreamdesigns.ca to inquire.</span></p>
+<meta charset="utf-8">
+<div style="padding-left: 30px;"></div>
+<ul>
+<ul></ul>
+</ul>
+<meta charset="utf-8"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/187561345051</id>
+      <title>Fitted sheet / Single/Twin</title>
+      <s:price currency="CAD">129.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/187561345051</id>
+      <title>Fitted sheet / Double</title>
+      <s:price currency="CAD">139.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/187561345051</id>
+      <title>Fitted sheet / Queen</title>
+      <s:price currency="CAD">149.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/187561345051</id>
+      <title>Fitted sheet / King</title>
+      <s:price currency="CAD">169.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/187561345051</id>
+      <title>Flat sheet / Single/Twin</title>
+      <s:price currency="CAD">129.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/187561345051</id>
+      <title>Flat sheet / Double</title>
+      <s:price currency="CAD">139.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/187561345051</id>
+      <title>Flat sheet / Queen</title>
+      <s:price currency="CAD">149.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/187561345051</id>
+      <title>Flat sheet / King</title>
+      <s:price currency="CAD">169.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/187561345051</id>
+      <title>Sheet set / Single/Twin</title>
+      <s:price currency="CAD">279.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/187561345051</id>
+      <title>Sheet set / Double</title>
+      <s:price currency="CAD">299.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/187561345051</id>
+      <title>Sheet set / Queen</title>
+      <s:price currency="CAD">329.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/187561345051</id>
+      <title>Sheet set / King</title>
+      <s:price currency="CAD">359.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.dreamdesigns.ca/products/187551416347</id>
+    <published>2017-09-03T14:08:00-07:00</published>
+    <updated>2017-09-03T14:08:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dreamdesigns.ca/products/mason-organic-cotton-sateen-sheets-sets-1"/>
+    <title>&quot;Mason&quot; organic cotton sateen sheets &amp; sets</title>
+    <s:type>Bed Linens</s:type>
+    <s:vendor>Dream Designs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0389/5989/products/Organic_cotton_sateen_mason_331a1355-266a-425c-938e-f71f79b9f626.jpg?v=1571438947"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dream Designs<br>
+        <strong>Type: </strong>Bed Linens<br>
+        <strong>Price: </strong>
+            129.00 - 359.00
+            <a href="https://www.dreamdesigns.ca/products/mason-organic-cotton-sateen-sheets-sets-1">(12 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">Made in Canada from 100% certified organic cotton sateen, lab tested non-toxic.  Machine wash in cold water with gentle detergent, line dry or tumble dry low.
+<ul>
+<li>Healthy</li>
+<li>Non toxic</li>
+<li>Hypoallergenic</li>
+<li>Eco-friendly</li>
+<li>Comfortable</li>
+<li>Breathable</li>
+<li>Durable</li>
+<li>250<span> </span>threadcount, ideal woven construction for softness and durability</li>
+<li>Crafted in-house in Canada by Dream Designs</li>
+<ul></ul>
+</ul>
+<p>Available in pillowcases, pillow shams, fitted sheets, flat sheets, sheet sets, duvet covers, and duvet cover sets.  </p>
+<p>Sheet set Includes 1 fitted sheet, 1 flat sheet, and 1 pair of standard pillowcases.  </p>
+<p>Duvet cover set i<span>ncludes 1 duvet cover and 1 pair of standard pillow shams.</span></p>
+<meta charset="utf-8">
+<p><span>Custom sizes available.  Please email us at </span><span>info@dreamdesigns.ca to inquire.</span></p>
+<meta charset="utf-8">
+<div style="padding-left: 30px;"></div>
+<ul>
+<ul></ul>
+</ul>
+<meta charset="utf-8"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/187551416347</id>
+      <title>Fitted sheet / Single/Twin</title>
+      <s:price currency="CAD">129.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/187551416347</id>
+      <title>Fitted sheet / Double</title>
+      <s:price currency="CAD">139.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/187551416347</id>
+      <title>Fitted sheet / Queen</title>
+      <s:price currency="CAD">149.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/187551416347</id>
+      <title>Fitted sheet / King</title>
+      <s:price currency="CAD">169.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/187551416347</id>
+      <title>Flat sheet / Single/Twin</title>
+      <s:price currency="CAD">129.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/187551416347</id>
+      <title>Flat sheet / Double</title>
+      <s:price currency="CAD">139.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/187551416347</id>
+      <title>Flat sheet / Queen</title>
+      <s:price currency="CAD">149.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/187551416347</id>
+      <title>Flat sheet / King</title>
+      <s:price currency="CAD">169.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/187551416347</id>
+      <title>Sheet set / Single/Twin</title>
+      <s:price currency="CAD">279.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/187551416347</id>
+      <title>Sheet set / Double</title>
+      <s:price currency="CAD">299.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/187551416347</id>
+      <title>Sheet set / Queen</title>
+      <s:price currency="CAD">329.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/187551416347</id>
+      <title>Sheet set / King</title>
+      <s:price currency="CAD">359.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.dreamdesigns.ca/products/187383349275</id>
+    <published>2017-09-03T14:08:00-07:00</published>
+    <updated>2017-09-03T14:08:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dreamdesigns.ca/products/blush-organic-cotton-sateen-sheets-sets"/>
+    <title>&quot;Blush&quot; organic cotton sateen sheets &amp; sets</title>
+    <s:type>Bed Linens</s:type>
+    <s:vendor>Dream Designs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0389/5989/products/Organic_cotton_sateen_blush_e989911b-2982-41b8-a239-ce60c60cbfe8.jpg?v=1571438946"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dream Designs<br>
+        <strong>Type: </strong>Bed Linens<br>
+        <strong>Price: </strong>
+            129.00 - 359.00
+            <a href="https://www.dreamdesigns.ca/products/blush-organic-cotton-sateen-sheets-sets">(12 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">Made in Canada from 100% certified organic cotton sateen, lab tested non-toxic.  Machine wash in cold water with gentle detergent, line dry or tumble dry low.
+<ul>
+<li>Healthy</li>
+<li>Non toxic</li>
+<li>Hypoallergenic</li>
+<li>Eco-friendly</li>
+<li>Comfortable</li>
+<li>Breathable</li>
+<li>Durable</li>
+<li>250<span> </span>threadcount, ideal woven construction for softness and durability</li>
+<li>Crafted in-house in Canada by Dream Designs</li>
+<ul></ul>
+</ul>
+<p>Available in pillowcases, pillow shams, fitted sheets, flat sheets, sheet sets, duvet covers, and duvet cover sets.  </p>
+<p>Sheet set Includes 1 fitted sheet, 1 flat sheet, and 1 pair of <meta charset="utf-8"><span data-mce-fragment="1">standard size </span>pillowcases.  </p>
+<p>Duvet cover set i<span>ncludes 1 duvet cover and 1 pair of standard pillow shams.</span></p>
+<meta charset="utf-8">
+<p><span>Custom sizes available.  Please email us at </span><span>info@dreamdesigns.ca to inquire.</span></p>
+<meta charset="utf-8">
+<div style="padding-left: 30px;"></div>
+<ul>
+<ul></ul>
+</ul>
+<meta charset="utf-8"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/187383349275</id>
+      <title>Fitted sheet / Single/Twin</title>
+      <s:price currency="CAD">129.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/187383349275</id>
+      <title>Fitted sheet / Double</title>
+      <s:price currency="CAD">139.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/187383349275</id>
+      <title>Fitted sheet / Queen</title>
+      <s:price currency="CAD">149.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/187383349275</id>
+      <title>Fitted sheet / King</title>
+      <s:price currency="CAD">169.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/187383349275</id>
+      <title>Flat sheet / Single/Twin</title>
+      <s:price currency="CAD">129.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/187383349275</id>
+      <title>Flat sheet / Double</title>
+      <s:price currency="CAD">139.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/187383349275</id>
+      <title>Flat sheet / Queen</title>
+      <s:price currency="CAD">149.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/187383349275</id>
+      <title>Flat sheet / King</title>
+      <s:price currency="CAD">169.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/187383349275</id>
+      <title>Sheet set / Single/Twin</title>
+      <s:price currency="CAD">279.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/187383349275</id>
+      <title>Sheet set / Double</title>
+      <s:price currency="CAD">299.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/187383349275</id>
+      <title>Sheet set / Queen</title>
+      <s:price currency="CAD">329.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/187383349275</id>
+      <title>Sheet set / King</title>
+      <s:price currency="CAD">359.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.dreamdesigns.ca/products/187369324571</id>
+    <published>2017-09-03T14:08:00-07:00</published>
+    <updated>2017-09-03T14:08:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dreamdesigns.ca/products/mason-organic-cotton-sateen-sheets-sets"/>
+    <title>&quot;Mason&quot; organic cotton sateen sheets &amp; sets</title>
+    <s:type>Bed Linens</s:type>
+    <s:vendor>Dream Designs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0389/5989/products/Organic_cotton_sateen_mason_93c9d028-c088-4de2-a8ca-9442b5476115.jpg?v=1571438946"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dream Designs<br>
+        <strong>Type: </strong>Bed Linens<br>
+        <strong>Price: </strong>
+            129.00 - 359.00
+            <a href="https://www.dreamdesigns.ca/products/mason-organic-cotton-sateen-sheets-sets">(12 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">Made in Canada from 100% certified organic cotton sateen, lab tested non-toxic.  Machine wash in cold water with gentle detergent, line dry or tumble dry low.
+<ul>
+<li>Healthy</li>
+<li>Non toxic</li>
+<li>Hypoallergenic</li>
+<li>Eco-friendly</li>
+<li>Comfortable</li>
+<li>Breathable</li>
+<li>Durable</li>
+<li>250<span> </span>threadcount, ideal woven construction for softness and durability</li>
+<li>Crafted in-house in Canada by Dream Designs</li>
+<ul></ul>
+</ul>
+<p>Available in pillowcases, pillow shams, fitted sheets, flat sheets, sheet sets, duvet covers, and duvet cover sets.  </p>
+<p>Sheet set Includes 1 fitted sheet, 1 flat sheet, and 1 pair of standard pillowcases.  </p>
+<p>Duvet cover set i<span>ncludes 1 duvet cover and 1 pair of standard pillow shams.</span></p>
+<meta charset="utf-8">
+<p><span>Custom sizes available.  Please email us at </span><span>info@dreamdesigns.ca to inquire.</span></p>
+<meta charset="utf-8">
+<div style="padding-left: 30px;"></div>
+<ul>
+<ul></ul>
+</ul>
+<meta charset="utf-8"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/187369324571</id>
+      <title>Fitted sheet / Single/Twin</title>
+      <s:price currency="CAD">129.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/187369324571</id>
+      <title>Fitted sheet / Double</title>
+      <s:price currency="CAD">139.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/187369324571</id>
+      <title>Fitted sheet / Queen</title>
+      <s:price currency="CAD">149.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/187369324571</id>
+      <title>Fitted sheet / King</title>
+      <s:price currency="CAD">169.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/187369324571</id>
+      <title>Flat sheet / Single/Twin</title>
+      <s:price currency="CAD">129.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/187369324571</id>
+      <title>Flat sheet / Double</title>
+      <s:price currency="CAD">139.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/187369324571</id>
+      <title>Flat sheet / Queen</title>
+      <s:price currency="CAD">149.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/187369324571</id>
+      <title>Flat sheet / King</title>
+      <s:price currency="CAD">169.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/187369324571</id>
+      <title>Sheet set / Single/Twin</title>
+      <s:price currency="CAD">279.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/187369324571</id>
+      <title>Sheet set / Double</title>
+      <s:price currency="CAD">299.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/187369324571</id>
+      <title>Sheet set / Queen</title>
+      <s:price currency="CAD">329.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/187369324571</id>
+      <title>Sheet set / King</title>
+      <s:price currency="CAD">359.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.dreamdesigns.ca/products/187267219483</id>
+    <published>2017-09-03T14:08:00-07:00</published>
+    <updated>2017-09-03T14:08:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dreamdesigns.ca/products/blush-organic-cotton-sateen-pillow-cases-shams"/>
+    <title>&quot;Blush&quot; organic cotton sateen pillow cases &amp; shams</title>
+    <s:type>Bed Linens</s:type>
+    <s:vendor>Dream Designs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0389/5989/products/Organic_cotton_sateen_blush_449facc7-2cf8-42bf-98f5-d86c3710ca32.jpg?v=1571438946"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dream Designs<br>
+        <strong>Type: </strong>Bed Linens<br>
+        <strong>Price: </strong>
+            49.00 - 79.00
+            <a href="https://www.dreamdesigns.ca/products/blush-organic-cotton-sateen-pillow-cases-shams">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">Made in Canada from 100% certified organic cotton 250tc sateen, lab tested non-toxic.  Machine wash in cold water with gentle detergent, line dry or tumble dry low.
+<ul>
+<li>Healthy</li>
+<li>Non toxic</li>
+<li>Hypoallergenic</li>
+<li>Eco-friendly</li>
+<li>Comfortable</li>
+<li>Breathable</li>
+<li>Durable</li>
+<li>Crafted in-house in Canada by Dream Designs</li>
+<ul></ul>
+</ul>
+<p>Available in pillow cases, pillow shams, fitted sheets, flat sheets, sheet sets, duvet covers, and duvet cover sets.  Sheet set Includes 1 fitted sheet, 1 flat sheet, and 1 pair of pillow cases.  Duvet cover set i<span>ncludes 1 duvet cover and 1 pair of pillow shams.</span></p>
+<meta charset="utf-8">
+<p><span>Custom sizes available.  Please email us at info@dreamdesigns.ca to inquire.</span></p>
+<meta charset="utf-8">
+<div style="padding-left: 30px;"></div>
+<ul>
+<ul></ul>
+</ul>
+<meta charset="utf-8"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/187267219483</id>
+      <title>Pillow cases (pair) / Standard</title>
+      <s:price currency="CAD">49.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/187267219483</id>
+      <title>Pillow cases (pair) / Queen</title>
+      <s:price currency="CAD">54.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/187267219483</id>
+      <title>Pillow cases (pair) / King</title>
+      <s:price currency="CAD">59.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/187267219483</id>
+      <title>Pillow shams (pair) / Standard</title>
+      <s:price currency="CAD">69.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/187267219483</id>
+      <title>Pillow shams (pair) / Queen</title>
+      <s:price currency="CAD">74.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/187267219483</id>
+      <title>Pillow shams (pair) / King</title>
+      <s:price currency="CAD">79.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.dreamdesigns.ca/products/187254505499</id>
+    <published>2017-09-03T14:08:00-07:00</published>
+    <updated>2017-09-03T14:08:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dreamdesigns.ca/products/mason-organic-cotton-sateen-pillow-cases-shams"/>
+    <title>&quot;Mason&quot; organic cotton sateen pillow cases &amp; shams</title>
+    <s:type>Bed Linens</s:type>
+    <s:vendor>Dream Designs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0389/5989/products/Organic_cotton_sateen_mason_deb38795-7aeb-4b3d-a679-7324d0731353.jpg?v=1571438946"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dream Designs<br>
+        <strong>Type: </strong>Bed Linens<br>
+        <strong>Price: </strong>
+            49.00 - 79.00
+            <a href="https://www.dreamdesigns.ca/products/mason-organic-cotton-sateen-pillow-cases-shams">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">Made in Canada from 100% certified organic cotton 250tc sateen, lab tested non-toxic.  Machine wash in cold water with gentle detergent, line dry or tumble dry low.
+<ul>
+<li>Healthy</li>
+<li>Non toxic</li>
+<li>Hypoallergenic</li>
+<li>Eco-friendly</li>
+<li>Comfortable</li>
+<li>Breathable</li>
+<li>Durable</li>
+<li>Crafted in-house in Canada by Dream Designs</li>
+<ul></ul>
+</ul>
+<p>Available in pillow cases, pillow shams, fitted sheets, flat sheets, sheet sets, duvet covers, and duvet cover sets.  Sheet set Includes 1 fitted sheet, 1 flat sheet, and 1 pair of pillow cases.  Duvet cover set i<span>ncludes 1 duvet cover and 1 pair of pillow shams.</span></p>
+<meta charset="utf-8">
+<p><span>Custom sizes available.  Please email us at info@dreamdesigns.ca to inquire.</span></p>
+<meta charset="utf-8">
+<div style="padding-left: 30px;"></div>
+<ul>
+<ul></ul>
+</ul>
+<meta charset="utf-8"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/187254505499</id>
+      <title>Pillow cases (pair) / Standard</title>
+      <s:price currency="CAD">49.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/187254505499</id>
+      <title>Pillow cases (pair) / Queen</title>
+      <s:price currency="CAD">54.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/187254505499</id>
+      <title>Pillow cases (pair) / King</title>
+      <s:price currency="CAD">59.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/187254505499</id>
+      <title>Pillow shams (pair) / Standard</title>
+      <s:price currency="CAD">69.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/187254505499</id>
+      <title>Pillow shams (pair) / Queen</title>
+      <s:price currency="CAD">74.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/187254505499</id>
+      <title>Pillow shams (pair) / King</title>
+      <s:price currency="CAD">79.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.dreamdesigns.ca/products/187231600667</id>
+    <published>2017-09-03T14:08:00-07:00</published>
+    <updated>2017-09-03T14:08:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dreamdesigns.ca/products/mariner-organic-cotton-sateen-pillow-cases-shams"/>
+    <title>&quot;Mariner&quot; organic cotton sateen pillow cases &amp; shams</title>
+    <s:type>Bed Linens</s:type>
+    <s:vendor>Dream Designs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0389/5989/products/Organic_cotton_sateen_mariner_0c859c68-e71f-4188-bb93-d82155817218.jpg?v=1571438946"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dream Designs<br>
+        <strong>Type: </strong>Bed Linens<br>
+        <strong>Price: </strong>
+            49.00 - 79.00
+            <a href="https://www.dreamdesigns.ca/products/mariner-organic-cotton-sateen-pillow-cases-shams">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">Made in Canada from 100% certified organic cotton 250tc sateen, lab tested non-toxic.  Machine wash in cold water with gentle detergent, line dry or tumble dry low.
+<ul>
+<li>Healthy</li>
+<li>Non toxic</li>
+<li>Hypoallergenic</li>
+<li>Eco-friendly</li>
+<li>Comfortable</li>
+<li>Breathable</li>
+<li>Durable</li>
+<li>Crafted in-house in Canada by Dream Designs</li>
+<ul></ul>
+</ul>
+<p>Available in pillow cases, pillow shams, fitted sheets, flat sheets, sheet sets, duvet covers, and duvet cover sets.  Sheet set Includes 1 fitted sheet, 1 flat sheet, and 1 pair of pillow cases.  Duvet cover set i<span>ncludes 1 duvet cover and 1 pair of pillow shams.</span></p>
+<meta charset="utf-8">
+<p><span>Custom sizes available.  Please email us at info@dreamdesigns.ca to inquire.</span></p>
+<meta charset="utf-8">
+<div style="padding-left: 30px;"></div>
+<ul>
+<ul></ul>
+</ul>
+<meta charset="utf-8"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/187231600667</id>
+      <title>Pillow cases (pair) / Standard</title>
+      <s:price currency="CAD">49.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/187231600667</id>
+      <title>Pillow cases (pair) / Queen</title>
+      <s:price currency="CAD">54.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/187231600667</id>
+      <title>Pillow cases (pair) / King</title>
+      <s:price currency="CAD">59.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/187231600667</id>
+      <title>Pillow shams (pair) / Standard</title>
+      <s:price currency="CAD">69.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/187231600667</id>
+      <title>Pillow shams (pair) / Queen</title>
+      <s:price currency="CAD">74.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/187231600667</id>
+      <title>Pillow shams (pair) / King</title>
+      <s:price currency="CAD">79.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.dreamdesigns.ca/products/187214594075</id>
+    <published>2017-09-03T14:08:00-07:00</published>
+    <updated>2017-09-03T14:08:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dreamdesigns.ca/products/mason-organic-cotton-sateen-duvet-covers-sets"/>
+    <title>&quot;Mason&quot; organic cotton sateen duvet covers &amp; sets</title>
+    <s:type>Bed Linens</s:type>
+    <s:vendor>Dream Designs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0389/5989/products/Organic_cotton_sateen_mason.jpg?v=1571438946"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dream Designs<br>
+        <strong>Type: </strong>Bed Linens<br>
+        <strong>Price: </strong>
+            199.00 - 309.00
+            <a href="https://www.dreamdesigns.ca/products/mason-organic-cotton-sateen-duvet-covers-sets">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">Made in Canada from 100% certified organic cotton sateen, lab tested non-toxic.  Machine wash in cold water with gentle detergent, line dry or tumble dry low.
+<ul>
+<li>Healthy</li>
+<li>Non-toxic</li>
+<li>Hypoallergenic</li>
+<li>Eco-friendly</li>
+<li>Comfortable</li>
+<li>Breathable</li>
+<li>250 threadcount, ideal woven construction for softness and durability</li>
+<li>Crafted in-house in Canada by Dream Designs</li>
+<ul></ul>
+</ul>
+<p>Available in pillowcases, pillow shams, fitted sheets, flat sheets, sheet sets, duvet covers, and duvet cover sets.  </p>
+<p>Sheet set Includes 1 fitted sheet, 1 flat sheet, and 1 pair of standard pillowcases.  </p>
+<p>Duvet cover set i<span>ncludes 1 duvet cover and 1 pair of standard pillow shams.</span></p>
+<meta charset="utf-8">
+<p><span>Custom sizes available.  Please email us at </span><span>info@dreamdesigns.ca to inquire.</span></p>
+<meta charset="utf-8">
+<div style="padding-left: 30px;"></div>
+<ul>
+<ul></ul>
+</ul>
+<meta charset="utf-8"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/187214594075</id>
+      <title>Duvet cover / Single/Twin</title>
+      <s:price currency="CAD">199.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/187214594075</id>
+      <title>Duvet cover / Double</title>
+      <s:price currency="CAD">219.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/187214594075</id>
+      <title>Duvet cover / Queen</title>
+      <s:price currency="CAD">239.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/187214594075</id>
+      <title>Duvet cover / King</title>
+      <s:price currency="CAD">269.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/187214594075</id>
+      <title>Duvet cover set / Single/Twin</title>
+      <s:price currency="CAD">239.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/187214594075</id>
+      <title>Duvet cover set / Double</title>
+      <s:price currency="CAD">259.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/187214594075</id>
+      <title>Duvet cover set / Queen</title>
+      <s:price currency="CAD">279.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/187214594075</id>
+      <title>Duvet cover set / King</title>
+      <s:price currency="CAD">309.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.dreamdesigns.ca/products/187203944475</id>
+    <published>2017-09-03T14:08:00-07:00</published>
+    <updated>2017-09-03T14:08:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dreamdesigns.ca/products/blush-organic-cotton-sateen-duvet-covers-sets"/>
+    <title>&quot;Blush&quot; organic cotton sateen duvet covers &amp; sets</title>
+    <s:type>Bed Linens</s:type>
+    <s:vendor>Dream Designs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0389/5989/products/Organic_cotton_sateen_blush.jpg?v=1571438946"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dream Designs<br>
+        <strong>Type: </strong>Bed Linens<br>
+        <strong>Price: </strong>
+            199.00 - 309.00
+            <a href="https://www.dreamdesigns.ca/products/blush-organic-cotton-sateen-duvet-covers-sets">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">Made in Canada from 100% certified organic cotton sateen, lab tested non-toxic.  Machine wash in cold water with gentle detergent, line dry or tumble dry low.
+<ul>
+<li>Healthy</li>
+<li>Non toxic</li>
+<li>Hypoallergenic</li>
+<li>Eco-friendly</li>
+<li>Comfortable</li>
+<li>Breathable</li>
+<li>250 threadcount, ideal woven construction for softness and durability</li>
+<li>Crafted in-house in Canada by Dream Designs</li>
+<ul></ul>
+</ul>
+<p>Available in pillowcases, pillow shams, fitted sheets, flat sheets, sheet sets, duvet covers, and duvet cover sets.  </p>
+<p>Sheet set Includes 1 fitted sheet, 1 flat sheet, and 1 pair of <meta charset="utf-8"><span data-mce-fragment="1">standard size</span> pillowcases.  </p>
+<p>Duvet cover set i<span>ncludes 1 duvet cover and 1 pair of <meta charset="utf-8">standard size pillow shams.</span></p>
+<meta charset="utf-8">
+<p><span>Custom sizes available.  Please email us at </span><span>info@dreamdesigns.ca to inquire.</span></p>
+<meta charset="utf-8">
+<div style="padding-left: 30px;"></div>
+<ul>
+<ul></ul>
+</ul>
+<meta charset="utf-8"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/187203944475</id>
+      <title>Duvet cover / Single/Twin</title>
+      <s:price currency="CAD">199.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/187203944475</id>
+      <title>Duvet cover / Double</title>
+      <s:price currency="CAD">219.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/187203944475</id>
+      <title>Duvet cover / Queen</title>
+      <s:price currency="CAD">239.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/187203944475</id>
+      <title>Duvet cover / King</title>
+      <s:price currency="CAD">269.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/187203944475</id>
+      <title>Duvet cover set / Single/Twin</title>
+      <s:price currency="CAD">239.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/187203944475</id>
+      <title>Duvet cover set / Double</title>
+      <s:price currency="CAD">259.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/187203944475</id>
+      <title>Duvet cover set / Queen</title>
+      <s:price currency="CAD">279.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/187203944475</id>
+      <title>Duvet cover set / King</title>
+      <s:price currency="CAD">309.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.dreamdesigns.ca/products/187199914011</id>
+    <published>2017-09-03T14:08:00-07:00</published>
+    <updated>2017-09-03T14:08:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dreamdesigns.ca/products/mariner-organic-cotton-sateen-duvet-covers-sets"/>
+    <title>&quot;Mariner&quot; organic cotton sateen duvet covers &amp; sets</title>
+    <s:type>Bed Linens</s:type>
+    <s:vendor>Dream Designs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0389/5989/products/Organic_cotton_sateen_mariner.jpg?v=1571438946"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dream Designs<br>
+        <strong>Type: </strong>Bed Linens<br>
+        <strong>Price: </strong>
+            199.00 - 309.00
+            <a href="https://www.dreamdesigns.ca/products/mariner-organic-cotton-sateen-duvet-covers-sets">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">Made in Canada from 100% certified organic cotton sateen, lab tested non-toxic.  Machine wash in cold water with gentle detergent, line dry or tumble dry low.
+<ul>
+<li>Healthy</li>
+<li>Non-toxic</li>
+<li>Hypoallergenic</li>
+<li>Eco-friendly</li>
+<li>Comfortable</li>
+<li>Breathable</li>
+<li>250 threadcount, ideal woven construction for softness and durability</li>
+<li>Crafted in-house in Canada by Dream Designs</li>
+<ul></ul>
+</ul>
+<p>Available in pillowcases, pillow shams, fitted sheets, flat sheets, sheet sets, duvet covers, and duvet cover sets.  </p>
+<p>Sheet set Includes 1 fitted sheet, 1 flat sheet, and 1 pair of standard pillowcases.  </p>
+<p>Duvet cover set i<span>ncludes 1 duvet cover and 1 pair of standard pillow shams.</span></p>
+<meta charset="utf-8">
+<p><span>Custom sizes available.  Please email us at </span><span>info@dreamdesigns.ca to inquire.</span></p>
+<meta charset="utf-8">
+<div style="padding-left: 30px;"></div>
+<ul>
+<ul></ul>
+</ul>
+<meta charset="utf-8"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/187199914011</id>
+      <title>Duvet cover / Single/Twin</title>
+      <s:price currency="CAD">199.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/187199914011</id>
+      <title>Duvet cover / Double</title>
+      <s:price currency="CAD">219.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/187199914011</id>
+      <title>Duvet cover / Queen</title>
+      <s:price currency="CAD">239.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/187199914011</id>
+      <title>Duvet cover / King</title>
+      <s:price currency="CAD">269.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/187199914011</id>
+      <title>Duvet cover set / Single/Twin</title>
+      <s:price currency="CAD">239.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/187199914011</id>
+      <title>Duvet cover set / Double</title>
+      <s:price currency="CAD">259.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/187199914011</id>
+      <title>Duvet cover set / Queen</title>
+      <s:price currency="CAD">279.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/187199914011</id>
+      <title>Duvet cover set / King</title>
+      <s:price currency="CAD">309.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.dreamdesigns.ca/products/11812158671</id>
+    <published>2017-09-03T14:08:00-07:00</published>
+    <updated>2017-09-03T14:08:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dreamdesigns.ca/products/copy-of-seaglass-organic-cotton-sateen-fitted-sheet-flat-sheet-sheet-set"/>
+    <title>&quot;Seaglass&quot; organic cotton sateen sheets &amp; sets</title>
+    <s:type>Bed Linens</s:type>
+    <s:vendor>Dream Designs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0389/5989/products/Organic_cotton_sateen_seafoam_L_2934dc44-8a57-43a5-bb08-550097fad4da.jpg?v=1571438946"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dream Designs<br>
+        <strong>Type: </strong>Bed Linens<br>
+        <strong>Price: </strong>
+            129.00 - 359.00
+            <a href="https://www.dreamdesigns.ca/products/copy-of-seaglass-organic-cotton-sateen-fitted-sheet-flat-sheet-sheet-set">(12 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">Made in Canada from 100% certified organic cotton sateen, lab tested non-toxic.  Machine wash in cold water with gentle detergent, line dry or tumble dry low.
+<ul>
+<li>Healthy</li>
+<li>Non toxic</li>
+<li>Hypoallergenic</li>
+<li>Eco-friendly</li>
+<li>Comfortable</li>
+<li>Breathable</li>
+<li>Durable</li>
+<li>250<span> </span>threadcount, ideal woven construction for softness and durability</li>
+<li>Crafted in-house in Canada by Dream Designs</li>
+<ul></ul>
+</ul>
+<p>Available in pillowcases, pillow shams, fitted sheets, flat sheets, sheet sets, duvet covers, and duvet cover sets.  </p>
+<p>Sheet set Includes 1 fitted sheet, 1 flat sheet, and 1 pair of standard pillowcases.  </p>
+<p>Duvet cover set i<span>ncludes 1 duvet cover and 1 pair of standard pillow shams.</span></p>
+<meta charset="utf-8">
+<p><span>Custom sizes available.  Please email us at </span><span>info@dreamdesigns.ca to inquire.</span></p>
+<meta charset="utf-8">
+<div style="padding-left: 30px;"></div>
+<ul>
+<ul></ul>
+</ul>
+<meta charset="utf-8"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/11812158671</id>
+      <title>Fitted sheet / Single/Twin</title>
+      <s:price currency="CAD">129.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/11812158671</id>
+      <title>Fitted sheet / Double</title>
+      <s:price currency="CAD">139.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/11812158671</id>
+      <title>Fitted sheet / Queen</title>
+      <s:price currency="CAD">149.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/11812158671</id>
+      <title>Fitted sheet / King</title>
+      <s:price currency="CAD">169.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/11812158671</id>
+      <title>Flat sheet / Single/Twin</title>
+      <s:price currency="CAD">129.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/11812158671</id>
+      <title>Flat sheet / Double</title>
+      <s:price currency="CAD">139.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/11812158671</id>
+      <title>Flat sheet / Queen</title>
+      <s:price currency="CAD">149.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/11812158671</id>
+      <title>Flat sheet / King</title>
+      <s:price currency="CAD">169.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/11812158671</id>
+      <title>Sheet set / Single/Twin</title>
+      <s:price currency="CAD">279.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/11812158671</id>
+      <title>Sheet set / Double</title>
+      <s:price currency="CAD">299.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/11812158671</id>
+      <title>Sheet set / Queen</title>
+      <s:price currency="CAD">329.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/11812158671</id>
+      <title>Sheet set / King</title>
+      <s:price currency="CAD">359.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.dreamdesigns.ca/products/11812130383</id>
+    <published>2017-09-03T14:08:00-07:00</published>
+    <updated>2017-09-03T14:08:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dreamdesigns.ca/products/seaglass-organic-cotton-sateen-duvet-cover-duvet-cover-set"/>
+    <title>&quot;Seaglass&quot; organic cotton sateen duvet covers &amp; sets</title>
+    <s:type>Bed Linens</s:type>
+    <s:vendor>Dream Designs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0389/5989/products/Organic_cotton_sateen_seafoam_L_f9157a7c-f9b8-4ad1-bd8f-fc56003a009c.jpg?v=1571438946"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dream Designs<br>
+        <strong>Type: </strong>Bed Linens<br>
+        <strong>Price: </strong>
+            199.00 - 309.00
+            <a href="https://www.dreamdesigns.ca/products/seaglass-organic-cotton-sateen-duvet-cover-duvet-cover-set">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">Made in Canada from 100% certified organic cotton sateen, lab tested non-toxic.  Machine wash in cold water with gentle detergent, line dry or tumble dry low.
+<ul>
+<li>Healthy</li>
+<li>Non toxic</li>
+<li>Hypoallergenic</li>
+<li>Eco-friendly</li>
+<li>Comfortable</li>
+<li>Breathable</li>
+<li>250 threadcount, ideal woven construction for softness and durability</li>
+<li>Crafted in-house in Canada by Dream Designs</li>
+<ul></ul>
+</ul>
+<p>Available in pillowcases, pillow shams, fitted sheets, flat sheets, sheet sets, duvet covers, and duvet cover sets.  </p>
+<p>Sheet set Includes 1 fitted sheet, 1 flat sheet, and 1 pair of standard pillowcases.  </p>
+<p>Duvet cover set i<span>ncludes 1 duvet cover and 1 pair of standard pillow shams.</span></p>
+<meta charset="utf-8">
+<p><span>Custom sizes available.  Please email us at </span><span>info@dreamdesigns.ca to inquire.</span></p>
+<meta charset="utf-8">
+<div style="padding-left: 30px;"></div>
+<ul>
+<ul></ul>
+</ul>
+<meta charset="utf-8"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/11812130383</id>
+      <title>Duvet cover / Single/Twin</title>
+      <s:price currency="CAD">199.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/11812130383</id>
+      <title>Duvet cover / Double</title>
+      <s:price currency="CAD">219.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/11812130383</id>
+      <title>Duvet cover / Queen</title>
+      <s:price currency="CAD">239.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/11812130383</id>
+      <title>Duvet cover / King</title>
+      <s:price currency="CAD">269.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/11812130383</id>
+      <title>Duvet cover set / Single/Twin</title>
+      <s:price currency="CAD">239.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/11812130383</id>
+      <title>Duvet cover set / Double</title>
+      <s:price currency="CAD">259.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/11812130383</id>
+      <title>Duvet cover set / Queen</title>
+      <s:price currency="CAD">279.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/11812130383</id>
+      <title>Duvet cover set / King</title>
+      <s:price currency="CAD">309.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.dreamdesigns.ca/products/11787024783</id>
+    <published>2017-09-03T14:08:00-07:00</published>
+    <updated>2017-09-03T14:08:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dreamdesigns.ca/products/seafoam-organic-cotton-sateen-pillow-cases-shams"/>
+    <title>&quot;Seaglass&quot; organic cotton sateen pillow cases &amp; shams</title>
+    <s:type>Bed Linens</s:type>
+    <s:vendor>Dream Designs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0389/5989/products/Organic_cotton_sateen_seafoam_L.jpg?v=1571438946"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dream Designs<br>
+        <strong>Type: </strong>Bed Linens<br>
+        <strong>Price: </strong>
+            49.00 - 79.00
+            <a href="https://www.dreamdesigns.ca/products/seafoam-organic-cotton-sateen-pillow-cases-shams">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">Made in Canada from 100% certified organic cotton 250tc sateen, lab tested non-toxic.  Machine wash in cold water with gentle detergent, line dry or tumble dry low.
+<ul>
+<li>Healthy</li>
+<li>Non toxic</li>
+<li>Hypoallergenic</li>
+<li>Eco-friendly</li>
+<li>Comfortable</li>
+<li>Breathable</li>
+<li>Durable</li>
+<li>Crafted in-house in Canada by Dream Designs</li>
+<ul></ul>
+</ul>
+<p>Available in pillow cases, pillow shams, fitted sheets, flat sheets, sheet sets, duvet covers, and duvet cover sets.  Sheet set Includes 1 fitted sheet, 1 flat sheet, and 1 pair of pillow cases.  Duvet cover set i<span>ncludes 1 duvet cover and 1 pair of pillow shams.</span></p>
+<meta charset="utf-8">
+<p><span>Custom sizes available.  Please email us at info@dreamdesigns.ca to inquire.</span></p>
+<meta charset="utf-8">
+<div style="padding-left: 30px;"></div>
+<ul>
+<ul></ul>
+</ul>
+<meta charset="utf-8"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/11787024783</id>
+      <title>Pillow cases (pair) / Standard</title>
+      <s:price currency="CAD">49.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/11787024783</id>
+      <title>Pillow cases (pair) / Queen</title>
+      <s:price currency="CAD">54.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/11787024783</id>
+      <title>Pillow cases (pair) / King</title>
+      <s:price currency="CAD">59.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/11787024783</id>
+      <title>Pillow shams (pair) / Standard</title>
+      <s:price currency="CAD">69.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/11787024783</id>
+      <title>Pillow shams (pair) / Queen</title>
+      <s:price currency="CAD">74.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/11787024783</id>
+      <title>Pillow shams (pair) / King</title>
+      <s:price currency="CAD">79.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.dreamdesigns.ca/products/319773013</id>
+    <published>2017-03-06T11:26:00-08:00</published>
+    <updated>2017-03-06T11:26:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dreamdesigns.ca/products/violet-organic-cotton-sateen-duvet-cover"/>
+    <title>&quot;Violet&quot; Organic Cotton Sateen Duvet Cover</title>
+    <s:type>Bed Linens</s:type>
+    <s:vendor>Dream Designs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0389/5989/products/OCB_Violet1_44386fdd-eea1-447e-9244-f6053c425103.jpg?v=1571438942"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dream Designs<br>
+        <strong>Type: </strong>Bed Linens<br>
+        <strong>Price: </strong>
+            169.00 - 209.00
+            <a href="https://www.dreamdesigns.ca/products/violet-organic-cotton-sateen-duvet-cover">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Made in Canada from 100% certified organic cotton 280tc sateen, lab tested non-toxic.  Machine wash in cold water with gentle detergent, line dry or tumble dry low.</p>
+<ul>
+<li><span style="line-height: 1.2;">Healthy</span></li>
+<li><span style="line-height: 1.2;">Non toxic</span></li>
+<li><span style="line-height: 1.2;">Hypoallergenic</span></li>
+<li><span style="line-height: 1.2;">Eco-friendly</span></li>
+<li><span style="line-height: 1.2;">Comfortable</span></li>
+<li><span style="line-height: 1.2;">Breathable</span></li>
+<li><span style="line-height: 1.2;">Durable</span></li>
+<li><span style="line-height: 1.2;">Well made in Canada</span></li>
+</ul>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Made in Canada</s:tag>
+    <s:tag>organic cotton fitted sheet</s:tag>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/319773013</id>
+      <title>Twin</title>
+      <s:price currency="CAD">169.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/319773013</id>
+      <title>Double</title>
+      <s:price currency="CAD">179.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/319773013</id>
+      <title>Queen</title>
+      <s:price currency="CAD">189.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/319773013</id>
+      <title>King</title>
+      <s:price currency="CAD">209.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.dreamdesigns.ca/products/4159752836</id>
+    <published>2016-01-12T13:12:00-08:00</published>
+    <updated>2016-01-12T13:12:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dreamdesigns.ca/products/deep-pocket-sheet-organic-cotton-sateen-280tc-assorted-colour"/>
+    <title>Deep Pocket Sheet Organic Cotton Sateen 280tc Assorted Colour</title>
+    <s:type>Bed Linens</s:type>
+    <s:vendor>Dream Designs (Tax ID: 133893164)</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0389/5989/products/DreamDesigns-3605.jpg?v=1571438945"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dream Designs (Tax ID: 133893164)<br>
+        <strong>Type: </strong>Bed Linens<br>
+        <strong>Price: </strong>
+            139.00 - 189.00
+            <a href="https://www.dreamdesigns.ca/products/deep-pocket-sheet-organic-cotton-sateen-280tc-assorted-colour">(96 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Made in Canada in small batches from 100% certified organic cotton 280tc sateen, lab tested non-toxic.  Fit 18" depth mattress.  Due to the width of the fabric, some items may have seams in the middle.  Machine wash in cold water with gentle detergent, line dry or tumble dry low.</p>
+<div>
+<li><span>Healthy</span></li>
+<li><span>Non toxic</span></li>
+<li><span>Hypoallergenic</span></li>
+<li><span>Eco-friendly</span></li>
+<li><span>Comfortable</span></li>
+<li><span>Breathable</span></li>
+<li><span>Durable</span></li>
+<li><span>Well made in Canada</span></li>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4159752836</id>
+      <title>Fitted Sheet / Single / White</title>
+      <s:price currency="CAD">139.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4159752836</id>
+      <title>Fitted Sheet / Single / Natural</title>
+      <s:price currency="CAD">139.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4159752836</id>
+      <title>Fitted Sheet / Single / Berry</title>
+      <s:price currency="CAD">139.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4159752836</id>
+      <title>Fitted Sheet / Single / Midnight</title>
+      <s:price currency="CAD">139.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4159752836</id>
+      <title>Fitted Sheet / Single / Coal</title>
+      <s:price currency="CAD">139.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4159752836</id>
+      <title>Fitted Sheet / Single / Java</title>
+      <s:price currency="CAD">139.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4159752836</id>
+      <title>Fitted Sheet / Single / Paprika</title>
+      <s:price currency="CAD">139.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4159752836</id>
+      <title>Fitted Sheet / Single / Terra Cotta</title>
+      <s:price currency="CAD">139.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4159752836</id>
+      <title>Fitted Sheet / Single / Clove</title>
+      <s:price currency="CAD">139.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4159752836</id>
+      <title>Fitted Sheet / Single / Taupe</title>
+      <s:price currency="CAD">139.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4159752836</id>
+      <title>Fitted Sheet / Single / Dew</title>
+      <s:price currency="CAD">139.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4159752836</id>
+      <title>Fitted Sheet / Single / Lilac</title>
+      <s:price currency="CAD">139.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4159752836</id>
+      <title>Fitted Sheet / Double / White</title>
+      <s:price currency="CAD">149.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4159752836</id>
+      <title>Fitted Sheet / Double / Natural</title>
+      <s:price currency="CAD">149.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4159752836</id>
+      <title>Fitted Sheet / Double / Berry</title>
+      <s:price currency="CAD">149.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4159752836</id>
+      <title>Fitted Sheet / Double / Midnight</title>
+      <s:price currency="CAD">149.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4159752836</id>
+      <title>Fitted Sheet / Double / Coal</title>
+      <s:price currency="CAD">149.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4159752836</id>
+      <title>Fitted Sheet / Double / Java</title>
+      <s:price currency="CAD">149.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4159752836</id>
+      <title>Fitted Sheet / Double / Paprika</title>
+      <s:price currency="CAD">149.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4159752836</id>
+      <title>Fitted Sheet / Double / Terra Cotta</title>
+      <s:price currency="CAD">149.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4159752836</id>
+      <title>Fitted Sheet / Double / Clove</title>
+      <s:price currency="CAD">149.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4159752836</id>
+      <title>Fitted Sheet / Double / Taupe</title>
+      <s:price currency="CAD">149.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4159752836</id>
+      <title>Fitted Sheet / Double / Dew</title>
+      <s:price currency="CAD">149.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4159752836</id>
+      <title>Fitted Sheet / Double / Lilac</title>
+      <s:price currency="CAD">149.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4159752836</id>
+      <title>Fitted Sheet / Queen / White</title>
+      <s:price currency="CAD">169.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4159752836</id>
+      <title>Fitted Sheet / Queen / Natural</title>
+      <s:price currency="CAD">169.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4159752836</id>
+      <title>Fitted Sheet / Queen / Berry</title>
+      <s:price currency="CAD">169.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4159752836</id>
+      <title>Fitted Sheet / Queen / Midnight</title>
+      <s:price currency="CAD">169.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4159752836</id>
+      <title>Fitted Sheet / Queen / Coal</title>
+      <s:price currency="CAD">169.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4159752836</id>
+      <title>Fitted Sheet / Queen / Java</title>
+      <s:price currency="CAD">169.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4159752836</id>
+      <title>Fitted Sheet / Queen / Paprika</title>
+      <s:price currency="CAD">169.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4159752836</id>
+      <title>Fitted Sheet / Queen / Terra Cotta</title>
+      <s:price currency="CAD">169.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4159752836</id>
+      <title>Fitted Sheet / Queen / Clove</title>
+      <s:price currency="CAD">169.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4159752836</id>
+      <title>Fitted Sheet / Queen / Taupe</title>
+      <s:price currency="CAD">169.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4159752836</id>
+      <title>Fitted Sheet / Queen / Dew</title>
+      <s:price currency="CAD">169.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4159752836</id>
+      <title>Fitted Sheet / Queen / Lilac</title>
+      <s:price currency="CAD">169.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4159752836</id>
+      <title>Fitted Sheet / King / White</title>
+      <s:price currency="CAD">189.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4159752836</id>
+      <title>Fitted Sheet / King / Natural</title>
+      <s:price currency="CAD">189.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4159752836</id>
+      <title>Fitted Sheet / King / Berry</title>
+      <s:price currency="CAD">189.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4159752836</id>
+      <title>Fitted Sheet / King / Midnight</title>
+      <s:price currency="CAD">189.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4159752836</id>
+      <title>Fitted Sheet / King / Coal</title>
+      <s:price currency="CAD">189.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4159752836</id>
+      <title>Fitted Sheet / King / Java</title>
+      <s:price currency="CAD">189.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4159752836</id>
+      <title>Fitted Sheet / King / Paprika</title>
+      <s:price currency="CAD">189.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4159752836</id>
+      <title>Fitted Sheet / King / Terra Cotta</title>
+      <s:price currency="CAD">189.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4159752836</id>
+      <title>Fitted Sheet / King / Clove</title>
+      <s:price currency="CAD">189.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4159752836</id>
+      <title>Fitted Sheet / King / Taupe</title>
+      <s:price currency="CAD">189.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4159752836</id>
+      <title>Fitted Sheet / King / Dew</title>
+      <s:price currency="CAD">189.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4159752836</id>
+      <title>Fitted Sheet / King / Lilac</title>
+      <s:price currency="CAD">189.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4159752836</id>
+      <title>Flat Sheet / Single / White</title>
+      <s:price currency="CAD">139.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4159752836</id>
+      <title>Flat Sheet / Single / Natural</title>
+      <s:price currency="CAD">139.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4159752836</id>
+      <title>Flat Sheet / Single / Berry</title>
+      <s:price currency="CAD">139.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4159752836</id>
+      <title>Flat Sheet / Single / Midnight</title>
+      <s:price currency="CAD">139.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4159752836</id>
+      <title>Flat Sheet / Single / Coal</title>
+      <s:price currency="CAD">139.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4159752836</id>
+      <title>Flat Sheet / Single / Java</title>
+      <s:price currency="CAD">139.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4159752836</id>
+      <title>Flat Sheet / Single / Paprika</title>
+      <s:price currency="CAD">139.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4159752836</id>
+      <title>Flat Sheet / Single / Terra Cotta</title>
+      <s:price currency="CAD">139.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4159752836</id>
+      <title>Flat Sheet / Single / Clove</title>
+      <s:price currency="CAD">139.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4159752836</id>
+      <title>Flat Sheet / Single / Taupe</title>
+      <s:price currency="CAD">139.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4159752836</id>
+      <title>Flat Sheet / Single / Dew</title>
+      <s:price currency="CAD">139.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4159752836</id>
+      <title>Flat Sheet / Single / Lilac</title>
+      <s:price currency="CAD">139.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4159752836</id>
+      <title>Flat Sheet / Double / White</title>
+      <s:price currency="CAD">149.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4159752836</id>
+      <title>Flat Sheet / Double / Natural</title>
+      <s:price currency="CAD">149.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4159752836</id>
+      <title>Flat Sheet / Double / Berry</title>
+      <s:price currency="CAD">149.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4159752836</id>
+      <title>Flat Sheet / Double / Midnight</title>
+      <s:price currency="CAD">149.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4159752836</id>
+      <title>Flat Sheet / Double / Coal</title>
+      <s:price currency="CAD">149.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4159752836</id>
+      <title>Flat Sheet / Double / Java</title>
+      <s:price currency="CAD">149.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4159752836</id>
+      <title>Flat Sheet / Double / Paprika</title>
+      <s:price currency="CAD">149.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4159752836</id>
+      <title>Flat Sheet / Double / Terra Cotta</title>
+      <s:price currency="CAD">149.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4159752836</id>
+      <title>Flat Sheet / Double / Clove</title>
+      <s:price currency="CAD">149.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4159752836</id>
+      <title>Flat Sheet / Double / Taupe</title>
+      <s:price currency="CAD">149.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4159752836</id>
+      <title>Flat Sheet / Double / Dew</title>
+      <s:price currency="CAD">149.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4159752836</id>
+      <title>Flat Sheet / Double / Lilac</title>
+      <s:price currency="CAD">149.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4159752836</id>
+      <title>Flat Sheet / Queen / White</title>
+      <s:price currency="CAD">169.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4159752836</id>
+      <title>Flat Sheet / Queen / Natural</title>
+      <s:price currency="CAD">169.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4159752836</id>
+      <title>Flat Sheet / Queen / Berry</title>
+      <s:price currency="CAD">169.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4159752836</id>
+      <title>Flat Sheet / Queen / Midnight</title>
+      <s:price currency="CAD">169.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4159752836</id>
+      <title>Flat Sheet / Queen / Coal</title>
+      <s:price currency="CAD">169.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4159752836</id>
+      <title>Flat Sheet / Queen / Java</title>
+      <s:price currency="CAD">169.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4159752836</id>
+      <title>Flat Sheet / Queen / Paprika</title>
+      <s:price currency="CAD">169.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4159752836</id>
+      <title>Flat Sheet / Queen / Terra Cotta</title>
+      <s:price currency="CAD">169.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4159752836</id>
+      <title>Flat Sheet / Queen / Clove</title>
+      <s:price currency="CAD">169.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4159752836</id>
+      <title>Flat Sheet / Queen / Taupe</title>
+      <s:price currency="CAD">169.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4159752836</id>
+      <title>Flat Sheet / Queen / Dew</title>
+      <s:price currency="CAD">169.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4159752836</id>
+      <title>Flat Sheet / Queen / Lilac</title>
+      <s:price currency="CAD">169.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4159752836</id>
+      <title>Flat Sheet / King / White</title>
+      <s:price currency="CAD">189.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4159752836</id>
+      <title>Flat Sheet / King / Natural</title>
+      <s:price currency="CAD">189.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4159752836</id>
+      <title>Flat Sheet / King / Berry</title>
+      <s:price currency="CAD">189.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4159752836</id>
+      <title>Flat Sheet / King / Midnight</title>
+      <s:price currency="CAD">189.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4159752836</id>
+      <title>Flat Sheet / King / Coal</title>
+      <s:price currency="CAD">189.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4159752836</id>
+      <title>Flat Sheet / King / Java</title>
+      <s:price currency="CAD">189.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4159752836</id>
+      <title>Flat Sheet / King / Paprika</title>
+      <s:price currency="CAD">189.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4159752836</id>
+      <title>Flat Sheet / King / Terra Cotta</title>
+      <s:price currency="CAD">189.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4159752836</id>
+      <title>Flat Sheet / King / Clove</title>
+      <s:price currency="CAD">189.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4159752836</id>
+      <title>Flat Sheet / King / Taupe</title>
+      <s:price currency="CAD">189.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4159752836</id>
+      <title>Flat Sheet / King / Dew</title>
+      <s:price currency="CAD">189.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/4159752836</id>
+      <title>Flat Sheet / King / Lilac</title>
+      <s:price currency="CAD">189.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.dreamdesigns.ca/products/1516843396</id>
+    <published>2015-10-23T12:38:00-07:00</published>
+    <updated>2015-10-23T12:38:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dreamdesigns.ca/products/copy-of-organic-cotton-duvet-cover-set-bloom"/>
+    <title>Bloom Organic Cotton Duvet Cover Set</title>
+    <s:type>Bed Linens</s:type>
+    <s:vendor>Dream Designs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0389/5989/products/150923_DreamDesigns_009-Edit.jpg?v=1571438945"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dream Designs<br>
+        <strong>Type: </strong>Bed Linens<br>
+        <strong>Price: </strong>
+            79.00 - 479.00
+            <a href="https://www.dreamdesigns.ca/products/copy-of-organic-cotton-duvet-cover-set-bloom">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Made in Canada with certified organic cotton sateen.  Set including 1 duvet cover and 2 standard pillow shams (Maybe sold separately).  Machine wash in cold water, line dry or low heat in dryer.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/1516843396</id>
+      <title>Duvet Cover Set / Queen</title>
+      <s:price currency="CAD">479.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/1516843396</id>
+      <title>Duvet Cover Only / Queen</title>
+      <s:price currency="CAD">399.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/1516843396</id>
+      <title>Pillow Shams Only / Queen</title>
+      <s:price currency="CAD">79.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.dreamdesigns.ca/products/1935604228</id>
+    <published>2015-10-23T12:37:00-07:00</published>
+    <updated>2015-10-23T12:37:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dreamdesigns.ca/products/lush-organic-cotton-duvet-cover-set"/>
+    <title>Lush Organic Cotton Duvet Cover Set</title>
+    <s:type>Bed Linens</s:type>
+    <s:vendor>Dream Designs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0389/5989/products/150923_DreamDesigns_006-Edit.jpg?v=1571438945"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dream Designs<br>
+        <strong>Type: </strong>Bed Linens<br>
+        <strong>Price: </strong>
+            69.00 - 469.00
+            <a href="https://www.dreamdesigns.ca/products/lush-organic-cotton-duvet-cover-set">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Made in Canada with certified organic cotton sateen.  Set including 1 duvet cover and 2 standard pillow shams (Maybe sold separately).  Machine wash in cold water, line dry or low heat in dryer.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/1935604228</id>
+      <title>Duvet Cover Set / Single</title>
+      <s:price currency="CAD">449.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/1935604228</id>
+      <title>Duvet Cover Set / Double</title>
+      <s:price currency="CAD">469.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/1935604228</id>
+      <title>Duvet Cover Only / Single</title>
+      <s:price currency="CAD">379.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/1935604228</id>
+      <title>Duvet Cover Only / Double</title>
+      <s:price currency="CAD">389.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/1935604228</id>
+      <title>Pillow Shams Only / Single</title>
+      <s:price currency="CAD">69.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/1935604228</id>
+      <title>Pillow Shams Only / Double</title>
+      <s:price currency="CAD">69.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.dreamdesigns.ca/products/495083524</id>
+    <published>2015-04-27T11:28:00-07:00</published>
+    <updated>2015-04-27T11:28:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dreamdesigns.ca/products/organic-cotton-duvet-cover-set-paisley-print-1"/>
+    <title>&quot;Paisley&quot; Organic Cotton Duvet Cover Set</title>
+    <s:type>Bed Linens</s:type>
+    <s:vendor>Dream Designs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0389/5989/products/150923_DreamDesigns_001-Edit.jpg?v=1571438944"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dream Designs<br>
+        <strong>Type: </strong>Bed Linens<br>
+        <strong>Price: </strong>
+            69.00 - 349.00
+            <a href="https://www.dreamdesigns.ca/products/organic-cotton-duvet-cover-set-paisley-print-1">(12 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Made in Canada with certified organic cotton sateen.  Set including 1 duvet cover and 2 standard size pillow shams (Maybe sold separately).  Machine wash in cold water, line dry or low heat in dryer.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/495083524</id>
+      <title>Duvet Cover Set / Single</title>
+      <s:price currency="CAD">299.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/495083524</id>
+      <title>Duvet Cover Set / Double</title>
+      <s:price currency="CAD">319.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/495083524</id>
+      <title>Duvet Cover Set / Queen</title>
+      <s:price currency="CAD">329.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/495083524</id>
+      <title>Duvet Cover Set / King</title>
+      <s:price currency="CAD">349.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/495083524</id>
+      <title>Duvet Cover Only / Single</title>
+      <s:price currency="CAD">229.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/495083524</id>
+      <title>Duvet Cover Only / Double</title>
+      <s:price currency="CAD">239.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/495083524</id>
+      <title>Duvet Cover Only / Queen</title>
+      <s:price currency="CAD">249.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/495083524</id>
+      <title>Duvet Cover Only / King</title>
+      <s:price currency="CAD">269.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/495083524</id>
+      <title>Pillow Shams Only / Single</title>
+      <s:price currency="CAD">69.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/495083524</id>
+      <title>Pillow Shams Only / Double</title>
+      <s:price currency="CAD">69.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/495083524</id>
+      <title>Pillow Shams Only / Queen</title>
+      <s:price currency="CAD">79.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/495083524</id>
+      <title>Pillow Shams Only / King</title>
+      <s:price currency="CAD">89.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.dreamdesigns.ca/products/468461444</id>
+    <published>2015-04-27T11:28:00-07:00</published>
+    <updated>2015-04-27T11:28:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dreamdesigns.ca/products/copy-of-organic-cotton-duvet-cover-set-tribal-print"/>
+    <title>&quot;Tribal&quot; Organic Cotton Duvet Cover Set</title>
+    <s:type>Bed Linens</s:type>
+    <s:vendor>Dream Designs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0389/5989/products/150923_DreamDesigns_007-Edit.jpg?v=1571438944"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dream Designs<br>
+        <strong>Type: </strong>Bed Linens<br>
+        <strong>Price: </strong>
+            69.00 - 349.00
+            <a href="https://www.dreamdesigns.ca/products/copy-of-organic-cotton-duvet-cover-set-tribal-print">(12 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Made in Canada with certified organic cotton sateen.  Set including 1 duvet cover and 2 standard pillow shams (Maybe sold separately).  Machine wash in cold water, line dry or low heat in dryer.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/468461444</id>
+      <title>Duvet Cover Set / Single</title>
+      <s:price currency="CAD">299.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/468461444</id>
+      <title>Duvet Cover Set / Double</title>
+      <s:price currency="CAD">319.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/468461444</id>
+      <title>Duvet Cover Set / Queen</title>
+      <s:price currency="CAD">329.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/468461444</id>
+      <title>Duvet Cover Set / King</title>
+      <s:price currency="CAD">349.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/468461444</id>
+      <title>Duvet Cover Only / Single</title>
+      <s:price currency="CAD">229.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/468461444</id>
+      <title>Duvet Cover Only / Double</title>
+      <s:price currency="CAD">239.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/468461444</id>
+      <title>Duvet Cover Only / Queen</title>
+      <s:price currency="CAD">249.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/468461444</id>
+      <title>Duvet Cover Only / King</title>
+      <s:price currency="CAD">269.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/468461444</id>
+      <title>Pillow Shams Only / Single</title>
+      <s:price currency="CAD">69.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/468461444</id>
+      <title>Pillow Shams Only / Double</title>
+      <s:price currency="CAD">69.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/468461444</id>
+      <title>Pillow Shams Only / Queen</title>
+      <s:price currency="CAD">79.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/468461444</id>
+      <title>Pillow Shams Only / King</title>
+      <s:price currency="CAD">89.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.dreamdesigns.ca/products/355414377</id>
+    <published>2014-08-11T12:01:00-07:00</published>
+    <updated>2014-08-11T12:01:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dreamdesigns.ca/products/heartfelt-organic-bedding-collection"/>
+    <title>&quot;Heartfelt&quot; Organic Bedding Collection</title>
+    <s:type>Bed Linens</s:type>
+    <s:vendor>Dream Designs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0389/5989/products/Organic_cotton_bedding_clover_white.jpg?v=1571438944"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dream Designs<br>
+        <strong>Type: </strong>Bed Linens<br>
+        <strong>Price: </strong>
+            249.00 - 649.00
+            <a href="https://www.dreamdesigns.ca/products/heartfelt-organic-bedding-collection">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>An all organic cotton collection that is clean, bright and fun.  </p>
+<p><span style="line-height: 1.2;">All items are made in Canada with 100% organic cotton 280tc sateen.  Machine washable with mild detergent in cold water, line dry or tumble dry low. </span></p>
+<ul>
+<li><span style="line-height: 1.2; font-size: 14px;">Healthy</span></li>
+<li><span style="line-height: 1.2; font-size: 14px;">Non-toxic</span></li>
+<li><span style="line-height: 1.2; font-size: 14px;">Hypoallergenic</span></li>
+<li><span style="line-height: 1.2; font-size: 14px;">Eco-friendly</span></li>
+<li><span style="line-height: 1.2; font-size: 14px;">Comfortable</span></li>
+<li><span style="line-height: 1.2; font-size: 14px;">Breathable</span></li>
+<li><span style="line-height: 1.2; font-size: 14px;">Durable</span></li>
+<li><span style="line-height: 1.2; font-size: 14px;">Well made in Canada</span></li>
+</ul>
+<p><span><meta charset="utf-8">The pillowcases and shams are in <meta charset="utf-8">standard size.  Decorative cushions are sold separately.   </span> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Caribreeze Organic Cotton Bed Linens collection</s:tag>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/355414377</id>
+      <title>Queen / Duvet Cover Set (Duvet cover &amp; 2 pillow shams)</title>
+      <s:price currency="CAD">249.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/355414377</id>
+      <title>Queen / Sheet Set (Fitted sheet, flat sheet &amp; 2 pillow cases)</title>
+      <s:price currency="CAD">295.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/355414377</id>
+      <title>Queen / Sheet Set + Duvet Cover Set</title>
+      <s:price currency="CAD">539.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/355414377</id>
+      <title>King / Duvet Cover Set (Duvet cover &amp; 2 pillow shams)</title>
+      <s:price currency="CAD">279.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/355414377</id>
+      <title>King / Sheet Set (Fitted sheet, flat sheet &amp; 2 pillow cases)</title>
+      <s:price currency="CAD">379.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/355414377</id>
+      <title>King / Sheet Set + Duvet Cover Set</title>
+      <s:price currency="CAD">649.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.dreamdesigns.ca/products/327059129</id>
+    <published>2014-06-06T16:26:00-07:00</published>
+    <updated>2014-06-06T16:26:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dreamdesigns.ca/products/coal-organic-cotton-sateen-sheet-set"/>
+    <title>&quot;Coal&quot; Organic Cotton Sateen Sheet Set</title>
+    <s:type>Bed Linens</s:type>
+    <s:vendor>Dream Designs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0389/5989/products/OCB_Coal1_c95c69a8-3bfd-40ff-a10d-294d2521005c.jpg?v=1571438944"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dream Designs<br>
+        <strong>Type: </strong>Bed Linens<br>
+        <strong>Price: </strong>
+            229.00 - 339.00
+            <a href="https://www.dreamdesigns.ca/products/coal-organic-cotton-sateen-sheet-set">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Made in Canada from 100% certified organic cotton 280tc sateen, lab tested non-toxic.  Sheet set includes a fitted sheet, a flat sheet, and two standard pillow cases.  Machine wash in cold water with gentle detergent, line dry or tumble dry low.</p>
+<div>
+<li><span>Healthy</span></li>
+<li><span>Non toxic</span></li>
+<li><span>Hypoallergenic</span></li>
+<li><span>Eco-friendly</span></li>
+<li><span>Comfortable</span></li>
+<li><span>Breathable</span></li>
+<li><span>Durable</span></li>
+<li><span>Well made in Canada</span></li>
+</div>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Made in Canada</s:tag>
+    <s:tag>organic cotton sateen sheet set</s:tag>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/327059129</id>
+      <title>Twin</title>
+      <s:price currency="CAD">229.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/327059129</id>
+      <title>Double</title>
+      <s:price currency="CAD">269.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/327059129</id>
+      <title>Queen</title>
+      <s:price currency="CAD">295.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dreamdesigns.ca/products/327059129</id>
+      <title>King</title>
+      <s:price currency="CAD">339.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>
